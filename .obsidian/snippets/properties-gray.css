@@ -1,0 +1,27 @@
+/* Gray Properties (frontmatter metadata) panel — toggle on in Settings → Appearance → CSS snippets */
+
+:root {
+  --prop-color: #8a8f98;  /* gray for property keys & values */
+}
+
+/* Property key (left labels) */
+.metadata-property-key,
+.metadata-property-key-input,
+.metadata-property .metadata-property-key-input input {
+  color: var(--prop-color) !important;
+}
+
+/* Property values (right side) */
+.metadata-property-value,
+.metadata-property-value .multi-select-pill-content,
+.metadata-property input,
+.metadata-property .metadata-input-longtext {
+  color: var(--prop-color) !important;
+}
+
+/* The "Add property" / container icons */
+.metadata-properties-heading,
+.metadata-add-button,
+.metadata-property-icon {
+  color: var(--prop-color) !important;
+}

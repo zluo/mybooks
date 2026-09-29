@@ -1,0 +1,22 @@
+/* Light mode → slightly gray body text + more line/letter spacing
+   Toggle on in Settings → Appearance → CSS snippets. Dark theme untouched. */
+
+.theme-light {
+  --text-normal: #4a4f57;   /* soft dark gray instead of near-black */
+  --text-muted:  #6b7079;
+}
+
+/* Spacing — applies in both reading view and editor */
+.markdown-preview-view,
+.markdown-rendered,
+.cm-s-obsidian .cm-line {
+  line-height: 1.8 !important;     /* space between lines */
+  letter-spacing: 0.02em !important; /* space between letters */
+}
+
+/* Light-mode text color over stubborn themes */
+.theme-light .markdown-preview-view,
+.theme-light .markdown-rendered,
+.theme-light .cm-s-obsidian .cm-line {
+  color: var(--text-normal) !important;
+}

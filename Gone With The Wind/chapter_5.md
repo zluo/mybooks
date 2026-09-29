@@ -53,13 +53,7 @@ she wear to the barbecue?
 还不等舞会开始，她和阿希礼早已动身到琼斯博罗结婚去了.
 伤脑筋的是一她该穿什么衣服去参加这野宴呢？
 
-What dress would best set off her charms and make her most
-irresistible to Ashley?  Since eight o'clock she had been trying
-on and rejecting dresses, and now she stood dejected and irritable
-in lace pantalets, linen corset cover and three billowing lace and
-linen petticoats.  Discarded garments lay about her on the floor,
-the bed, the chairs, in bright heaps of color and straying
-ribbons.
+What dress would best set off her charms and make her most irresistible to Ashley?  Since eight o'clock she had been trying on and rejecting dresses, and now she stood dejected and irritable in lace pantalets, linen corset cover and three billowing lace and linen petticoats.  Discarded garments lay about her on the floor, the bed, the chairs, in bright heaps of color and straying ribbons.
 　　穿什么衣服才能最显出她的魅力，让阿希礼见了就着迷呢？她从八点钟起就一直在试衣服，穿一件扔一件.
 现在她只穿着镶花边的长裤，亚麻胸衣，三层波浪形花边的亚麻衬裙，她垂头丧气地站着，心情烦躁.
 地板上、床上、椅子上，到处都是五颜六色的一堆堆扔掉的衣服和凌乱的缎带.

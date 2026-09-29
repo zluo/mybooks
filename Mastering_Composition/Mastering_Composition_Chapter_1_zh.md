@@ -5,7 +5,7 @@ tags:
 ---
 
 # 1 Chapter 1  
-## 1.1 Visual Perception 视觉感知
+## 1 Visual Perception 视觉感知
 
 A fundamental understanding of the various processes that take place when we look around us—or indeed look at a photograph—is an important foundation for our appreciation of some of the basic principles of composition in photography that we shall encounter.
 
@@ -35,15 +35,14 @@ There is no simple answer to the question of where our eyes fi rst focus when pr
 
 > 对这个问题的答案并没有那么简单，当我们面对一个场景或一张图片时，我们的眼睛首先聚焦在哪里。呈现图像的方式可能是其中的一个因素。例如，在查看幻灯片时，我们会从上一张图片中感兴趣的位置开始观看新一帧画面。一般来说，
 
-![](books/Mastering_Composition/image/_page_15_Picture_4.jpeg)
 
 Above: Our attention is more likely to be caught by a scene such as this than the same scene with two darker kittens. I have capitalized on this by clarifying the tonal difference by converting the image to monochrome apart from the faces of the kittens.
 
 > 上方：我们的注意力更有可能被这样的场景所吸引，而不是两个较深色的小猫的相同场景。我通过将图像转换为仅在小猫脸上保持原色彩的单色调来利用这一点，以此增强了明暗对比。
 
-![](books/Mastering_Composition/image/_page_16_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_16_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_16_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_16_Picture_1.jpeg)
 
 Left & Above: Due to our tendency to perceive twodimensional images as representing physical space, the amount of room we leave around our subject matter will affect the feeling conveyed. Cropping this image tightly emphasizes the cramped "prison" of these hunting dogs in Greece. It makes the dogs and the viewer seem even more confi ned.
 
@@ -53,7 +52,7 @@ speaking, our eyes tend to be drawn to the area of a scene with high contrast (a
 
 > 在视觉上，我们往往会将注意力吸引到场景中对比度高的区域（该部分景物之间的明暗差异大）或色彩对比强烈的地方。我们更倾向于关注较亮的色调和某些颜色。我们还会被那些记忆、知识或经验告诉我们可能包含有用信息的部分所吸引——例如人脸、路牌或是文字等。
 
-### 1.1.1 Looking for Clues 寻找线索
+### 1.1 Looking for Clues 寻找线索
 
 Cognitive psychology endeavors to study the processes of our perception. Of interest to us here are the theories of visual information processing based on the idea that an image consists of hierarchical levels of form. In the case of a portrait, for example, the subject matter can be broken down into head and face as higher levels of form, and the constituent parts of eyes, nostrils, ears, and so on as lower levels. We routinely perceive and recognize faces that are known to us from a few simple visual cues. Even some of the constituent features when isolated can elicit the same response as the sight of the complete subject, as in the case of a caricature. Our brains actively fi t perceptual characteristics to the shapes and patterns that our eyes see.
 
@@ -69,7 +68,7 @@ lower-order components facilitates their subsequent synthesis into the higher-or
 > 或者，这个处理也可以以一种“自下而上”的方式完成，在这种情况下，需要首先识别的是
 > 较低阶的组件有助于随后将其合成为较高阶的形式。这可能涉及匹配形式与存储在我们记忆中的模板的过程。
 
-### 1.1.2 Visual Processing 视觉处理
+### 1.2 Visual Processing 视觉处理
 
 Other factors such as the familiarity, complexity, and expected probability of appearance of a form infl uence the speed at which a form is recognized, but there is some debate as to which of these modes of processing prevails. Electophysiological analysis of "receptive fi elds" seemed to suggest a bottom-up mode, but more recently it has been suggested that the order of visual processing is best described as a top-down process. There are even some studies to support the implication that our processing does not occur consistently in either a top-down or bottom-up mode, but in a "middle-out" way.
 
@@ -83,7 +82,7 @@ Visual attention—the process whereby something catches our eye in the real wor
 
 > 视觉注意——我们在现实世界或图像中看到某样东西的过程——通常被论证为是一个主要自下而上的过程。当我们漫步穿过一片草地时，吸引我们注意力的是一朵红色的花，并非因为我们事先知道那朵花在那里，而是因为这朵花本身的红色及其向我们的视觉刺激发出的自动化响应。因此，在我们考虑组成时相关的感知过程的一部分确实是相对自动和即时的。然而，也可以包含在自上而下的方式中完成的照片构成和“阅读”照片的元素。这些包括更深入思考、经过计算、解释以及判断性的方面。
 
-### 1.1.3 Understanding & Meaning 理解与意义
+### 1.3 Understanding & Meaning 理解与意义
 
 Behind all the visual perceptive processes involved in examining a scene or picture is a desire to establish understanding and meaning. So, it is perhaps not surprising that we derive pleasure from viewing a work of art when its composition aligns nicely with these processes and provides us with a rewarding insight.
 
@@ -109,17 +108,17 @@ Left & Above: With this shot, the temptation might be to crop tightly for a more
 
 > 左边和上方：在拍摄这张照片时，可能会有诱惑力去紧缩画面以获得更加私密的人物肖像（最左面），或者稍微剪裁掉照片的左侧（左边）。然而，更宽广的画面（上方）能给予观众更多的空间感，从而向他们传达更多关于纳米比亚这个地点的信息。
 
-## 1.2 Related Principles 相关原则
+## 2 Related Principles 相关原则
 
 ![](books/Mastering_Composition/image/_page_19_Picture_1.jpeg)
 
-### 1.2.1 Rule of Space 空间法则
+### 2.1 Rule of Space 空间法则
 
 Related to the sense of physical space that we glean from a photograph is a rule that most of us are familiar with—that of "nose room" (also termed "leading space," "lead room," or the "rule of space"), which states that a subject should have "active" space to move into in the direction that they are facing. We can, of course, opt to break this to create some tension or a sense of the subject being confi ned or restricted in some way.
 
 > 与我们从照片中获得的对物理空间的感觉相关的，是一个大多数人熟悉的规则——"留白原则"（也称为“领空”、“前导空间”或“空间法则”），该规则指出，主题应该有“活跃”的空间可以向他们面对的方向移动。当然，我们可以选择打破这一规则来创造一些紧张感或让主体感觉被限制在某种方式中。
 
-### 1.2.2 Visual Intelligence 视觉智能
+### 2.2 Visual Intelligence 视觉智能
 
 Through our photography we can purposefully manipulate the viewer by playing on the tendency we have to retain a sense of three-dimensionality, and by further understanding the processes of our "visual intelligence." This intelligence involves the application of knowledge and experience of the physical world to abstracted phenomena (such as a photograph) to derive meaning, usually in accordance with established norms of our species. As we shall see, it not only incorporates interpretations based on the culturally influenced meaning of symbols, signs, and icons, but also the influences from our individual expectations and past experiences together with our needs.
 > 通过我们的摄影，我们可以通过利用人们倾向于保留三维感知的倾向来有目的地操控观众，并进一步理解我们的"视觉智能"的过程。这种智能涉及将对物理世界的知识和经验应用于抽象现象（如照片）以提取意义，通常遵循我们普遍接受的标准。正如我们将看到的，它不仅整合了基于符号、标志和图象的文化影响意义的解释，而且还包括我们个人期望、过往经历以及需求对我们共同理解的影响。
@@ -136,7 +135,7 @@ Left: The wake behind the swimming coot reinforces the direction the bird is mov
 
 ![](_page_20_Picture_3.jpeg)
 
-## 1.3 Gestalt Theory 姿态理论
+## 3 Gestalt Theory 姿态理论
 
 ![](books/Mastering_Composition/image/_page_21_Picture_1.jpeg)
 
@@ -174,7 +173,7 @@ Above: The relationship between the various elements in this image—the man, hi
 
 > 上图：这张图片中的各个元素之间的关系，包括这个人、他的车辆、装箱的农产品以及他的鞋子，向我们揭示了在希腊享受午睡的街头摊贩的故事，远比单独从这些组成部分或是以不同的排列组合中所获取的信息更为丰富。
 
-### 1.3.1 The Law of Prägnanz 原则性法则
+### 3.1 The Law of Prägnanz 原则性法则
 
 Another fundamental principle of Gestalt Theory is the Law of Prägnanz, which states that our psychological processes attempt to make order, harmony, symmetry, simplicity, and structure out of what initially might appear as seemingly disconnected bits of information (or "chaos"). For example, because we tend to relate what we see
 
@@ -190,7 +189,7 @@ our gestalts are also constructed from the societal and cultural infl uences tha
 
 ![](books/Mastering_Composition/image/_page_23_Picture_0.jpeg)
 
-### 1.3.2 The Six Principles 六项原则
+### 3.2 The Six Principles 六项原则
 
 Following on from these fundamental observations, Gestalt Theory went on to attempt to refi ne them and further describe how the mind tends to organize visual data. Observations were made regarding how we identify subject matter within the fi eld of a picture, focusing our awareness upon it. Also described were our tendencies to perceive relationships between distinct elements from which we can derive meaning and order. To this end, six principles have been identifi ed as Figure/Ground; Similarity; Proximity; Closure; Continuity; and Symmetry. These are illustrated on the following pages.
 
@@ -198,7 +197,7 @@ Following on from these fundamental observations, Gestalt Theory went on to atte
 
 这些原则帮助我们理解了大脑是如何将视觉信息进行组织的，以及我们在观察和解释复杂环境中的事物时，如何简化和归纳信息。通过遵循格式塔理论的原则，我们可以更好地理解和分析视觉数据，从而在设计、艺术、心理学等领域中有更深入的理解和应用。
 
-#### 1.3.2.1 Figure/Ground 图形/背景
+#### 3.2.1 Figure/Ground 图形/背景
 
 We have a tendency to separate whole figures from their backgrounds based on variables such as contrast, sharpness, color, size, and so on.
 
@@ -228,7 +227,7 @@ Left: The classic "vase or two faces" image illustrates the concept of "fi gure/
 
 ![](books/Mastering_Composition/image/_page_25_Picture_0.jpeg)
 
-#### 1.3.2.2 Similarity 相似性
+#### 3.2.2 Similarity 相似性
 
 We have a tendency to see things that share visual characteristics such as shape, size, color, tone, texture, or value as belonging together. That separate objects in a picture belong together or are related in some way appears to be a pleasing conclusion for the viewer to come to. Many "pattern" images rely on this and involve arrangements of elements that are the same or share enough in common to be perceived as being related. We also derive pleasure from identifying the odd one out in these sorts of pattern image that also include an element that
 
@@ -282,7 +281,7 @@ Above: These black-faced impala lined up drinking provide a good example of how 
 
 ![](books/Mastering_Composition/image/_page_29_Picture_0.jpeg)
 
-#### 1.3.2.3 Proximity 接近度
+#### 3.2.3 Proximity 接近度
 
 We have a tendency to perceive objects or shapes that are close to one another as belonging to the same group. Even if the shapes, sizes, and objects are radically different, they will tend to appear as a group if they are close together. On account of this "grouping" effect, the collective presence of a set of elements can become more meaningful and evident than their presence as separate elements. Elements grouped together can therefore create the illusion of a composite shape in space, even if the elements are not touching. An example would be an image of
 
@@ -300,7 +299,7 @@ Above: Regardless of their radically different colors, we still group these beac
 
 > 上面：尽管它们的颜色有天壤之别，但我们仍然将这些海滩小屋聚集在一起，因为它们的位置、形状和排列方式非常接近。集体形成了使照片产生效果的收敛线。
 
-#### 1.3.2.4 Closure封闭
+#### 3.2.4 Closure封闭
 
 Our brain has a tendency to "fill in the gaps" and provide missing details to complete a potential pattern or shape. Once resultant "closure" is achieved, unnecessary details are eliminated to further establish a pattern match. Thus we can tend to see complete figures even when part of the information is missing. For example, we will tend to enclose a space by completing a contour and ignoring the gaps in the figure.
 
@@ -342,7 +341,7 @@ Left & Above: Our tendency to continue contours can also be made good use of by 
 
 > 左上方：我们倾向于继续轮廓线的趋势，也可以通过使用结果的“向量”（如上图所示）来引导观众的目光至场景中的兴趣点。
 
-#### 1.3.2.5 Continuity 连续性
+#### 3.2.5 Continuity 连续性
 
 This is very much related to the previous principle. It is the observation that we tend to continue contours (and thus shapes) whenever the elements of the pattern strongly establish and imply a direction for our minds to continue them. The edge of one shape can be perceived as continuing into the space and meeting up with other shapes or even the edge of the picture plane. We can make good use of this in our photography to suggest relationships between separate elements of subject matter or to lead the viewer on a path of discovery through the photograph.
 
@@ -352,7 +351,7 @@ Lines and shapes out there in the world are not always as we want them to be per
 
 > 这个世界上的线条和形状并不总是如我们希望它们被感知的那样，但幸运的是，由于这种倾向，在观看照片时，我们往往会忽略一些小的中断和缺陷。
 
-#### 1.3.2.6 Symmetry 对称性
+#### 3.2.6 Symmetry 对称性
 
 We have a tendency to try to organize visual data to make it as symmetrical, stable, simple, regular, consistent, structured, and ordered as possible.
 
@@ -376,17 +375,17 @@ Right: Although this image of a street in southern France is quite complex in te
 
 > 正确：尽管这张法国南部街道的照片在色调和建筑物细节方面相当复杂，但由于我所处位置的对称性，其解读变得相对容易。拍摄时机也确保了唯一的人物位于中心，并处于一个能够使其在背景中突出的位置。
 
-## 1.4 Associated Phenomena  相关现象
+## 4 Associated Phenomena  相关现象
 
 ![](books/Mastering_Composition/image/_page_33_Picture_1.jpeg)
 
-### 1.4.1 Equivocation & Continuance 含混与延续性
+### 4.1 Equivocation & Continuance 含混与延续性
 
 Gestalts can lead to a variety of phenomena. They can result in perceptual ambiguity (termed equivocation) where a picture can be seen in two or more ways. Alternatively they can encourage us to make connections between similar components and phenomena in an image to construct a timeline through the elements. This gives us the impression that they create a sequence (termed continuance).
 
 > 形态学可以导致各种现象。它们可能导致感知上的二义性（称为歧义），一张图片可以以两种或更多种方式被理解。或者，它们可以鼓励我们将图像中相似的组件和现象联系起来，通过元素构建时间线，从而给我们一种他们创造序列的印象（被称为连续性）。
 
-### 1.4.2 Constancy & Invariance  常性和不变性
+### 4.2 Constancy & Invariance  常性和不变性
 
 Gestalts can also result in the phenomenon of "scale constancy"—two cars in an image, one 100m away and one only 10m away, are both perceived as cars.
 
@@ -398,7 +397,7 @@ There is also a related concept of "color constancy" the grass on a lawn in a ph
 
 ![](books/Mastering_Composition/image/_page_34_Picture_0.jpeg)
 
-### 1.4.3 The Law of Past Experience 前次經驗法則
+### 4.3 The Law of Past Experience 前次經驗法則
 
 Gestalt Theory also defi ned other associated phenomena and principles with some degree of relevance to us. One such is the Law of Past Experience, which suggests that under some circumstances visual stimuli are categorized according to past experience.
 
@@ -408,13 +407,13 @@ Elements tend to be grouped if they were often together in the past experience o
 
 > 元素倾向于被分组，如果在过去观察者的体验中它们经常在一起出现，特别是如果这些视觉经验之间的时间间隔较短。
 
-### 1.4.4 Emergence 发生
+### 4.4 Emergence 发生
 
 Emergence is the process whereby we suddenly perceive what the subject is: the zebra in the image on page 31 is suddenly recognized and perceived as a whole, all at once.
 
 > 涌现是我们在突然间认识到主题是什么的过程：页面31上的图像中的斑马突然被识别并一次性感知为一个整体。
 
-### 1.4.5 Reification 重分化
+### 4.5 Reification 重分化
 
 Reification describes the constructive and generative tendency of our perceptual processes, whereby we perceive shapes and objects that are not there, such as the triangle in the earlier example (see page 31).
 
@@ -426,13 +425,13 @@ Above: Scale constancy can help create a sense of depth as in this image of a pi
 
 在这个翻译中，“Scale constancy”被理解为“比例恒定”，用来描述人们感知相似尺度物体在视觉上的距离差异，以此来创造深度感。在翻译时，我保留了原文的专业术语，并将其译为中文对应的表达方式。“Swanage, United Kingdom”作为地点信息直接进行了翻译。整体结构和逻辑关系保持与原句一致。
 
-### 1.4.6 Multistability 多稳定性
+### 4.6 Multistability 多稳定性
 
 Multistability is about our tendency to switch back and forth between two possible perceived images when there is ambiguity between them—the "vase or two faces" image on page 25 is a case in point.
 
 > 多稳定现象指的是当我们面临两种可能感知图像的模糊性时，倾向于在两者之间来回切换的习惯——以第25页上的“花瓶或两张脸”图像为例。
 
-## 1.5 Perception in Practice 实践中的感知
+## 5 Perception in Practice 实践中的感知
 
 在这个部分，我们将探讨如何在实际应用中理解和使用感知的概念。感知不仅是一个理论性的概念，在日常生活、人类行为和机器学习等领域都有广泛的应用。了解如何将感知原理应用于具体情境，可以帮助我们更好地理解周围的世界以及我们的决策过程。接下来，我们会讨论一些关键的实践要点，包括感知的主观性、感知与现实之间的差异、以及如何利用感知在不同场景下做出有效的判断。
 
@@ -446,12 +445,12 @@ Multistability is about our tendency to switch back and forth between two possib
 
 ![](books/Mastering_Composition/image/_page_35_Picture_1.jpeg)
 
-### 1.5.1 Ordering Images 图像的 
+### 5.1 Ordering Images 图像的 
 For our purposes, all of the psychological principles and the related phenomena previously described are potentially relevant when we come to construct a photograph. Furthermore, it is interesting to consider how these psychological processes are relevant not only to our presenting a single image to the outside world, but also when we show grouped images in exhibitions, albums, or slideshows. In these situations, the relationship between separate images can be just as important as the merits of each photograph considered individually. You may choose to order and arrange the images in such a way that effectively supports the transference of the message you hoped to convey throughout the project.
 
 > 为了我们的目的，之前描述的心理原理和相关现象在我们构建一张照片时都可能是相关的。此外，考虑这些心理过程不仅对我们在向外界展示单个图像时至关重要，而且当我们在展览、相册或幻灯片放映中显示一组图片时也是如此。在这种情况下，单独图片之间的关系可能与每张照片本身的价值同样重要。您可能会选择以一种有效的方式组织和排列图片，以便在项目过程中将您希望传达的信息转移出去。
 
-### 1.5.2 Guiding the Eye 引导视线
+### 5.2 Guiding the Eye 引导视线
 
 To close this chapter let me stress the importance of acknowledging the likely journey that the viewer's eye will take through the image. For example, it may be that positioning the subject at the right of the frame may engage the viewer for longer, since most of the readers of this book are likely to be used to reading from left to right when confronted with a two-dimensional graphic (perhaps this would be different for those used to reading Arabic).
 

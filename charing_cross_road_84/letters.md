@@ -3,7 +3,6 @@ tags:
   - book
   - literature
 ---
-
 aurore 『2019.05.03』
 ====================
 Not until we embrace the wintry weather with snowflakes dancing and our bodies shuddering will we feel our throbbing hearts and the tenderness beneath.

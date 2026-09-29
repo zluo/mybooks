@@ -4,10 +4,11 @@ tags:
   - art
 ---
 
+## 1 [[Mastering_Composition_Chapter_1_zh]]
 
-## 1 **Chapter 2** 第二章
+## 2 **Chapter 2** 第二章
 
-# 1 Principles, Rules & Guidelines 基本原则、规则及指南
+### 2.1 Principles, Rules & Guidelines 基本原则、规则及指南
 
 This chapter aims to cover some of the insights gleaned through history that are now at our disposal as photographers and can help us to divide the picture space and position elements within it. Let's turn fi rstly to a few rules based on simple geometric principles, including ones identifi ed by Greek mathematicians and various Renaissance artists.
 
@@ -17,14 +18,13 @@ This chapter aims to cover some of the insights gleaned through history that are
 
 > 右：我花了一些时间调整三脚架上相机的高度，最终确定了这个构图位置。将风车和远处的岛屿作为地平线上的两个主导元素进行平衡似乎很重要。这个角度同时也让风车的轮廓在晴朗的天空中更加清晰。
 
-![](books/Mastering_Composition/image/_page_37_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_37_Picture_4.jpeg)
 
-![](books/Mastering_Composition/image/_page_38_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_38_Picture_0.jpeg)
 
 ![](_page_39_Picture_0.jpeg)
 
-### 0.1 Rabatment of the Rectangle 矩形的折返
-
+### 2.2 Rabatment of the Rectangle 矩形的折返
 This is a simple compositional technique used as an aid for the placement of objects or the division of space within a rectangular frame. The principle is that every rectangle contains two implied squares based on the short sides of the rectangle. The process of mentally rotating the short sides onto the long ones is called "rabatment," and often the imaginary fourth line that is created producing each square is called "the rabatment." It has been argued that often a pleasing result can be obtained by positioning a key element or line along the rabatment.
 
 > 这是一种简单的构图技巧，用于帮助在矩形画框内安排物体或划分空间。其原理是，每个矩形都包含两个基于矩形短边的隐含正方形。将矩形的短边在心理上旋转到长边的过程称为“拉巴特法”，而通常为每个正方形所创建的想象中的第四条线也被称为“拉巴特线”。有人认为，通过将关键元素或线条沿着拉巴特线放置，往往可以获得令人愉悦的效果。
@@ -37,11 +37,11 @@ It may be that squares are such a simple, primal geometric shape that the brain 
 
 > 或许正方形如此简单、原始的几何形状，大脑会自动寻找它们，并试图补全这种形状。当构图利用场景中的元素来匹配能够补全正方形的线条时，正方形自身显得完整，从而在观察时产生和谐与满足感。
 
-![](books/Mastering_Composition/image/_page_39_Picture_5.jpeg)
+![](/Mastering_Composition/image/_page_39_Picture_5.jpeg)
 
-![](books/Mastering_Composition/image/_page_40_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_40_Picture_0.jpeg)
 
-#### 0.1.1 The Rule of Thirds 三分法
+#### 2.2.1 The Rule of Thirds 三分法
 
 John Thomas Smith, painter, engraver, and antiquarian, fi rst wrote down this longstanding "rule" in 1797. The principle is that the frame is imagined as being split into thirds both horizontally and vertically. Points of interest are then placed on the thirds lines that create these divisions, or at one of the points where the lines meet (the "intersection of thirds"). Of course, more than one element in the image may be placed accordingly, and these lines also tend to be good positions to place any strong lines in the scene including the horizon.
 
@@ -51,11 +51,11 @@ Above & Right: Quite a lot in this image of a weaver bird perched on a branch co
 
 > 上方及右侧：这幅织布鸟停驻在枝条上的画面中，有许多元素符合三分法的规则。除了鸟自身的构图位置外，它所停驻的枝条部分也位于三分线上。鸟的视线形成了一条向右延伸的“视觉线”，几乎完成了由三分线所构成的中心“方框”。
 
-![](books/Mastering_Composition/image/_page_40_Figure_4.jpeg)
+![](/Mastering_Composition/image/_page_40_Figure_4.jpeg)
 
-![](books/Mastering_Composition/image/_page_41_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_41_Picture_0.jpeg)
 
-#### 0.1.2 The Golden Mean 黄金分割
+#### 2.2.2 The Golden Mean 黄金分割
 
 This compositional device has many names ("The Golden Mean," "Golden Ratio," "Golden/Medial Section," or "Divine Section/Proportion"), but is based on the observation that planes or lines divided according to a specifi ed proportion are supposedly more aesthetically pleasing and harmonious. A line of length c is divided into two parts, a and b, whereby the ratio of a:b is the same as the ratio of b:c. As we have seen, this ratio approximates 1:1.618.
 
@@ -79,13 +79,13 @@ Application of the Golden Ratio can also give rise to the concept of a "Dynamic 
 
 ![](_page_41_Picture_7.jpeg)
 
-![](books/Mastering_Composition/image/_page_42_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_42_Picture_0.jpeg)
 
 Above & Right: The cropping of this image of a black-headed weaver bird starting to build its nest has resulted in the lines of the bird's body and the branch dividing the frame into similar triangles with a pleasing result.
 
 > 上方及右侧：这张黑头织雀开始筑巢的图像经过裁剪后，鸟的身体线条与树枝将画面分割成相似的三角形，呈现出令人愉悦的效果。
 
-![](books/Mastering_Composition/image/_page_42_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_42_Picture_2.jpeg)
 
 from corner to corner and the other from one of the other corners to the fi rst line meeting it at a 90-degree angle. If the rectangle is of appropriate proportions, the point of intersection is at the Golden Mean of the oblique line.
 
@@ -99,15 +99,15 @@ Finally, the Golden Ratio can give rise to the concept of the Golden Rectangle. 
 
 > 最终，黄金分割可以引出黄金矩形的概念。这是一种具有这种比例（大约8:5）的矩形，如果将其分成一个正方形和一个较小的矩形，这种分割会在黄金分割比例处发生，形成的线条看起来是放置重要元素的理想位置。
 
-![](books/Mastering_Composition/image/_page_43_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_43_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_43_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_43_Picture_1.jpeg)
 
 Left & Above: Spirals where the coils "open out" or expand at an ever-increasing rate as you follow them outwards from their centers are frequently seen in the natural world. Many, such as that of this snail shell, approximate the Golden Spiral, and allowing the eye to follow their course is rewarding.
 
 > 左上方：在自然界中常见一种螺旋，其螺旋结构在从中心向外延伸时，以越来越快的速度展开。许多这样的螺旋，例如蜗牛壳的螺旋，近似黄金螺旋。引导视线跟随其轨迹，会带来愉悦的视觉体验。
 
-## 1 The Golden Spiral 黄金螺旋
+## 3 The Golden Spiral 黄金螺旋
 
 This is like the spiral we see if we cut a section through a snail's shell. It is not an uncommon spiral in the natural world. It also has a relationship to the Golden Ratio—it is a logarithmic spiral whose growth factor is related to the Golden Ratio.
 
@@ -117,7 +117,7 @@ Again, elements or lines can be placed on or aligned to follow this line. It wou
 
 > 同样，元素或线条可以放置在或对齐以跟随这条线。然而，这可能需要你有一个清晰的螺旋图像在脑海中，并进行大量细致的规划，以主动将元素融入你的照片中，使其符合这种设计。然而，无论如何，你环境中现成的这种螺旋 certainly 值得留意。
 
-#### 1.1.1 The Diagonal Method 对角线构图法
+#### 3.1.1 The Diagonal Method 对角线构图法
 
 Edwin Westhoff discovered this method whilst doing some research in relation to the Rule of Thirds. He noticed that artists were intuitively tending to place details of importance on bisection lines derived from dividing each of the 90-degree corners of a piece of work into two equal 45-degree angles.
 
@@ -151,7 +151,7 @@ Above: A number of key elements appear to align themselves with the diagonals in
 
 > 上方：在螳螂清理其前肢爪的特写镜头中，眼睛、口器和前肢尖端等关键元素似乎沿着对角线排列。
 
-#### 1.1.2 Other Considerations 其他注意事项
+#### 3.1.2 Other Considerations 其他注意事项
 
 However, despite the many and varied principles and "rules," we should take care not to get too obsessed with applying them, as repeated use could lead to predictability in our work. Instead, it is worth holding them in the back of our minds and experimenting with their application, particularly when we are learning the ropes. Furthermore, it's important to acknowledge that there are plenty of other factors to take into account in our quest for good compositions.
 
@@ -169,11 +169,11 @@ Unlike painters, we rarely have the freedom to position elements precisely where
 
 > 与画家不同，我们很少有机会将元素精确地安排在自己想要的位置上，因此我们所做的大部分工作都涉及到妥协。正如大卫·贝利曾经所说：“成为一名摄影师需要大量的想象力。成为一名画家所需的想象力则较少，因为你可以创造事物。但在摄影中，一切都很普通；只有经过大量观察，你才能看到非凡之处。”
 
-# 2 Visual Weight 视觉重量
+## 4 Visual Weight 视觉重量
 
-![](books/Mastering_Composition/image/_page_45_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_45_Picture_1.jpeg)
 
-![](books/Mastering_Composition/image/_page_45_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_45_Picture_2.jpeg)
 
 Hopefully you will by now be actively considering the relationships between and proportions of various elements in the picture space as well as their positioning. Particularly important here is the concept of "visual weight." Sometimes this term is used to describe how much an element within a picture tends to draw the viewer's eye. Something with high visual weight will draw attention strongly to itself, while simultaneously detracting attention from the rest of the image;
 
@@ -188,7 +188,6 @@ However, the term can also be used to describe the impression of actual weight t
 > 然而，该术语也可用来描述元素所呈现出的实际重量的印象。由于我们体验到重力，我们往往会无意识地假设画面中的不同元素可能有下落的倾向——甚至云朵也带有某种...
 
 Above left: A typical portrait with head and shoulders centered in the frame.
-
 > 左上方：一幅典型的肖像照，头肩居中于画面。
 
 Above: The gaze and eyes of this orang-utan are what this portrait is about, so the face is precisely centered in the frame with a square crop to enhance the symmetry.
@@ -199,7 +198,7 @@ this "visual weight." Our sense of balance profoundly infl uences our reaction t
 
 > 这种“视觉重量”。我们对平衡的感知深刻地影响着我们对视觉图像的反应以及我们追求均衡的渴望，这解释了我们为何在所见的一切中都寻求平衡。
 
-#### 0.1.1 Center of Gravity 构图重心
+#### 4.1.1 Center of Gravity 构图重心
 
 The center of gravity for entire compositions is often at the center of the frame, so the obvious way to create balance in an image is to place the subject in the middle of the photograph. The center is the combination of all forces: it has the highest pull toward it, but once there the elements are stable. As our eye will travel to a subject placed at the heart of the image and stop there, this can be an effective ploy particularly in portraiture.
 
@@ -213,7 +212,7 @@ Instead, we will often elect to position the key element away from the center, b
 
 > 相反，我们通常会选择将关键元素放置在中心之外的位置，但离中心越远，观众就越可能寻找这种布局的合理性。这种合理性通常来自于主体与其他画面元素之间的关系，包括这些元素如何通过它们的视觉重量相互平衡。一般来说，似乎将元素偏离轴线越远，其视觉重量也会越大，因此，想象一个天平，将元素放置在……
 
-![](books/Mastering_Composition/image/_page_46_Picture_5.jpeg)
+![](/Mastering_Composition/image/_page_46_Picture_5.jpeg)
 
 ![](_page_46_Picture_6.jpeg)
 
@@ -225,7 +224,7 @@ The concept of visual weight tends to manifest particularly in the horizontal pl
 
 > 视觉重量的概念在水平方向上尤为明显，尤其是左右失衡会令人感到不安。它同样在垂直方向上起作用，但程度较轻。这可能是因为即使在二维图像中，人们仍保留了对深度的感知。
 
-#### 0.1.2 Right & Left 右与左
+#### 4.1.2 Right & Left 右与左
 
 Also of interest here is that various symbolic attributes have been associated with the right and left sides of pictures. These do not appear to relate to the right and left hemispheres in the brain or handedness, but rather to the way we read text. For those of us who read left to right, for example, the left half of the picture plane tends to signify "the past, defi nition, nearby, and real/actual/tangible." The right side by contrast symbolizes "the future, the undefi ned, far away, freedom, and the not-specifi c." Hence movement suggested within a picture toward the right is seen as being toward the future.
 
@@ -241,35 +240,42 @@ Above & Below: It can be an interesting experiment to reverse a carefully balanc
 
 > 上方与下方：将精心平衡的构图（上方）进行翻转，可以成为一个有趣的实验。在这种情况下，我认为大多数人会感觉将尖石向右移动（下方）会让画面显得过于沉重，破坏了画面的平衡。
 
-![](books/Mastering_Composition/image/_page_47_Picture_7.jpeg)
+![](/Mastering_Composition/image/_page_47_Picture_7.jpeg)
 
-#### 0.1.3 **WEIGHT FACTORS** 权重因素
+#### 4.1.3 **WEIGHT FACTORS** 权重因素
 
 An element's weight depends on a host of factors:
-
-> 元素的分量取决于诸多因素：
+元素的分量取决于诸多因素：
 
 - All else being equal, a larger element will be heavier than a smaller one.
-- Different colors appear to carry different weights. Red, for example, is heavier than blue. Brighter colors also tend to be heavier so, as when arranging fl owers, we may have to consider which colors we choose to include in our arrangement; the overall proportions of the different colors; and how we spread, group, or intersperse them with other colors.
+ > 在其他条件相同的情况下，较大的元素会比较小的元素具有更大的视觉重量。  
+ 
+- Different colors appear to carry different weights. Red, for example, is heavier than blue. Brighter colors also tend to be heavier so, as when arranging flowers, we may have to consider which colors we choose to include in our arrangement; the overall proportions of the different colors; and how we spread, group, or intersperse them with other colors.
+
+>不同颜色会呈现出不同的视觉重量。例如，红色比蓝色具有更大的视觉重量。更明亮的颜色也倾向于具有更大的视觉重量，因此在布置花艺时，我们可能需要考虑所选用的颜色；不同颜色之间的整体比例；以及如何将它们与其他颜色分布、分组或交错排列。  
+
 - An element will appear heavier if its shape is regular and simple, if its form appears compact and if it is vertically oriented.
+> 如果一个元素的形状规则且简单，其形态显得紧凑且呈垂直方向排列，那么它会显得更重。  
+
 - Tone is also a factor: a black element must be larger than a white one to counterbalance it. This may partly be due to the "glow" around light objects that makes them appear larger.
+> 色调也是影响因素之一：一个黑色元素必须比白色元素更大，才能达到平衡。这可能部分源于光线物体周围的“光晕”效果，使它们看起来更大。  
+- 
 - The position within the picture plane is important, not just the offset from the central axis. Elements toward the right of the image carry more visual weight than those to the left. This may be related to the direction we read text, so have some cultural conditioning. In societies where we read from left to right, we have a tendency to identify with a subject on the left more so than with one on the right. Elements on the left will appear closer and less heavy than those on the right because we feel psychologically closer to the left. To create a sense of balance, we may need to place disproportionately heavier elements on the left.
+> 画面平面中的位置也很重要，不仅限于与中心轴的偏移。图像右侧的元素比左侧的元素具有更大的视觉重量。这可能与我们阅读文字的方向有关，因此具有一定的文化习惯影响。在从左到右阅读的国家中，我们通常更容易与图像左侧的主体产生认同感。由于心理上更接近左侧，左侧的元素会显得更近且更轻，而右侧的元素则显得更重。为了实现平衡，我们可能需要在左侧放置比例上更重的元素。  
+
 - A unit in the foreground has less apparent weight than the same unit in the distance. Units near the top of an image tend to be perceived as heavier.
+> 前景中的单位比相同单位在背景中显得重量更轻。图像顶部的单位通常会被感知为更重。
+
 - A unit in a relatively empty space has more weight on account of its isolation.
+> 相对空旷空间中的单位由于孤立而具有更大的重量。  
+
 - A unit contrasting strongly with its surroundings will carry more weight. The amount of contrasting space around it will also affect its weight.
+> 与周围环境形成强烈对比的单位会具有更大的重量。其周围对比空间的多少也会影响其重量。  
+
 - An element that has more "interest" will also appear heavier.
+> 具有更多“趣味性”的元素也会显得更重。
 
-> 在其他条件相同的情况下，较大的元素会比较小的元素具有更大的视觉重量。  
-不同颜色会呈现出不同的视觉重量。例如，红色比蓝色具有更大的视觉重量。更明亮的颜色也倾向于具有更大的视觉重量，因此在布置花艺时，我们可能需要考虑所选用的颜色；不同颜色之间的整体比例；以及如何将它们与其他颜色分布、分组或交错排列。  
-如果一个元素的形状规则且简单，其形态显得紧凑且呈垂直方向排列，那么它会显得更重。  
-色调也是影响因素之一：一个黑色元素必须比白色元素更大，才能达到平衡。这可能部分源于光线物体周围的“光晕”效果，使它们看起来更大。  
-画面平面中的位置也很重要，不仅限于与中心轴的偏移。图像右侧的元素比左侧的元素具有更大的视觉重量。这可能与我们阅读文字的方向有关，因此具有一定的文化习惯影响。在从左到右阅读的国家中，我们通常更容易与图像左侧的主体产生认同感。由于心理上更接近左侧，左侧的元素会显得更近且更轻，而右侧的元素则显得更重。为了实现平衡，我们可能需要在左侧放置比例上更重的元素。  
-前景中的单位比相同单位在背景中显得重量更轻。图像顶部的单位通常会被感知为更重。  
-相对空旷空间中的单位由于孤立而具有更大的重量。  
-与周围环境形成强烈对比的单位会具有更大的重量。其周围对比空间的多少也会影响其重量。  
-具有更多“趣味性”的元素也会显得更重。
-
-![](books/Mastering_Composition/image/_page_48_Picture_11.jpeg)
+![](/Mastering_Composition/image/_page_48_Picture_11.jpeg)
 
 Above & Below: In theory, for those of us who read left to right, the running of the dog toward the left should be perceived as being more challenging for both dog and for us. See what you think.
 
@@ -277,27 +283,23 @@ Above & Below: In theory, for those of us who read left to right, the running of
 
 ![](_page_48_Picture_13.jpeg)
 
-![](books/Mastering_Composition/image/_page_49_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_49_Picture_0.jpeg)
 
-#### 0.1.4 A Question of Balance
-
-> 2.1.1.4 平衡的探讨
+### 4.2 A Question of Balance 平衡的探讨
 
 Because of all the factors of visual weight, we can see how a small object might be balanced by a large one, a light one by a dark one, and a negative space by a visually full space. With regard to the latter, in an extreme example we may have a situation where there's a visual element on one side of a picture while the other side may appear pictorially empty. In this case the reason for including the negative space would probably be for balance alone. Space without detail may possess some weight because suggestion or implication has imparted some "attraction or interest" to it.
 
 > 由于视觉重量的各种因素，我们可以看到，一个较小的物体可能通过一个较大的物体来达到平衡，一个较轻的物体可能通过一个较暗的物体来达到平衡，而负空间也可能通过一个视觉上充实的空间来达到平衡。就后者而言，在极端的例子中，我们可能会遇到这样的情况：画面的一侧存在视觉元素，而另一侧则可能显得画面空虚。在这种情况下，加入负空间的原因很可能只是为了平衡。即使没有细节的空间也可能具有一定的重量，因为暗示或暗示性已赋予它某种程度的“吸引力或趣味性”。
 
-![](books/Mastering_Composition/image/_page_49_Picture_3.jpeg)
+![](/Mastering_Composition/image/_page_49_Picture_3.jpeg)
 
 Above & Top: In this minimalist seascape the lofty brooding clouds in an otherwise featureless sky carefully balance the dark shape of the landmass.
 
 > 上方与顶部：在这幅极简风格的海景中，高耸阴郁的云层在原本空旷的天空中，巧妙平衡着陆地轮廓的深色形状。
 
-![](books/Mastering_Composition/image/_page_50_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_50_Picture_0.jpeg)
 
-#### 0.1.5 Off-Center Elements
-
-> 2.1.1.5 偏离中心的元素
+### 4.3 Off-Center Elements 偏离中心的元素
 
 As we can see, placing elements off-center in the frame gives us the opportunity to work with the concept of visual balance. Perhaps also due to our quest for balance, odd numbers of individuals in group photos often work best. This is an interpretation of the "Rule of Odds," which states that an odd number of subjects in an image is more pleasing than an even number. This is partly because even numbers produce symmetries that can appear less natural.
 
@@ -319,7 +321,7 @@ Above: In this photograph, a small, very dark element the island—is balanced b
 
 > 上方：在这张照片中，岛是一个小而非常暗的元素，其右侧被开放的或“负空间”所平衡。
 
-#### 0.1.6 Pyramid Form
+#### 4.3.1 Pyramid Form
 
 > 2.1.1.6 金字塔构图
 
@@ -331,11 +333,11 @@ A further ploy is to create equilibrium by grouping several elements on a common
 
 > 另一种手法是通过将多个元素沿着共同轴线进行组合，以创造平衡。例如，在一幅宁静的风景中，我们可能会看到重要的元素以平衡的方式沿地平线排列。
 
-#### 0.1.7 *TIP*
+#### 4.3.2 *TIP*
 
 > 2.1.1.7 技巧
 
-#### 0.1.8 **AN EXERCISE IN COMPOSITION**
+#### 4.3.3 **AN EXERCISE IN COMPOSITION**
 
 > 2.1.1.8 构图练习
 
@@ -347,9 +349,9 @@ Below: Balancing groups of similar elements may not come solely down to their nu
 
 > 下方：平衡相似元素的群体不一定仅仅取决于其数量。在此例中，我觉得天鹅群以中央的天鹅为中心形成了一种不错的平衡，仿佛一群即将逼近的“舰队”环绕着它。右侧有四只天鹅，左侧有五只，但画面中天鹅的相对大小无疑也是考量因素，特别是因为构图在很大程度上依赖于两种对比色调。此外，主导天鹅的凝视方向也可能是影响因素，有些人可能会认为画面的精确中心位于两只中央天鹅之间。
 
-![](books/Mastering_Composition/image/_page_51_Picture_7.jpeg)
+![](/Mastering_Composition/image/_page_51_Picture_7.jpeg)
 
-#### 0.1.9 Points of Attraction
+#### 4.3.4 Points of Attraction
 
 > 2.1.1.9 吸引点
 
@@ -371,15 +373,15 @@ Above: Any small, simple shape can act as a point of attraction, drawing the eye
 
 > 上方：任何小而简单的形状都可以作为视觉焦点，强烈吸引视线向其集中。
 
-![](books/Mastering_Composition/image/_page_52_Picture_6.jpeg)
+![](/Mastering_Composition/image/_page_52_Picture_6.jpeg)
 
 Right: An example of an image where an object, in this case the distant boat, is small enough and distinct enough in tone to actively draw the eye. The path and lead-in lines also take the eye there with the open gate acting as a symbolic invitation to the viewer to enter the scene and make the journey.
 
 > 右图：一幅图像的例子，其中物体（在此为远处的小船）足够小，并且在色调上足够鲜明，从而能够主动吸引观者的视线。画面中的路径与引导线也引导视线到达那里，开放的门则作为象征性的邀请，引导观者进入画面并开始这段旅程。
 
-![](books/Mastering_Composition/image/_page_53_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_53_Picture_0.jpeg)
 
-#### 0.1.10 A Fine Balance
+#### 4.3.5 A Fine Balance
 
 > 2.1.1.10 精妙的平衡
 
@@ -395,9 +397,9 @@ curve of the banana it appears to be connected to and embraced by the banana, wh
 
 > 香蕉的曲线，它似乎与香蕉相连并被其环绕，而将其放置在香蕉曲线之外则给人一种被排斥和排斥的感觉。画面的角落和中心似乎在某种程度上也起到“磁铁”的作用，进一步增加了我们在画面中平衡元素的难度。在细节上
 
-![](books/Mastering_Composition/image/_page_53_Picture_5.jpeg)
+![](/Mastering_Composition/image/_page_53_Picture_5.jpeg)
 
-![](books/Mastering_Composition/image/_page_54_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_54_Picture_0.jpeg)
 
 analyses of compositions interpretation of these lines of pull can get very complex with various axes and vectors being proposed. Fortunately we all have our own inbuilt meter for measuring balance—our "gut feeling." We tend to instinctively know when something feels balanced, but it is necessary to listen to this and use this meter as we set up our photos.
 
@@ -421,7 +423,7 @@ Left: The fi xed component of this scene in Namibia was the dramatic sand dune p
 
 > 左：纳米比亚此场景中的固定元素是那座壮观的沙丘，它构成了背景。我等待着那只单独的跳羚从右侧缓缓进入画面，幸运的是，这一时刻恰好与远处的科里 bustard 出现在羚羊和树之间的开阔地带同时发生。
 
-### 0.2 Overriding Factors
+### 4.4 Overriding Factors
 
 > 2.1.2 主导因素
 
@@ -433,7 +435,7 @@ Right: In busy scenes such as this in the Sultanahmet region of Istanbul, there 
 
 > 右侧：在伊斯坦布尔苏丹艾哈迈特地区这样的繁忙场景中，存在大量移动且瞬时的构图因素，包括色彩、形状以及元素间的眼神交流等变量。在这种情况下，你只能先连拍几张，之后再从中挑选出最佳的折中方案。
 
-![](books/Mastering_Composition/image/_page_56_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_56_Picture_4.jpeg)
 
 # 3 Picture Formats & Proportions
 
@@ -441,7 +443,7 @@ Right: In busy scenes such as this in the Sultanahmet region of Istanbul, there 
 
 ![](_page_57_Picture_1.jpeg)
 
-![](books/Mastering_Composition/image/_page_57_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_57_Picture_2.jpeg)
 
 Having considered the arrangement of elements within a space, let us now turn to the issue of formats and the proportions of the space itself. The frame of an image can be considered as a further "element" in the picture, at least in terms of its impact on other elements and their consequent arrangement. Indeed the orientation (vertical/portrait or horizontal/landscape) and the proportions of the frame will have their own subconscious impact on the viewer.
 
@@ -479,7 +481,7 @@ The 4:3 ratio is now increasingly popular, with many consumer digital cameras be
 
 > 4:3比例如今日益流行，许多消费级数码相机都采用这种比例。其优势在于它符合许多显示器和打印纸张的尺寸。此外，还有略微压缩的5:4比例，它提供了另一种相对常见的标准。
 
-![](books/Mastering_Composition/image/_page_58_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_58_Picture_0.jpeg)
 
 #### 0.1.2 **HORIZONTAL OR VERTICAL?**
 
@@ -509,7 +511,7 @@ Left: Height was the message to be conveyed here, together with the juxtapositio
 
 > 左：这里传达的信息是高度，同时通过将教堂与远处的山进行并置，其“白色尖顶”模仿了远处的山峦。长焦镜头通过提供更紧凑的构图，有助于实现这种并置效果。
 
-![](books/Mastering_Composition/image/_page_59_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_59_Picture_0.jpeg)
 
 #### 0.1.3 Panoramic Views
 
@@ -577,7 +579,7 @@ Of course, most photographers will only have one camera at their disposal, produ
 
 > 当然，大多数摄影师只能使用一台相机，拍摄固定尺寸的图像（通常为3:2）。因此，除非您通过拼接图像来制作全景图像，否则最终图像的格式将由...
 
-![](books/Mastering_Composition/image/_page_61_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_61_Picture_0.jpeg)
 
 Left: The portrait orientation often suits landscape images where the foreground features are a strong part of the picture and contribute actively to a sense of depth.
 
@@ -603,7 +605,7 @@ Right: The symmetry of this salsify fl ower and clear background suits the squar
 
 > 右：这株荷兰豆花的对称性与干净的背景适合方形画幅。花瓣和萼片的放射状线条既引导视线向中心汇聚，又向外延伸至边缘。
 
-![](books/Mastering_Composition/image/_page_62_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_62_Picture_0.jpeg)
 
 of others, so need to have a message with instant perception and recognition. In short, they need to have "punch."
 
@@ -613,7 +615,7 @@ There is, however, a risk that we might become lazy in capturing our images thro
 
 > 然而，存在一种风险，即我们在这种环境中工作时，可能会在捕捉图像时变得懈怠。由于噪点和失焦等瑕疵在小尺寸下不会那么明显，因此可以容忍对图像进行极端裁剪。幸运的是，大多数人仍然欣赏在大尺寸印刷品上观看高质量图像，无论是通过出版物，还是在画廊或家中墙壁上展示。为了您自己的满足感，没有什么能比看到自己的图像以大尺寸打印并展示得更令人满意了，这样您就有时间仔细研究和反思它们。
 
-![](books/Mastering_Composition/image/_page_63_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_63_Picture_2.jpeg)
 
 Right: A vertical format was the obvious choice for this view along the Rindomo Gorge in Greece. The viewer's eye naturally follows the path of the gorge toward the mountains and brightest part of the image formed by the rising sun.
 
@@ -627,13 +629,13 @@ This series of photos of two ducks "sailing" past some posts on a misty lake ill
 
 > 这一系列拍摄的两只鸭子“悠然划过”雾气缭绕的湖面木桩的照片，展示了巧妙的裁切如何让构图更整洁。
 
-![](books/Mastering_Composition/image/_page_64_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_64_Picture_2.jpeg)
 
 gives more of a sense of space on the lake: the two ducks balance the two posts in terms of visual weight.
 
 > 增强了湖面的空间感：两只鸭子与两根柱子在视觉重量上达到平衡。
 
-![](books/Mastering_Composition/image/_page_64_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_64_Picture_4.jpeg)
 
 post creeping in on the right needs eliminating. A square crop seems cramped and unbalanced. The 5x4 format works much better.
 
@@ -651,9 +653,7 @@ the three pairs of elements are now arranged in a triangle, offering better bala
 
 > 三个元素组现在被排列成三角形，提供了更好的平衡感。同样，5:4比例的构图也有帮助。
 
-# 4 Framing the Picture
-
-> 4 构图
+## 2 Framing the Picture 构图
 
 Having considered the format of the image plane, let's turn our attention to the impact of the border of the image and its role in our compositions. We can use the frame to support our compositions or contribute to them in subtle ways. We might choose, for example, to align strong lines in the image with the edges or corner of the frame to give them extra strength and emphasis. This is a ploy that is often used in architectural photography.
 
@@ -663,19 +663,19 @@ The frame edges also provide a reference for the orientation of other lines with
 
 > 画框的边缘也为画面中其他线条的方向提供了参考；通过旋转画框，我们可以将原本平静的水平地平线转化为充满动感的对角线，营造出一种失衡与混乱的感觉。在此情况下，并不是地平线本身发生了倾斜，而是画框被旋转了，但效果却十分相似。
 
-## 1 Demanding Attention 吸引注意的主体
+### 2.1 Demanding Attention 吸引注意的主体
 
 The edges and corners of the frame also each seem to pull and push on elements, causing tension. For example, an element lying on the edge seems stuck to it, which draws more attention to the edge than the element itself. If the elements are fl oating freely within the frame, the frame itself is less apparent and we tend to see through it like a window without being aware of its existence. If the frame markedly and deliberately crops an element (as opposed to just accidentally nicking the edge off it), the frame is also less apparent, but it is not as invisible as it would be if the element were fl oating freely within the frame.
 
 > 画框的边缘和角落也会对画面元素产生拉扯和推挤的效果，从而制造出张力。例如，一个位于画框边缘的元素似乎被吸附在画框上，反而更吸引观众的注意力的是画框边缘而非该元素本身。如果元素在画框内自由悬浮，画框本身则变得不那么明显，我们仿佛透过窗户观看，却未意识到它的存在。如果画框明显且刻意地裁剪某个元素（与仅仅是偶然地擦碰到元素边缘不同），此时画框虽然仍然不那么明显，但其隐形程度仍不及元素在画框内自由悬浮时的情况。
 
-![](books/Mastering_Composition/image/_page_65_Picture_5.jpeg)
+![](/Mastering_Composition/image/_page_65_Picture_5.jpeg)
 
 Right: A graphic study of sunlight and shade. The frame edge helps to support the strong vertical and horizontal lines of the steps.
 
 > 右：一幅光影的图形研究。画框边缘有助于支持台阶的强烈垂直与水平线条。
 
-#### 1.1.1 Close to the Edge 靠近边缘
+#### 2.1.1 Close to the Edge 靠近边缘
 
 As with positioning objects slightly off-center, placing objects very close to the edge can lead to distracting ambiguity. The viewer is left pondering whether this was deliberate, rather than being immersed in the message you are wishing to convey. This also applies to the corners. Generally it's best to avoid leading the viewer's eye to the corner because it will probably leave the frame. These are all reasons why it's worth scanning the edges of your viewfi nder to check for "border mergers" (where part of an element is cut off by the frame) before releasing the shutter. At times it is necessary and appropriate to crop off part of an object, particularly if the image is trying to reveal detail in a portion of that object. If this is the case, it is generally best to do this boldly avoiding the inclusion of extraneous details that could make the viewer question the crop.
 
@@ -687,17 +687,17 @@ Right: In this photograph of frescoes in a tiny chapel in Greece, an important c
 
 > 右图：在这幅拍摄于希腊一个小礼拜堂内湿壁画的照片中，重要的组成部分是顶部的环绕拱顶。关键是要避免将拱顶裁剪掉，在其上方保留一点留白空间。
 
-#### 1.1.2 Partial Framing 部分构图
+#### 2.1.2 Partial Framing 部分构图
 
 Objects and shapes in a scene can also be used to provide a natural frame for the subject. In effect this creates a frame within a frame (sometimes termed a "compositional frame"), which provides the viewer with a stronger "window" to peer through. This can help to enhance the subject matter, localize it, and draw attention to it. Doorways and nearer buildings and, in the natural world, trees, branches, and rocky overhangs typically serve this purpose. This internal frame does not have to completely frame the subject; it can work with the picture's borders to do this. It is often important, however, to select your internal frame so that it matches and complements the subject matter or further supports the story. Using the frame to obscure part of your subject matter can serve to stimulate the viewer's imagination or help draw attention to the nature and role of the frame itself. Your choice of position will also affect the relationship between subject and frame. Try not to encompass any superfluous elements as these will compete with the subject matter and obscure the message. Focal length will also alter the relationship: a longer lens will tend to reduce the apparent distance between a nearby frame and a distant subject.
 
 > 场景中的物体和形状也可以用来为被摄主体提供自然的框架。实际上，这会形成一个“框架中的框架”（有时称为“构图框架”），为观众提供一个更强烈的“窗口”以窥视。这有助于增强主体、将其定位并吸引观众的注意力。门廊、较近的建筑物，以及在自然环境中，树木、枝干和岩石突出部分通常起到这种作用。这种内部框架不必完全框住主体，它可以与画面边框共同实现这一效果。然而，选择内部框架时通常很重要的是确保它与主体相匹配并起到补充作用，或进一步支持画面所要表达的故事。通过框架遮挡主体的一部分，可以激发观众的想象力，或帮助突出框架本身的性质和作用。你所选择的构图位置也会影响主体与框架之间的关系。尽量避免包含冗余元素，因为它们会与主体竞争，从而遮蔽信息。焦距也会改变这种关系：较长的镜头往往会缩短近景框架与远景主体之间的视觉距离。
 
-![](books/Mastering_Composition/image/_page_67_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_67_Picture_2.jpeg)
 
-![](books/Mastering_Composition/image/_page_67_Picture_3.jpeg)
+![](/Mastering_Composition/image/_page_67_Picture_3.jpeg)
 
-![](books/Mastering_Composition/image/_page_67_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_67_Picture_4.jpeg)
 
 ![](_page_67_Picture_5.jpeg)
 
@@ -705,51 +705,40 @@ Right: Four examples of what is in effect the use of a partial frame to help iso
 
 > 右侧：四个例子，实质上是使用局部构图，用于突出主体的一部分，并赋予其某种背景。
 
-![](books/Mastering_Composition/image/_page_68_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_68_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_68_Picture_1.jpeg)
+ The camera was only a few inches from the ground to frame the church in Kardamyli, Greece in this archway.为了在拱门中构图希腊的Kardamyli教堂，相机仅距地面数英寸。
+
+![](/Mastering_Composition/image/_page_68_Picture_1.jpeg)
 
 Above: A gemsbok staring at me through the legs of an elephant at a waterhole in Namibia. The frame is relevant and adds to the "story."
 
 > 上方：一只 gemsbok 通过大象的腿凝视着我，画面取景于纳米比亚的水塘。构图紧扣主题，增强了画面的故事性。
 
-#### 1.1.3 *TIP* 提示
-
-#### 1.1.4 **EXTERNAL FRAMES** 外框
+#### 2.1.3 **EXTERNAL FRAMES** 外框
 
 When displaying our images as prints, our compositional considerations can be extended to include the color, texture, nature, width, and shape of mounting/mat boards and picture frames. These become additional elements, which can affect how the image itself is perceived. Chosen well, they will complement and support the image rather than compete with it or distract us from its content and message. In general, their purpose is to draw attention to the image, isolate it from its surroundings, and focus our attention on its content.
 
 > 在将我们的图像作为相片展示时，我们可以将构图的考虑因素延伸至衬板/相纸板和相框的颜色、质感、材质、宽度和形状。这些元素成为额外的组成部分，会影响人们对图像本身的感知。如果选择得当，它们将衬托并支持图像，而不是与之竞争或分散人们对图像内容和信息的注意力。通常，它们的目的是吸引人们对图像的注意，将其与周围环境隔离，并将注意力集中在图像的内容上。
 
-Left: The camera was only a few inches from the ground to frame the church in Kardamyli, Greece in this archway.
-
-> 左侧：为了在拱门中构图希腊的Kardamyli教堂，相机仅距地面数英寸。
 
 # 5 Dynamic Tension 动感张力
 
-![](books/Mastering_Composition/image/_page_69_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_69_Picture_1.jpeg)
+Above: This spider's rather diagonal off-balance posture gives it a sense of motion, as if it is hurrying toward us. 这只蜘蛛略微倾斜的不平衡姿态给人一种动感，仿佛它正朝我们疾驰而来。
 
 #### 0.1.1 A Sense of Disharmony 不协调感
 
 As mentioned previously, beauty is not always the intended perception and there may be times when we want to convey a sense of disharmony in a photograph.
-
 > 如前所述，美并不总是预期的视觉效果，有时我们希望在摄影作品中表达一种不协调感。
 
 Knowledge of the rules and principles of composition can still be employed here, even if it is a matter of consciously breaking or defying them. Positioning elements in an unbalanced or unconventional way, even if it is simply by tilting your camera slightly, can be used to convey a sense of "dynamic tension."
 
 > 即使是在有意打破或违背构图规则和原理的情况下，对构图规则和原理的理解仍然可以被运用。以不平衡或非常规的方式安排元素，即使只是通过略微倾斜相机，也可以用来传达一种“动态张力”的感觉。
 
-In a sense, this is the opposite perception to the one of harmony, balance, and order. It will probably invoke a sense of slight unease in the viewer and potentially give the imagery more of a sense of movement, toppling over, friction, or energy and,
+In a sense, this is the opposite perception to the one of harmony, balance, and order. It will probably invoke a sense of slight unease in the viewer and potentially give the imagery more of a sense of movement, toppling over, friction, or energy and through this, "dynamism." Understanding the intent behind a "rule" can help us to consciously and constructively subvert it to create an alternative response in the viewer.
 
-> 从某种意义上说，这与和谐、平衡与秩序的感知恰恰相反。它可能会让观者产生一丝不安的感觉，并且可能使画面更具动感、倾倒感、摩擦感或能量感。
-
-Above: This spider's rather diagonal off-balance posture gives it a sense of motion, as if it is hurrying toward us.
-
-> 上方：这只蜘蛛略微倾斜的不平衡姿态给人一种动感，仿佛它正朝我们疾驰而来。
-
-through this, "dynamism." Understanding the intent behind a "rule" can help us to consciously and constructively subvert it to create an alternative response in the viewer.
-
-> 通过这一点，"动感"。理解"规则"背后的意图，可以帮助我们有意识地、建设性地打破它，以引发观者的不同反应。
+> 从某种意义上说，这与和谐、平衡与秩序的感知恰恰相反。它可能会让观者产生一丝不安的感觉，并且可能使画面更具动感、倾倒感、摩擦感或能量感。通过这一点，"动感"。理解"规则"背后的意图，可以帮助我们有意识地、建设性地打破它，以引发观者的不同反应。
 
 ![](_page_70_Picture_0.jpeg)
 

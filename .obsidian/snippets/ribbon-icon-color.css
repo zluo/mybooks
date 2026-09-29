@@ -1,0 +1,28 @@
+/* Left ribbon icon color — toggle on in Settings → Appearance → CSS snippets */
+
+:root {
+  --ribbon-icon:        #0f5132;  /* normal — dark green, high contrast */
+  --ribbon-icon-hover:  #16a34a;  /* hover  — brighter green */
+}
+
+/* the ribbon icons (left vertical strip) — force full opacity + color over theme */
+.workspace-ribbon .side-dock-ribbon-action,
+.workspace-ribbon .clickable-icon {
+  color: var(--ribbon-icon) !important;
+  opacity: 1 !important;
+}
+
+.workspace-ribbon .side-dock-ribbon-action:hover,
+.workspace-ribbon .clickable-icon:hover {
+  color: var(--ribbon-icon-hover) !important;
+  opacity: 1 !important;
+}
+
+/* the svg strokes inherit currentColor + slightly thicker for visibility */
+.workspace-ribbon .side-dock-ribbon-action svg,
+.workspace-ribbon .clickable-icon svg {
+  color: inherit !important;
+  stroke: currentColor !important;
+  --icon-stroke: 2.2px;
+  opacity: 1 !important;
+}

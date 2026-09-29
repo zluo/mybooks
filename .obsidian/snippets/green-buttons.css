@@ -1,0 +1,37 @@
+/* Green buttons & accent — toggle on in Settings → Appearance → CSS snippets */
+
+:root {
+  --green:        #16a34a;
+  --green-hover:  #15803d;
+
+  /* primary / accent buttons, toggles, active states */
+  --interactive-accent:       var(--green);
+  --interactive-accent-hover: var(--green-hover);
+  --color-accent:             var(--green);
+  --color-accent-1:           var(--green-hover);
+}
+
+/* default (non-accent) buttons too */
+button:not(.clickable-icon),
+.mod-cta,
+input[type="button"],
+input[type="submit"] {
+  background-color: var(--green);
+  color: #ffffff;
+  border-color: var(--green);
+}
+
+button:not(.clickable-icon):hover,
+.mod-cta:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover {
+  background-color: var(--green-hover);
+  border-color: var(--green-hover);
+}
+
+/* keep destructive (delete/warning) buttons red */
+button.mod-warning,
+.mod-warning {
+  background-color: var(--background-modifier-error) !important;
+  border-color: var(--background-modifier-error) !important;
+}

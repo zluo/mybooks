@@ -1,0 +1,17 @@
+/* Light mode → slightly gray note background — toggle on in Settings → Appearance → CSS snippets
+   Only affects light theme; dark theme is untouched. */
+
+.theme-light {
+  --bg-gray: #f0f1f3;   /* soft gray — change to taste (#f4f5f6 lighter, #e8eaed grayer) */
+
+  --background-primary: var(--bg-gray);
+  --background-primary-alt: #e9ebee;
+}
+
+/* Force the editor / reading surfaces to the gray (over stubborn themes) */
+.theme-light .markdown-source-view,
+.theme-light .markdown-preview-view,
+.theme-light .markdown-reading-view,
+.theme-light .cm-editor {
+  background-color: var(--bg-gray) !important;
+}

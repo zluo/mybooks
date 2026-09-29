@@ -1656,7 +1656,7 @@ If a behavior is insufficient in any of the four stages, it will not become a ha
 
 ### 3.3 **THE HABIT LOOP** 习惯循环
 
-![](books/Atomic_habits/pic/_page_44_Picture_0.jpeg)
+![](/Atomic_habits/pic/_page_44_Picture_0.jpeg)
 
 <span id="page-44-1"></span><span id="page-44-0"></span>FIGURE 6: The four stages of habit are best described as a feedback loop. They form an endless cycle that is [ru](#page-240-1)nning every moment you are alive. This "habit loop" is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results.\*
 
@@ -1694,7 +1694,6 @@ All behavior is driven by the desire to solve a problem. Sometimes the problem i
 > "All behavior is driven by the desire to solve a problem" 翻译为“所有行为都是为了满足解决问题的欲望”，保留了原句的因果关系和逻辑结构。
 
 In the table on the following page, you can see a few examples of what this looks like in real life.
-
 > 在下一页的表格中，您可以看到一些真实生活中的示例。
 
 Imagine walking into a dark room and flipping on the light switch. You have performed this simple habit so many times that it occurs without thinking. You proceed through all four stages in the fraction of a second. The urge to act strikes you without thinking.
@@ -4851,7 +4850,6 @@ you make today will *not* benefit you immediately. If you do a good job at work,
 > 为什么有人明知吸烟会增加患肺癌的风险，仍然吸烟？为什么有人明知暴饮暴食会增加肥胖的风险，却还是忍不住吃多？为什么有人明知不安全的性行为可能导致性传播疾病，却还是去做？一旦你了解大脑是如何优先考虑奖励的，这些问题的答案就变得清晰了：坏习惯的后果往往被延迟，而奖励却是即时的。吸烟可能在十年后夺去你的生命，但它能立刻缓解你的压力并减轻尼古丁戒断反应。暴饮暴食虽然长期有害，但瞬间却很诱人。性行为——无论是否安全——都能立刻带来愉悦感。
 
 <span id="page-147-3"></span>Disease and infection won't show up for days or weeks, even years.
-
 > 疾病和感染可能在几天、几周，甚至几年后才显现出来。
 
 >[!note]- 翻译注释

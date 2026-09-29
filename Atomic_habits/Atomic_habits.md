@@ -6,8 +6,6 @@ tags:
 
 # 1 Tiny Changes, Remarkable Results
 
-![](books/Atomic_habits/pic/_page_0_Picture_1.jpeg)
-
 An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
 # 2 James Clear
@@ -15,8 +13,7 @@ An Easy & Proven Way to Build Good Habits & Break Bad Ones
 ## 1 ATOMIC HABITS
 
 An Easy & Proven Way to Build Good Habits & Break Bad Ones
-
-## 2 **JAMES CLEAR**
+## 2 JAMES CLEAR
 
 ### 2.1 Tiny Changes, Remarkable Results
 

@@ -3,7 +3,7 @@ tags:
   - book
   - art
 ---
-
+[[Mastering_Composition_Chapter_4_zh]]
 
 ## 1 **Chapter 4* 第四章
 

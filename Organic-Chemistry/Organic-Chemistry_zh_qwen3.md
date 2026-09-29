@@ -3,19 +3,14 @@ tags:
   - book
   - chemistry
 ---
+## 1 Chapter 1 Basic Concepts in Chemical Bonding and Organic Molecules
+ 第一章 化学键与有机分子的基本概念 
 
-# XIN LIU
-
-> 席留
-
-$\begin{array}{c} {\sf KWANTLEN} \ \ {\sf POLYTECHNIC} \ \ {\sf UNIVERSITY} \\ {\sf SURREY}, \ {\sf BC} \end{array}$
-
-> 
-
-Chapter 1 Basic Concepts in Chemical Bonding and Organic Molecules                    |     |
-| 1.1 Chemical Bonding                                                                  | 7   |
-| 1.2 Lewis Structure                                                                   | 10  |
-| 1.3 Resonance Structures                                                              | 18  |
+|                                                                                       |     |
+| ------------------------------------------------------------------------------------- | --- |
+| 1.1 Chemical Bonding 化学键                                                              |     |
+| 1.2 Lewis Structure 路易斯结构                                                             | 10  |
+| 1.3 Resonance Structures 共振结构                                                         | 18  |
 | 1.4 Resonance structures in Organic Chemistry                                         | 22  |
 | 1.5 Valence-Shell Electron-Pair Repulsion Theory (VSEPR)                              | 26  |
 | 1.6 Valence Bond Theory and Hybridization                                             | 30  |
@@ -39,10 +34,6 @@ Chapter 1 Basic Concepts in Chemical Bonding and Organic Molecules              
 | 4.1 Conformation Analysis of Alkanes                                                  | 113 |
 | 4.2 Cycloalkanes and Their Relative Stabilities                                       | 121 |
 
-> 第一章 化学键与有机分子的基本概念                    |     |
-| 1.1 化学键                                                                  | 7   |
-| 1.2 路易斯结构                                                                   | 10  |
-| 1.3 共振结构                                                              | 18  |
 | 1.4 有机化学中的共振结构                                         | 22  |
 | 1.5 价层电子对互斥理论（VSEPR）                              | 26  |
 | 1.6 价键理论与杂化轨道理论                                             | 30  |
@@ -229,7 +220,6 @@ The magic element that is the key to organic chemistry and all living organisms 
 > 有机化学以及所有生命体的关键元素是碳。碳元素为何如此特殊？这主要归功于碳所具有的特殊成键能力。碳原子能够通过链状和环状结构与其他碳原子形成牢固的共价键，同时也能与氢、氧、氮、硫等其他元素形成牢固的键。因此，有机化合物的结构种类繁多，结构也往往较为复杂。
 
 #### 0.1.1 **Tips for Studying Organic Chemistry**
-
 > 0.1.1 学习有机化学的建议
 
 Learning organic chemistry can be both exciting and challenging. The most commonly misleading learning strategy is the notion that "I can be successful by simply memorizing everything". While memorization may be necessary at times, it is but a small fraction of what is needed to learning organic chemistry; the more important factor is your understanding. There are many structures, reactions and mechanisms involved in the course, and surface-level memorization will not carry you all the way through. However, if you know the connections between the structures, understand the underlying principles of the reactivity of certain compounds, and can tell the similarities and differences between different mechanisms, you will find that it becomes much easier. A few suggestions for learning include:
@@ -271,16 +261,13 @@ The Organic Chemistry I open textbook was possible through in kind support and p
 > 《有机化学I》开放教材得以实现，得益于KPU Open开放教育资源资助计划提供的实物支持和项目资助，并由KPU图书馆的开放出版套件（OPUS）持续支持。特别感谢Urooj Nizami、Karen Meijer-Kline和Caroline Daniels的帮助，正是由于他们的耐心与专业精神，该项目才能顺利完成。
 
 ## 1 CHAPTER 1 BASIC CONCEPTS IN CHEMICAL BONDING AND ORGANIC MOLECULES
-
 > 第1章 化学键与有机分子的基本概念
 
 Before beginning our Organic Chemistry journey, a review of some basic knowledge from the General Chemistry course will be very helpful and important. We will start with chemical bonding and review how to draw Lewis Structure to show and predict the bonding in a chemical species, followed by Valence Bond Theory and Hybridization to explain how the bonds are formed.
 
 > 在我们开始有机化学的学习之前，复习一些普通化学课程中的基础知识将非常有帮助且重要。我们将首先从化学键开始，复习如何绘制路易斯结构式，以展示和预测化学物种中的成键情况，接着学习价键理论和杂化理论，以解释化学键的形成过程。
 
-# 1.1 Chemical Bonding
-
-> 1.1 化学键
+# 1.1 Chemical Bonding 化学键
 
 To summarize simply, a chemical bond is the attractive force holding atoms or ions together. Such attractive interaction leads to a more stable state for the whole system comparing to individual atoms.
 
@@ -290,21 +277,12 @@ To summarize simply, a chemical bond is the attractive force holding atoms or io
 
 > 价电子在化学键形成中起着基础性作用。在原子的电子排布中，最外层的电子壳层称为价壳层，而位于价壳层中的电子则称为价电子。以碳原子为例：碳原子的电子排布为 1s² 2s² 2p²。最外层是第二主壳层，因此碳原子有 4 个价电子。价电子是距离原子核最远的电子，因此受到原子核的吸引力最小，因而最活泼。它们在化学键形成中起着最重要的作用。
 
-#### 0.1.1 *Exercises 1.1*
-
-> 0.1.1 习题 1.1
-
+#### 0.1.1 *Exercises 1.1*  习题 
 Determine the number of valence electrons for following elements: B, N, O, Cl, Mg.
+确定下列元素的价电子数目：B、N、O、Cl、Mg。
 
-> 确定下列元素的价电子数目：B、N、O、Cl、Mg。
-
-Answers to Practice Questions Chapter 1
-
-> 练习题答案 第1章
-
-#### 0.1.2 **Ionic Bond and Covalent Bond**
-
-> 0.1.2 离子键与共价键
+Answers to Practice Questions Chapter  练习题答案 第1章
+#### 0.1.2 **Ionic Bond and Covalent Bond** 离子键与共价键
 
 There are two major types of chemical bonding: **ionic bonds** and **covalent bonds**. An ionic bond is a bond that results from the electrostatic attraction (force) between ions of opposite charges. Ionic bonds apply to ionic compound, such as sodium chloride (NaCl).
 
@@ -326,7 +304,6 @@ A covalent bond is a bond formed through the sharing of electron pairs between t
 > 共价键是两个成键原子之间通过共用电子对而形成的化学键。共用的电子对同时受到两个原子核的吸引。通过共用电子对，两个原子都能获得一个充满的最外层电子壳层，即八个电子的稳定结构。有机化合物中几乎所有的化学键都是共价键。
 
 Covalent bond can be non-polar or polar.
-
 > 共价键可以是非极性的或极性的。
 
 For covalent bonds formed between two identical atoms, the electron pairs are shared equally between the two nuclei. Electron density is distributed evenly through the bond, making the bond a non-polar bond. Examples include all homonuclear molecules, such as H-H, Cl-Cl, O=O, N≡N.
@@ -348,11 +325,9 @@ For heteronuclear bonds (the bond formed between two different atoms), the elect
 ![](_page_15_Figure_6.jpeg)
 
 *Figure 1.1b Electronegativity Values in Pauling Scale*
-
 > 图1.1b 津林电负性标度值
 
 #### 0.1.3 **Notes about electronegativity values for Organic Chemistry purposes:**
-
 > 0.1.3 关于有机化学中电负性值的说明：
 
 - It is much more important to know the trend of electronegativity than to memorize the values. The trend is that EN values decrease along the group from top to bottom and increase along the period from left to right (the trend mainly works for Main Group elements, not transition metal elements).
@@ -373,9 +348,7 @@ electronegativity difference between the two bonding atoms, which is known as Δ
 
 > 两个成键原子之间的电负性差异称为ΔEN。对于非极性键，ΔEN等于零；而对于极性键，ΔEN不为零。ΔEN越大，键的极性越强。
 
-#### 0.1.4 *Exercises 1.2*
-
-> 0.1.4 习题 1.2
+#### 0.1.4 *Exercises 1.2* 习题 1.2
 
 - 1. Identify the following bonds as "polar" or "non-polar": C-C, C-H, B-F, O-O, C=N
 - 2. Rank the following bonds in order of increasing bonding polarity: C—S, C—O, C—F (referring to the trend of EN, you do not need to use the exact EN values).
@@ -383,9 +356,7 @@ electronegativity difference between the two bonding atoms, which is known as Δ
 > 判断下列化学键是“极性”还是“非极性”：C—C，C—H，B—F，O—O，C=N  
 按键的极性由小到大排列下列化学键：C—S，C—O，C—F（只需根据电负性（EN）的变化趋势进行排序，不需要使用具体的EN值）。
 
-#### 0.1.5 Answers to Practice Questions Chapter 1
-
-> 0.1.5 习题答案 第1章
+#### 0.1.5 Answers to Practice Questions Chapter 1 习题答案 第1章
 
 Because of the electronegativity difference, the atom with the higher EN attracts the shared electron pairs more strongly, therefore bearing a slightly negative charge (δ-). The other atom with a lower EN bears a slightly positive charge (δ+). The direction of the bond polarity can be indicated with an arrow, with the head of the arrow pointing to the negative end and a short perpendicular line near the tail of the arrow marking the positive end. The following example of an H-Cl molecule indicates how to show the bond polarity and partial charges of the polar bond.
 
@@ -393,16 +364,12 @@ Because of the electronegativity difference, the atom with the higher EN attract
 
 ![](_page_16_Picture_6.jpeg)
 
-# 1.2 Lewis Structure
-
-> 1.2 路易斯结构
-
+# 1.2 Lewis Structure  路易斯结构
 The Lewis structure is a structure that shows the bonding between atoms as short lines (some books use pairs of dots), and non-bonding valence electrons as dots.
 
 > 路易斯结构是一种展示原子之间共价键的结构，用短线表示（有些书籍用点对表示），非键合的价电子则用点表示。
 
 #### 0.1.1 **1.2.1 Lewis Structure of Diatomic Molecules**
-
 > 0.1.1 1.2.1 双原子分子的路易斯结构
 
 To learn about Lewis structures, we will start with the Lewis symbol. The Lewis symbol is the chemical symbol of an element with valence electrons represented as dots. The Lewis symbols of some elements are shown here:

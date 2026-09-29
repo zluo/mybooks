@@ -1,0 +1,8 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "_attachments",
+  "openBehavior": "daily"
+}

@@ -1,0 +1,34 @@
+{
+  "audio-recorder:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "audio-recorder:stop": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "file-diff:compare-and-merge": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-aujqlhuulb": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

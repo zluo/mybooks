@@ -1,0 +1,23 @@
+/* Smaller right-click context menu font & padding
+   Toggle on in Settings → Appearance → CSS snippets */
+
+.menu {
+  font-size: 12px !important;
+}
+
+.menu-item {
+  padding: 4px 10px !important;
+}
+
+.menu-item-title {
+  font-size: 12px !important;
+}
+
+.menu-item-icon {
+  width: 14px !important;
+  height: 14px !important;
+}
+
+.menu-separator {
+  margin: 2px 0 !important;
+}

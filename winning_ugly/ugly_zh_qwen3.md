@@ -13,14 +13,6 @@ tags:
   - book
 cover: /ugly/images/9781476715094.jpg
 
-
-
-![cover](IMG-20251205205543373.jpg)
-
-[[null|]][[null|]]To a gentleman and great champion, Arthur Ashe, who fought for human dignity and the worth of the individual[[null|]]
-
-
-
 # [[null|]][[null|]]Introduction 引言
 
 # Winning Ugly in the 21st Century: The More Things Change, the More We Stay the Same
@@ -6596,9 +6588,7 @@ If you’re losing lots of points on your backhand groundstrokes get into a posi
 >[!note]- 译者注：
 此句意在强调通过改变站位和上网来减少反手底线球的使用，从而提升比赛效率和得分机会。
 
-4\. ATTACK THE SECOND SERVE
-
->4\. 攻击第二发球
+4\. ATTACK THE SECOND SERVE 攻击第二发球
 
 There is another way you can take the offensive before your opponent has a chance to pressure your backhand. It allows you an (often [[null|]]overlooked) opportunity to get to the net. Most players don’t think “attack” off someone’s serve. However, if your opponent’s second serve is typical (which is to say a variation on the Nerf ball) it shouldn’t be difficult to hit a shot that allows you to follow it to the net. Just stand a step or two closer than your normal position for receiving. When you hit your return of serve immediately follow it to the net.
 
@@ -6622,9 +6612,7 @@ Remember, this is what smart tennis is all about. Testing and probing. Shrinking
 >[!note]- 译者注：
 此处“shrinking the gate”意为限制对手的进攻空间，使他们难以找到突破口，译为“缩小通道”以保持原意，同时符合中文表达习惯。
 
-5\. DON’T FORGET THE LOB
-
->5\. 别忘了挑高球
+5\. DON’T FORGET THE LOB. 别忘了挑高球
 
 Many players make the mistake of hitting a shot over and over again when it isn’t working for them. Sometimes they’ll do it for the whole match. It may be the approach down the line, a slice serve, a forehand volley, a forehand groundstroke, or an overhead. Or a backhand groundstroke. They never give up trying to make it work. If you’re going down the dumper you’ve got to do something else or you’ll lose.
 
@@ -6642,9 +6630,7 @@ When a smart opponent sees you having a particular problem, you have to prevent 
 
 >当一位聪明的对手发现你存在某个问题时，你必须防止他们利用这一点。你得让这个“伤口”不再流血，而要做到这一点，就是通过了解并运用你的替代方案。
 
-# The Serve
-
->发球
+# The Serve >发球
 
 Ask the experts what the most important shot in tennis is and they’ll say the serve. Is it? Maybe on tour. For recreational tennis players that answer is doubtful. How often do you or your opponents hit aces or service winners? How many times does your serve force a return that puts you in a plus position you can take advantage of? And, most important, how often do you hold serve? Probably not as often as you should.
 
@@ -6673,9 +6659,7 @@ If there is one shot in your collection that you can work on that will help your
 
 >如果你有一项技术可以重点打磨，从而提升你的竞争力，那一定就是发球。我之所以这么说，是因为在过去二十年里，我见过无数在俱乐部和公园里打球的球员。如果你能打磨出一种穿透力强、变化丰富、稳定性高的发球，那你很快就会遇到新的对手。你的朋友也会厌倦输给你的。不过，好运气总是留给有准备的人。吉米·康纳斯（Jimmy Connors）整个职业生涯都没能打造出一个具有威胁性的发球，但他却发展出了世界上最好的接发球技术（直到阿加西出现为止），凭借这项技术，他赢得了超过一百个冠军头衔。因此，在你等待那支“你职业生涯中最重要的一球”（即发球）时，还有其他事情值得你思考。
 
-# The Return of Serve
-
->发球的回归
+# The Return of Serve >回球
 
 I want to tell you what can become the most important shot for you with a minimum amount of work. It’s your return of serve. It’s a lot easier to improve this than it is trying to learn a big serve. With a strong return of serve you are constantly putting pressure on your opponent, capitalizing on weak servers and neutralizing better servers.
 
@@ -6759,9 +6743,9 @@ You’ll notice something happen as watching the ball becomes automatic. You do 
 When you’re seeing that ball more clearly remember to stay calm; avoid the panic attack. With a player coming at you there is a great tendency to speed up your swing, to jerk it. You tend to lose balance and form. Stay calm. Your primary goal, the goal that will produce the best results, is to take a rhythmic swing, controlled, balanced, and steady. The kind of swing you would probably take if the server didn’t rush the net.
 
 >当你更清晰地看到球时，记得保持冷静；避免陷入恐慌。面对一个迅速逼近的对手，你很容易就会加快挥拍动作，做出一些生硬的挥拍。你往往会失去平衡和正确的姿势。保持冷静。你首要的目标，能带来最好效果的目标，就是做一个节奏感强、受控、平衡且稳定的挥拍动作。就像当你对手没有急于上网时，你通常会做出的那种挥拍。
-
-With better focus on the ball and a less frantic swing you’ll make better contact with the ball. Watch the ball, not the person who hit it. Don’t jerk your swing. You’re now in a position to begin making some choices on your service return that can cause the net rusher some problems.
-
+j
+>[!Read]-
+>With better focus on the ball and a less frantic swing you’ll make better contact with the ball. Watch the ball, not the person who hit it. Don’t jerk your swing. You’re now in a position to begin making some choices on your service return that can cause the net rusher some problems.
 >你对球的专注度更高，挥拍也更从容，就能更好地击中球。注视球，而不是击球的人。不要急促地挥拍。现在，你已经具备了在接发球时做出一些选择的能力，这些选择可能会让网前球员陷入困境。
 
 2\. HIT A SOFT RETURN

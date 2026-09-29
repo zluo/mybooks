@@ -1,0 +1,15 @@
+/* Dark mode → light gray body text — toggle on in Settings → Appearance → CSS snippets
+   Only affects dark theme; light theme is untouched. */
+
+.theme-dark {
+  --text-normal: #a8adb6;   /* main body text — medium gray (softer, less bright) */
+  --text-muted:  #7e848e;   /* secondary text — slightly dimmer */
+  --text-faint:  #565c66;   /* faint / placeholder */
+}
+
+/* Force editor + reading view text to the light gray (over stubborn themes) */
+.theme-dark .markdown-preview-view,
+.theme-dark .markdown-rendered,
+.theme-dark .cm-s-obsidian .cm-line {
+  color: var(--text-normal) !important;
+}

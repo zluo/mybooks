@@ -1,0 +1,27 @@
+/* Dark green markdown file names — toggle on in Settings → Appearance → CSS snippets */
+
+:root {
+  --filename-color: rgb(79, 150, 144);  /* dark green — change to recolor file names */
+}
+
+/* Default file explorer */
+.nav-file-title-content {
+  color: var(--filename-color) !important;
+}
+
+/* Notebook Navigator plugin (two-pane file list) */
+.nn-file-name,
+.notebook-navigator .nn-file-name,
+[class*="nn-file"] .nn-file-name {
+  color: var(--filename-color) !important;
+}
+
+/* Tab titles (optional — keeps it consistent) */
+.workspace-tab-header-inner-title {
+  color: var(--filename-color) !important;
+}
+
+/* Inline title — the file name shown at the top of the note itself */
+.inline-title {
+  color: var(--filename-color) !important;
+}

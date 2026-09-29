@@ -20,11 +20,11 @@ Right: The lighting on these rock formations emphasizes their pyramidal shapes. 
 
 ![](_page_71_Picture_4.jpeg)
 
-![](books/Mastering_Composition/image/_page_72_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_72_Picture_0.jpeg)
 
 ### 3.2 The Power of Lines 线条的力量
 
-![](books/Mastering_Composition/image/_page_73_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_73_Picture_1.jpeg)
 
 #### 3.2.1 Directional Lines 引导线
 
@@ -44,9 +44,9 @@ Above: In this image, taken near Leather Tor on Dartmoor, England, our eye tends
 
 > 上方：在这张拍摄于英国达特穆尔郡（Dartmoor）莱瑟尔角（Leather Tor）附近的照片中，我们的目光往往会跟随狗的视线转向马，再通过第二匹马迂回回来。三者相似的色调增强了它们之间的关联感。
 
-![](books/Mastering_Composition/image/_page_74_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_74_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_74_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_74_Picture_1.jpeg)
 
 Left & Above: In the depths of this gorge there are various leading lines formed by the striations in the rocks and the gazes of my wife and our dog. They all serve to channel your eye toward the cascade of water beyond. In the image to the left, the dog acts as an obstruction to the path of the eye. Offsetting her slightly in the image (above) invites the eye in more readily.
 
@@ -66,13 +66,13 @@ A particularly powerful effect in relation to "leading lines" can be obtained wh
 
 > 当多条线条从不同方向汇聚到兴趣点时，可以产生与“引导线”相关的特别强烈的视觉效果。这些线条会相互强化，迅速而强烈地将观众的注意力引向线条交汇点处的主体。
 
-![](books/Mastering_Composition/image/_page_75_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_75_Picture_4.jpeg)
 
 Right: The conveniently placed log draws the eye along the intended path—bottom left to top right—in this dry riverbed.
 
 > 右侧：这棵巧妙放置的树干引导视线沿规划好的路径——从左下角到右上角——在干涸的河床上。
 
-![](books/Mastering_Composition/image/_page_76_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_76_Picture_0.jpeg)
 
 #### 3.2.3 *TIP* 技巧
 
@@ -86,7 +86,7 @@ Above: The strong central leading line and various other convergent secondary on
 
 > 上方：在希腊爱皮达夫罗斯的古代剧场广角视角中，强烈的中心引导线以及各种其他汇聚的次要线条引导视线向下至中央位置的舞台。尽管这幅作品对剧场本身是一个有趣的观察，但若舞台上实际有活动发生以吸引观众，画面效果可能会更强烈。
 
-![](books/Mastering_Composition/image/_page_77_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_77_Picture_0.jpeg)
 
 ![](_page_77_Picture_1.jpeg)
 
@@ -96,7 +96,7 @@ Above & Left: This rock stack, known as Bowerman's Nose, is one of Dartmoor's be
 
 ![](_page_78_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_78_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_78_Picture_1.jpeg)
 
 Above & Left: This photo of a hartebeest on an anthill in the Serengeti also illustrates the concept of the hourglass. The anthill and hartebeest form one cone with its apex at the head of the antelope. The expanding clouds above form another cone again with its apex at the point of interest. The ears, nose, and horns also create a star-like form, further drawing the eye toward the animal's head.
 
@@ -108,7 +108,7 @@ In the three-dimensional world, this is like an object being placed at the narro
 
 > 在三维世界中，这就像将一个物体放置在沙漏最狭窄的部分——即两个圆锥体（或也许是金字塔）相接的地方。圆锥体的作用是引导我们的注意力汇聚到这一点上。由于我们倾向于在二维图像中保留对深度的感知，因此在我们的照片中可以传达出这种深度感，从而使照片更具吸引力。除了将注意力集中在主体上，这种汇聚还创造出强烈的纵深感。我将这种效果称为“沙漏效应”。
 
-![](books/Mastering_Composition/image/_page_79_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_79_Picture_0.jpeg)
 
 #### 3.2.6 Line Orientation 线条方向
 
@@ -146,7 +146,7 @@ Interestingly, it is generally more acceptable to the viewer for horizontal line
 
 > 在摄影中，水平线从画面空间中延伸出去通常更符合观众的审美习惯。这可能主要是因为我们接受地平线作为如此主导的水平线，它从我们的视野中延伸出去。然而，垂直线从画框中延伸出去更具挑战性，因为它们通常非常活跃，我们的目光特别容易被它们吸引。此外，我们在现实世界中对它们的经验（如街灯、高大建筑、树木等）是它们通常在两端都会“停止”——要么在地面处，要么被重力的力量所限制。
 
-![](books/Mastering_Composition/image/_page_80_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_80_Picture_4.jpeg)
 
 Right: These two columns at Ancient Olympia in Greece are a typical case of vertical lines providing a sense of height. Shooting from a low view point with a wide-angle lens has helped exaggerate the convergence of the lines, further providing a sense of height and depth, and also a sense of the relationship between the two columns.
 
@@ -154,7 +154,6 @@ Right: These two columns at Ancient Olympia in Greece are a typical case of vert
 
 ![](_page_81_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_81_Picture_2.jpeg)
 
 Diagonal lines help convey depth as they suggest distance and perspective; indeed, many diagonals that are seen in images are due to perspective effects. Diagonal lines have more energy than horizontal and vertical lines, producing a dynamic energy, where "dynamism" is equivalent to the illusion of motion. This partly arises from the sense of imbalance that the diagonal gives. Think of it as being like a tree trunk: if the trunk is diagonal it is neither standing nor fallen, but falling. Diagonals also tend to move the eye through a scene more rapidly, so can dominate and interfere with your composition if used incorrectly.
 
@@ -164,13 +163,13 @@ Our eye movement when viewing an empty rectangle tends to be similar to reading 
 
 > 当我们观察一个空白矩形时，视线移动往往与阅读文字相似，因此对于大多数阅读此书的读者而言，视线倾向于从左到右横贯页面，从上到下。然而，画面中的元素会影响这种规律，对常规模式的偏离会引发观众的反应。
 
-![](books/Mastering_Composition/image/_page_81_Picture_5.jpeg)
+![](/Mastering_Composition/image/_page_81_Picture_5.jpeg)
 
 ![](_page_81_Picture_6.jpeg)
 
-![](books/Mastering_Composition/image/_page_81_Picture_7.jpeg)
+![](/Mastering_Composition/image/_page_81_Picture_7.jpeg)
 
-![](books/Mastering_Composition/image/_page_81_Picture_8.jpeg)
+![](/Mastering_Composition/image/_page_81_Picture_8.jpeg)
 
 Above: Gives order, but little dynamic impact, therefore tranquility.
 
@@ -204,16 +203,15 @@ Above: The angle of view here has created an interesting "Z" shape from the rela
 
 > 上方：此处的视角创造出一种有趣的“Z”字形，由相对水平的蓝色元素构成，这些元素是对希腊岛屿上建筑构件的一种诠释。
 
-✍️#### 3.2.9 **HORIZONS**
-5 地平线
+### 3.3 **HORIZONS**  地平线
 
 A word here in relation to horizons. Generally speaking, you should aim to make sure that your horizons are straight. I say "generally" because sometimes, if the scene is a little fl at or static, you could try rotating the camera a little to get a quirky effect. This can also give a sense of movement as you introduce the emotive effect of diagonal lines; this effect tends to be more potent when wide-angle lenses are used.
 
 > 关于地平线，这里有一个要点。一般来说，您应确保地平线保持水平。我说“一般来说”，是因为有时如果场景略微扁平或静态，您可以尝试稍微旋转相机，以营造一种独特的视觉效果。这种效果还可以通过引入斜线带来动感，从而产生情绪化的视觉感受；这种效果在使用广角镜头时往往会更加显著。
 
-![](books/Mastering_Composition/image/_page_83_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_83_Picture_0.jpeg)
 
-### 3.3 Converging Lines 汇聚线
+### 3.4 Converging Lines 汇聚线
 
 Finally, remember that converging lines can be used to add a strong sense of depth to our photographs. This perception comes about because we know that a road or railroad track, for example, is the same width along its course even though it appears to narrow as it leads away from us. Therefore if we see two lines converging in an image or a single line narrowing we assume that it is because the lines or line are running away from us into the distance.
 
@@ -233,7 +231,7 @@ Above: The old pier at Swanage in Dorset, England. The gentle curve adds to the 
 
 ![](_page_84_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_84_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_84_Picture_1.jpeg)
 
 Above: We can also have rather random meandering lines acting as very important elements in our photographs! Photo by Mark Shuttleworth.
 
@@ -243,15 +241,15 @@ Left: The S-shaped curve of the leading line formed by this track affects the wh
 
 > 左图：由这条轨迹形成的S形引导线影响了整个场景的氛围。再次运用了汇聚效果，这次是车辆轨迹形成的两条强烈线条，传达出强烈的纵深感。
 
-### 3.4 The Impact of Shape 形态的影响
+### 3.5 The Impact of Shape 形态的影响
 
-#### 3.4.1 Dominant Shapes 主导形状
+#### 3.5.1 Dominant Shapes 主导形状
 
 As we have seen, in Gestalt Theory there is the acknowledgment of the impact of different shapes on the psyche. So, in addition to lines we need to be looking for shapes and how they can be used to support what we wish to say. Shapes needn't be considered purely in relation to those of the objects within the picture; equally powerful shapes can be formed by the spaces between elements, or by their shadows. As a result, both negative spaces (empty or "non-subject") and positive spaces ("subject matter") can contribute to the formation of shapes in a photograph.
 
 > 正如我们所见，格式塔理论承认不同形状对心理的影响。因此，除了线条之外，我们还需寻找形状，并思考它们如何用于支持我们想要表达的内容。形状不必仅仅与画面中物体的形状相关，同样有力的形状也可以由元素之间的空间或它们的阴影形成。因此，无论是负空间（空旷或“非主体”区域）还是正空间（“主体内容”），都可以在照片中对形状的形成起到重要作用。
 
-#### 3.4.2 Remnant Shapes 残留形状
+#### 3.5.2 Remnant Shapes 残留形状
 
 In fact, the success of some images relies heavily on what we might term "remnant shape." These are images where the dominant form/shape that we perceive is formed more by what would initially appear to be negative space or "ground," rather than the subject matter, or "figure." If the shape that it forms carries some symbolic meaning then it can even rise above the subject matter to become the dominant theme of the image. This occurs because of our tendency to seek out and perceive the simplest forms.
 
@@ -265,7 +263,7 @@ Right: This photograph taken at the Holocaust Memorial in Berlin by Edwin Westho
 
 ![](_page_86_Picture_0.jpeg)
 
-#### 3.4.3 Balancing Elements 平衡元素
+#### 3.5.3 Balancing Elements 平衡元素
 
 So, look at the contours formed throughout the image and how they can delineate shapes. The shapes don't have to be precise in order to be seen, as our perception will often fill in the gaps or make the shape conform to what is in our minds. Note also that by simply placing key elements on points of a geometric shape, you can often create a nicely balanced composition. If you have three elements, for example, try placing them at the points of a triangle within the picture plane. This simple approach to positioning and balancing elements to form a pleasing relationship
 
@@ -279,9 +277,9 @@ Above: This beautiful dusk sky was crying out to be photographed as I drove home
 
 > 上方：那天傍晚我开车回家时，这美丽的黄昏天空迫切地渴望被拍摄。我发现了那艘船，并调整自己的位置，使其大致处于天空中两片主要暗云之间等距的位置，从而有效地在船与云之间形成了一个三角形。
 
-![](books/Mastering_Composition/image/_page_87_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_87_Picture_0.jpeg)
 
-#### 3.4.4 Bold Shapes 粗體形狀
+#### 3.5.4 Bold Shapes 粗體形狀
 
 Understandably, bold shapes will serve to create bold images. Angular shapes are also more dynamic and grab our attention more than rounded, smooth shapes. Different shapes have associations with different qualities, no doubt based on where and why they appear in the world around us. Precise, rigid shapes tend to be associated with the creations of mankind. I have heard it declared that a square is "the icon of man's dominance over nature"—a sad refl ection of our arrogance, but true perhaps. Rectangles in general represent structure, solidity, and precision, whereas triangles represent strength,
 
@@ -301,9 +299,9 @@ Right: "Gecko on the Moon" (actually on a globe light on a pathway in Borneo!).
 
 ![](_page_88_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_89_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_89_Picture_0.jpeg)
 
-#### 3.4.5 Expression in Shape
+#### 3.5.5 Expression in Shape
 
 > 3.1.1.5 形的表达
 
@@ -325,25 +323,25 @@ Above: Church domes on the island of Santorini provide an example of the prevale
 
 ![](IMG-20251206045835262.jpeg)
 
-![](books/Mastering_Composition/image/_page_90_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_90_Picture_1.jpeg)
 
-![](books/Mastering_Composition/image/_page_90_Picture_2.jpeg)
+![](/Mastering_Composition/image/_page_90_Picture_2.jpeg)
 
-![](books/Mastering_Composition/image/_page_90_Picture_3.jpeg)
+![](/Mastering_Composition/image/_page_90_Picture_3.jpeg)
 
 Left & Above: Further examples drawn from images of Cycladic structures show how architectural images can provide strong lines, curves, shapes, and patterns.
 
 > 左图及上方：进一步的例子源自基克拉迪建筑的图像，展示了建筑图像如何能够呈现鲜明的线条、曲线、形状和图案。
 
-### 3.5 Scale, Form, Pattern & Texture 尺度、形态、图案与质感
+### 3.6 Scale, Form, Pattern & Texture 尺度、形态、图案与质感
 
-![](books/Mastering_Composition/image/_page_91_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_91_Picture_1.jpeg)
 
 Scale, form, texture, and pattern are further perceptions we often wish to convey through our photographs. Intelligent photography with good compositional skills can also enable us to effectively depict these and other concepts such as "unity," "alignment," "conformity," and so on.
 
 > 尺度、形态、质感和图案是我们经常通过摄影作品想要传达的其他感知元素。具备良好构图技巧的摄影也能帮助我们有效展现这些及其他概念，如“统一”、“对齐”和“协调”等。
 
-#### 3.5.1 Scale 比例
+#### 3.6.1 Scale 比例
 
 Scale is often declared by the inclusion in the image of a second object, the size of which is well known. The scale of an alpine vista, for example, could be revealed by the inclusion of a hiker on a mountain path. The message might be more obvious if the hiker were wearing a red jacket to draw attention to himself as the measure of scale in the landscape.
 
@@ -361,11 +359,11 @@ Above: The momentary interaction between this white rhino and the tiny bird make
 
 ![](IMG-20251206045838033.jpeg)
 
-![](books/Mastering_Composition/image/_page_92_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_92_Picture_1.jpeg)
 
 Shape Form 形态
 
-#### 3.5.2 Form 形体
+#### 3.6.2 Form 形体
 
 "Form" can be thought of as a term for threedimensional shape. As you can see from the illustration above, subtle gradations of light and shadow are the key to our perception of form. Chiaroscuro in art is an Italian term that literally means "light–dark." In painting, the description refers to clear tonal contrasts (usually created by strong directed light illuminating key parts of dark scenes), which are often used to suggest the volume and modeling of the subject(s) depicted. This meaning has now extended to other visual arts including photography. It is a commonly used strategy in "fi gure" photography where it is used to emphasize the form of the human body.
 
@@ -375,13 +373,13 @@ Good use of side-lighting could be employed to emphasize the rounded bulk of an 
 
 > 恰当运用侧光可以突出大象圆润的体型，例如。在构图上通过将大象与一只小老鼠进行对比，可以进一步强调其庞大的体积；也可以采用低角度拍摄并搭配广角镜头，以增强这种效果。此外，还可以考虑使用选择性对焦技巧，不仅强调画面中元素之间的距离，还能突出大象从前到后的整体长度。
 
-![](books/Mastering_Composition/image/_page_92_Picture_7.jpeg)
+![](/Mastering_Composition/image/_page_92_Picture_7.jpeg)
 
 Right: This illustrates how strong, direct lighting can reveal contours and shapes. This is particularly evident in the jacket sleeve of this gentleman's outstretched arm.
 
 > 右：这展示了强烈的直射光如何展现轮廓和形状。这一点在这位绅士伸出的手臂的外套袖口上尤为明显。
 
-#### 3.5.3 Pattern 图案
+#### 3.6.3 Pattern 图案
 
 A useful strategy for conveying patterns is to completely fi ll the frame: the mind's eye will assume that the pattern continues way beyond the edges even if it doesn't.
 
@@ -395,13 +393,13 @@ Remember also what Gestalt Theory tells us about patterns, and how concepts such
 
 > 此外，还要记住格式塔理论关于构图的阐述，以及如何通过诸如统一、对齐、比例等概念来传达……
 
-![](books/Mastering_Composition/image/_page_93_Picture_4.jpeg)
+![](/Mastering_Composition/image/_page_93_Picture_4.jpeg)
 
 association of elements into groups. Above & Below: In these two pattern shots I resisted the temptation to extend the patterns right up to all edges of the frame by cropping more tightly. I felt that including the sinuous curves of the boundaries added to the images in some way, and that the juxtaposition of the two colors in the sand-dune image enhanced the picture.
 
 > 元素的组合与分组。上方与下方：在这些图案构图中，我克制了将图案延伸至画框所有边缘的冲动，采用了更紧密的裁剪方式。我觉得通过包含边界处的蜿蜒曲线，能够以某种方式增强画面表现力，而沙丘图像中两种颜色的并置也进一步提升了画面效果。
 
-#### 3.5.4 **NEGATIVE SPACE**
+#### 3.6.4 **NEGATIVE SPACE**
 
 > 4.1.1.4 负空间
 
@@ -417,9 +415,9 @@ Above: A lovely example of a pattern image where the pattern is broken cleverly 
 
 > 上方：一幅精彩的图案构图示例，通过色彩、光线和形状的变化巧妙地打破图案。摄影：Mark Shuttleworth.
 
-![](books/Mastering_Composition/image/_page_95_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_95_Picture_0.jpeg)
 
-#### 3.5.5 Texture
+#### 3.6.5 Texture
 
 > 4.1.1.5 质感
 
@@ -427,7 +425,7 @@ Another quality that we may wish to capture a sense of is "texture." This entail
 
 > 我们可能还想捕捉“质感”这一特质。这涉及到我们触觉的参与，因此，我们通过照片实现这一能力，取决于感官通常不会孤立运作的事实。在探索我们周围环境时，每种感官都会受到其他感官的影响。因此，这里的关键在于通过照片传达触摸并用手抚摸主体时的感受。如果你成功做到这一点，观者对图像的感知也会引发他们的触觉感知，使他们仿佛也触摸到了主体。由于这涉及对主体三维属性（其“形态”）的欣赏，因此照明在传达这种感受方面起着关键作用。例如，低侧光可能适合表现更粗糙、更崎岖的结构，但有时漫射光则更适合表现更柔和、更细腻的质感。
 
-#### 3.5.6 **SENSORY PERCEPTION**
+#### 3.6.6 **SENSORY PERCEPTION**
 
 > 4.1.1.6 感官知觉
 
@@ -453,7 +451,7 @@ Above & Right: The quality and direction of the light helps give a sense of what
 
 > 5 透视与景深
 
-![](books/Mastering_Composition/image/_page_97_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_97_Picture_1.jpeg)
 
 #### 0.1.1 Aerial Perspective
 
@@ -481,7 +479,7 @@ This effect is frequently made good use of in landscape photographs where layers
 
 ![](_page_98_Picture_0.jpeg)
 
-![](books/Mastering_Composition/image/_page_98_Picture_1.jpeg)
+![](/Mastering_Composition/image/_page_98_Picture_1.jpeg)
 
 Above: Another example of the effect of aerial perspective. Smoke from bonfi res helped to enhance the separation of layers of hills receding into the distance.
 
@@ -491,7 +489,7 @@ Left: In this example, strong shafts of early-morning sunlight help separate the
 
 > 左：在这个例子中，清晨的强光柱有助于分隔环绕此峡谷的山地地形的层次。
 
-![](books/Mastering_Composition/image/_page_99_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_99_Picture_0.jpeg)
 
 ### 0.2 Linear Perspective
 
@@ -509,7 +507,7 @@ An image can employ one-point perspective where two parallel lines converge towa
 
 > 图像可以采用一点透视，其中两条平行线汇聚到一侧的单一消失点。或者，也可以采用两点透视，其中一组平行线汇聚到右侧的单一消失点，另一组平行线则汇聚到左侧的消失点。最后，还有三点透视，其中一组平行线汇聚到右侧的消失点；第二组平行线汇聚到左侧；而垂直线则汇聚到第三个消失点。
 
-![](books/Mastering_Composition/image/_page_99_Picture_5.jpeg)
+![](/Mastering_Composition/image/_page_99_Picture_5.jpeg)
 
 ![](_page_99_Picture_6.jpeg)
 
@@ -529,7 +527,7 @@ We can also create a sense of depth by including a series of objects of the same
 
 > 我们还可以通过加入一系列相同大小的物体，使其向远处延伸，来营造纵深感。或者，我们可以利用前景和远景物体的重叠，这种方法在两个融合的物体在某些方面存在差异时效果尤为显著。
 
-![](books/Mastering_Composition/image/_page_100_Picture_0.jpeg)
+![](/Mastering_Composition/image/_page_100_Picture_0.jpeg)
 
 ![](_page_100_Picture_1.jpeg)
 

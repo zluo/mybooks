@@ -1,0 +1,24 @@
+{
+  "theme": "system",
+  "cssTheme": "",
+  "accentColor": "#2dd4bf",
+  "enabledCssSnippets": [
+    "colorful-headings",
+    "filename-dark-green",
+    "green-buttons",
+    "ribbon-icon-color",
+    "dark-text-light-gray",
+    "properties-gray",
+    "light-gray-background",
+    "light-text-gray-spacing",
+    "context-menu-small"
+  ],
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Courier New",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "baseFontSize": 13,
+  "interfaceFontFamily": "Ubuntu"
+}

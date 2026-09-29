@@ -16,7 +16,7 @@ THE DEFINITIVE GUIDE FOR PHOTOGRAPHERS
 
 Above: In this image of a Kenyan sunset, the strong, isolated shapes of the tree and setting sun on the left are balanced by the aperture in the clouds and ample negative space toward the right.
 
-#### 1.1.1.1 **RICHARD GARVEY-WILLIAMS**
+#### 0.1.1 **RICHARD GARVEY-WILLIAMS**
 
 # 2 MASTERING **COMPOSITION**
 
@@ -61,7 +61,7 @@ Color reproduction by GMC Reprographics
 | Chapter 4                                                                                                                |                            |
 | The Role of Tone & Color                                                                                                 | 102                        |
 
-#### 3.1.1.1 Chapter 5
+#### 0.1.1 Chapter 5
 
 | Applying the Theory<br>Intent & Mindset                   | 114<br>116 |
 |-----------------------------------------------------------|------------|
@@ -73,7 +73,7 @@ Color reproduction by GMC Reprographics
 | Image Processing                                          | 158        |
 |                                                           |            |
 
-#### 3.1.1.2 Chapter 6
+#### 0.1.2 Chapter 6
 
 | Photography as Art | 160 |
 |--------------------|-----|
@@ -108,7 +108,7 @@ Due to the scope of the subject in question, I feel compelled to start on a some
 
 Photography is employed for a whole host of reasons. It may be simply representational or depictive, as in the case of a fi eld botanist wanting to illustrate and study the detail of a new species of orchid. An extreme example is a passport photograph, where even a smile is not permitted.
 
-## 5.1 A Form of Expression
+## 1 A Form of Expression
 
 At the other extreme it may be used simply as a form of expression, with the photographer giving the process over to the right side of his/her brain. Here the photographs may not even be shared with others, with the process of producing the image being a form of "expressive therapy" for the individual.
 
@@ -120,7 +120,7 @@ ourselves, but also to impact or infl uence others.
 
 Through our photographs we aim to say something about the subject. Often, but certainly not always, it is an attempt to express and capture the beauty of a scene or subject, or to convey our emotional reaction to an aspect of our surroundings. If we simply "point and shoot" with our cameras, the problem is that we are asking the camera to do the impossible—to convey the thought, refl ection, or vision that made us lift the camera in the fi rst place. Composition enables us to better express this with clarity.
 
-### 5.1.1 Evaluating Images
+### 1.1 Evaluating Images
 
 In terms of our personal reaction to a photograph, psychological factors invariably come into the reckoning—we see with our eyes, but perceive with our brains. This is done selectively and largely automatically, with the visual information being filtered according to our makeup, experiences, and conditioning. Therefore, the experience of seeing a scene or of viewing a photograph is highly individual.
 
@@ -128,7 +128,7 @@ This is the subjective aspect of photography, which clearly defines it as an art
 
 Most of us can agree that certain photos are good, but why are they good? Through asking this we can learn a lot about the common ground we
 
-#### 5.1.1.1 **WHAT MAKES A GREAT PHOTO?**
+#### 1.1.1 **WHAT MAKES A GREAT PHOTO?**
 
  I would suggest four elements that are significant components:
 
@@ -145,7 +145,7 @@ Above: A typical illustrative nature image that aims to reveal clearly the morph
 
 share in terms of our analysis of (and our reaction to) two-dimensional images.
 
-#### 5.1.1.2 Photographer's Vocabulary
+#### 1.1.2 Photographer's Vocabulary
 
 The subject matter and lighting can be viewed as the vocabulary at the photographer's disposal and the composition as the grammar that is used to knit them together to help create the story or poem of the emotional response. Of course, the intention may not be to create something beautiful that will provide a sense of peace and tranquility to someone's living space. Instead, it may be to shock an audience, as is often the case in journalistic and some fine-art
 
@@ -169,7 +169,7 @@ The component parts of the picture might include distinct physical entities or o
 
 Through the choices we make as photographers, such as those in relation to Left: The circular crop on this image of a Royal Python about to devour its supper gives the viewer's eye no chance of escaping the "horror" of what is going on —the composition supports the intended message.
 
-#### 5.1.1.3 **DEFINING COMPOSITION**
+#### 1.1.3 **DEFINING COMPOSITION**
 
  In essence, composition is simply "the arrangement of pictorial elements." My dictionary defi nes it as:
 
@@ -194,7 +194,7 @@ Left & Above: Key elements positioned on divisions of the picture plane made acc
 
 viewpoint, focal length, and indeed when we release the shutter, we compose our pictures. We make use of what the subject matter offers us, and combine this with our technical photography skills to (hopefully) come up with an image that is in accord with our vision.
 
-## 5.2 Ancient Rules & Ratios
+## 2 Ancient Rules & Ratios
 
 Throughout history, artists and scientists have tried to analyze what makes good and effective design or composition. The Greek mathematicians came up with "The Golden Rule," for example, which identifi es what appears to be a "magic" proportion by which to divide space or lines in an image to give a pleasing result. They even went as far as describing precise mathematical dimensions for this ideal.
 
@@ -208,7 +208,7 @@ In the early 20th century, German and Austrian psychologists pursued a similar q
 
 process and how the mind perceives and processes visual inputs. The resulting "Gestalt Theory" consists of principles that artists and designers have subsequently been able to use to present visual information of various forms.
 
-## 5.3 Conveying Concepts
+## 3 Conveying Concepts
 
 Consider how the arrangement of simple shapes can be used to convey concepts such as space, size/scale, congestion, tension, order, sequence, conformity, unity, direction, and distance, and how this is applied in the design of road signs and the like: this is, to a lesser or greater extent, Gestalt Theory put into practice.
 
@@ -220,7 +220,7 @@ fi ndings of these psychologists. In the following chapters we will examine some
 
 Above: The relative size of the fi gures at the front and back of this cave in the Peloponnese of Greece immediately tells us a lot about the sheer size of the cave.
 
-## 5.4 **Chapter 1**
+## 4 **Chapter 1**
 
 # 6 Visual Perception
 
@@ -252,7 +252,7 @@ Left & Above: Due to our tendency to perceive twodimensional images as represent
 
 speaking, our eyes tend to be drawn to the area of a scene with high contrast (a high difference in tones among objects in that part of the scene) or highly contrasting colors. Our attention is also attracted more by lighter tones and certain colors. We are also drawn to parts of an image that our memories, knowledge, or experience tell us are likely to contain useful information—e.g., faces, street signs, or text.
 
-## 6.1 Looking for Clues
+## 1 Looking for Clues
 
 Cognitive psychology endeavors to study the processes of our perception. Of interest to us here are the theories of visual information processing based on the idea that an image consists of hierarchical levels of form. In the case of a portrait, for example, the subject matter can be broken down into head and face as higher levels of form, and the constituent parts of eyes, nostrils, ears, and so on as lower levels. We routinely perceive and recognize faces that are known to us from a few simple visual cues. Even some of the constituent features when isolated can elicit the same response as the sight of the complete subject, as in the case of a caricature. Our brains actively fi t perceptual characteristics to
 
@@ -264,7 +264,7 @@ Alternatively, this processing could be done in a "bottom up" way, whereby ident
 
 lower-order components facilitates their subsequent synthesis into the higher-order form. This could involve processes such as matching the forms to templates stored in our memories.
 
-#### 6.1.1.1 Visual Processing
+#### 1.1.1 Visual Processing
 
 Other factors such as the familiarity, complexity, and expected probability of appearance of a form infl uence the speed at which a form is recognized, but there is some debate as to which of these modes of processing prevails. Electophysiological analysis of "receptive fi elds" seemed to suggest a bottom-up mode, but more recently it has been suggested that the order of visual processing is best described as a top-down process. There are even some studies to support the implication that our processing does not occur consistently in either a top-down or bottom-up mode, but in a "middle-out" way.
 
@@ -272,7 +272,7 @@ The suggestion here is that forms at some intermediate level of structure—havi
 
 Visual attention—the process whereby something catches our eye in the real world or in an image—is generally argued as being a largely bottom-up process. Our attention is drawn toward a red flower as we walk through a grassy meadow not by our prior knowledge that the flower was there, but by the visual stimulus of the redness of the flower itself and our automated responses to these stimuli. So, certainly some of the perceptive processes relevant to us in our consideration of composition will be relatively automatic and instant. However, there can also be elements of composing a picture and of "reading" a photograph that occur in a top-down fashion. These include the more considered, calculated, interpretative, and judgmental aspects.
 
-#### 6.1.1.2 Understanding & Meaning
+#### 1.1.2 Understanding & Meaning
 
 Behind all the visual perceptive processes involved in examining a scene or picture is a desire to establish understanding and meaning. So, it is perhaps not surprising that we derive pleasure from viewing a work of art when its composition aligns nicely with these processes and provides us with a rewarding insight.
 
@@ -296,11 +296,11 @@ Left & Above: With this shot, the temptation might be to crop tightly for a more
 
 ![](books/Mastering_Composition/image/_page_19_Picture_1.jpeg)
 
-#### 7.1.1.1 Rule of Space
+#### 0.1.1 Rule of Space
 
 Related to the sense of physical space that we glean from a photograph is a rule that most of us are familiar with—that of "nose room" (also termed "leading space," "lead room," or the "rule of space"), which states that a subject should have "active" space to move into in the direction that they are facing. We can, of course, opt to break this to create some tension or a sense of the subject being confi ned or restricted in some way.
 
-## 7.2 Visual Intelligence
+## 1 Visual Intelligence
 
 Through our photography we can purposefully manipulate the viewer by playing on the tendency we have to retain a sense of three-dimensionality, and by further understanding the processes of our "visual intelligence." This intelligence involves the application of knowledge and experience of the physical world to abstracted phenomena (such as a photograph) to derive meaning, usually in accordance with established norms of our
 
@@ -338,7 +338,7 @@ own, taken together, the meaning may change. In interpreting the "whole," a cogn
 
 Above: The relationship between the various elements in this image—the man, his vehicle, the crated produce, and his shoes—tells you more about this street vendor enjoying his siesta in Greece than you would glean from the component parts either in isolation or in a different arrangement.
 
-#### 8.1.1.1 The Law of Prägnanz
+#### 0.1.1 The Law of Prägnanz
 
 Another fundamental principle of Gestalt Theory is the Law of Prägnanz, which states that our psychological processes attempt to make order, harmony, symmetry, simplicity, and structure out of what initially might appear as seemingly disconnected bits of information (or "chaos"). For example, because we tend to relate what we see
 
@@ -348,11 +348,11 @@ our gestalts are also constructed from the societal and cultural infl uences tha
 
 ![](books/Mastering_Composition/image/_page_23_Picture_0.jpeg)
 
-#### 8.1.1.2 The Six Principles
+#### 0.1.2 The Six Principles
 
 Following on from these fundamental observations, Gestalt Theory went on to attempt to refi ne them and further describe how the mind tends to organize visual data. Observations were made regarding how we identify subject matter within the fi eld of a picture, focusing our awareness upon it. Also described were our tendencies to perceive relationships between distinct elements from which we can derive meaning and order. To this end, six principles have been identifi ed as Figure/Ground; Similarity; Proximity; Closure; Continuity; and Symmetry. These are illustrated on the following pages.
 
-## 8.2 Figure/Ground
+## 1 Figure/Ground
 
 We have a tendency to separate whole fi gures from their backgrounds based on variables such as contrast, sharpness, color, size, and so on.
 
@@ -370,7 +370,7 @@ Left: The classic "vase or two faces" image illustrates the concept of "fi gure/
 
 ![](books/Mastering_Composition/image/_page_25_Picture_0.jpeg)
 
-#### 8.2.1.1 Similarity
+#### 1.1.1 Similarity
 
 We have a tendency to see things that share visual characteristics such as shape, size, color, tone, texture, or value as belonging together. That separate objects in a picture belong together or are related in some way appears to be a pleasing conclusion for the viewer to come to. Many "pattern" images rely on this and involve arrangements of elements that are the same or share enough in common to be perceived as being related. We also derive pleasure from identifying the odd one out in these sorts of pattern image that also include an element that
 
@@ -390,9 +390,9 @@ Above: We may choose to display separate photographs together as a single unifi 
 
 Left: I believe that this image of the Blue Mosque in Istanbul gains strength from the discerned similarity and thus relationship between the minarets and the columns of water of the foreground fountains.
 
-#### 8.2.1.2 *TIP*
+#### 1.1.2 *TIP*
 
-#### 8.2.1.3 **REPETITION AND RHYTHM**
+#### 1.1.3 **REPETITION AND RHYTHM**
 
 The repetition of shapes or colors in a picture is generally pleasing, just as rhythm is in music. The forms don't have to be identical, though—even if they vary to some degree, the correspondence is still likely to be perceived. Similarity or repetition in an image often has connotations of harmony and interrelatedness, or rhythm and movement. So, in addition to conveying meaning in terms of the relationship between elements, good composition will also make some use of similarity for aesthetic advantage. Note also that an object can be emphasized if it is dissimilar to the others. This is a ploy called "anomaly," which is often utilized by photographers.
 
@@ -410,7 +410,7 @@ Above: These black-faced impala lined up drinking provide a good example of how 
 
 ![](books/Mastering_Composition/image/_page_29_Picture_0.jpeg)
 
-#### 8.2.1.4 Proximity
+#### 1.1.4 Proximity
 
 We have a tendency to perceive objects or shapes that are close to one another as belonging to the same group. Even if the shapes, sizes, and objects are radically different, they will tend to appear as a group if they are close together. On account of this "grouping" effect, the collective presence of a set of elements can become more meaningful and evident than their presence as separate elements. Elements grouped together can therefore create the illusion of a composite shape in space, even if the elements are not touching. An example would be an image of
 
@@ -420,7 +420,7 @@ Of course, the principle can also be used to imply or emphasize a lack of relati
 
 Above: Regardless of their radically different colors, we still group these beach huts together on account of their proximity, form, and alignment. Collectively they form the convergent line that makes the photograph.
 
-#### 8.2.1.5 Closure
+#### 1.1.5 Closure
 
 Our brain has a tendency to "fill in the gaps" and provide missing details to complete a potential pattern or shape. Once resultant "closure" is achieved, unnecessary details are eliminated to further establish a pattern match. Thus we can tend to see complete figures even when part of the information is missing. For example, we will tend to enclose a space by completing a contour and ignoring the gaps in the figure.
 
@@ -446,13 +446,13 @@ Above: Despite the confusion of black-and-white stripes in this image, we achiev
 
 Left & Above: Our tendency to continue contours can also be made good use of by using the resultant "vectors" (above) to lead the viewer's eye to points of interest in a scene.
 
-## 8.3 Continuity
+## 2 Continuity
 
 This is very much related to the previous principle. It is the observation that we tend to continue contours (and thus shapes) whenever the elements of the pattern strongly establish and imply a direction for our minds to continue them. The edge of one shape can be perceived as continuing into the space and meeting up with other shapes or even the edge of the picture plane. We can make good use of this in our photography to suggest relationships between separate elements of subject matter or to lead the viewer on a path of discovery through the photograph.
 
 Lines and shapes out there in the world are not always as we want them to be perceived, but fortunately, due to this tendency, when we view a photograph we will often overlook minor interruptions and defi ciencies.
 
-#### 8.3.1.1 Symmetry
+#### 2.1.1 Symmetry
 
 We have a tendency to try to organize visual data to make it as symmetrical, stable, simple, regular, consistent, structured, and ordered as possible.
 
@@ -470,11 +470,11 @@ Right: Although this image of a street in southern France is quite complex in te
 
 ![](books/Mastering_Composition/image/_page_33_Picture_1.jpeg)
 
-### 9.1.1 Equivocation & Continuance
+### 0.1 Equivocation & Continuance
 
 Gestalts can lead to a variety of phenomena. They can result in perceptual ambiguity (termed equivocation) where a picture can be seen in two or more ways. Alternatively they can encourage us to make connections between similar components and phenomena in an image to construct a timeline through the elements. This gives us the impression that they create a sequence (termed continuance).
 
-### 9.1.2 Constancy & Invariance
+### 0.2 Constancy & Invariance
 
 Gestalts can also result in the phenomenon of "scale constancy"—two cars in an image, one 100m away and one only 10m away, are both perceived as cars.
 
@@ -482,23 +482,23 @@ There is also a related concept of "color constancy" the grass on a lawn in a ph
 
 ![](books/Mastering_Composition/image/_page_34_Picture_0.jpeg)
 
-#### 9.1.2.1 The Law of Past Experience
+#### 0.2.1 The Law of Past Experience
 
 Gestalt Theory also defi ned other associated phenomena and principles with some degree of relevance to us. One such is the Law of Past Experience, which suggests that under some circumstances visual stimuli are categorized according to past experience.
 
 Elements tend to be grouped if they were often together in the past experience of the observer, particularly if these visual experiences had short time intervals between.
 
-#### 9.1.2.2 Emergence
+#### 0.2.2 Emergence
 
 Emergence is the process whereby we suddenly perceive what the subject is: the zebra in the image on page 31 is suddenly recognized and perceived as a whole, all at once.
 
-#### 9.1.2.3 Reifi cation
+#### 0.2.3 Reifi cation
 
 Reifi cation describes the constructive and generative tendency of our perceptual processes, whereby we perceive shapes and objects that are not there, such as the triangle in the earlier example (see page 31).
 
 Above: Scale constancy can help create a sense of depth as in this image of a pier in Swanage, United Kingdom. We know that the shrinking benches and posts are actually the same size, so therefore they must be progressively further away.
 
-## 9.2 Multistability
+## 1 Multistability
 
 Multistability is about our tendency to switch back and forth between two possible perceived images when there is ambiguity between them—the "vase or two faces" image on page 25 is a case in point.
 
@@ -506,11 +506,11 @@ Multistability is about our tendency to switch back and forth between two possib
 
 ![](books/Mastering_Composition/image/_page_35_Picture_1.jpeg)
 
-#### 10.1.1.1 Ordering Images
+#### 0.1.1 Ordering Images
 
 For our purposes, all of the psychological principles and the related phenomena previously described are potentially relevant when we come to construct a photograph. Furthermore, it is interesting to consider how these psychological processes are relevant not only to our presenting a single image to the outside world, but also when we show grouped images in exhibitions, albums, or slideshows. In these situations, the relationship between separate images can be just as important as the merits of each photograph considered individually. You may choose to order and arrange the images in such a way that effectively supports the transference of the message you hoped to convey throughout the project.
 
-## 10.2 Guiding the Eye
+## 1 Guiding the Eye
 
 To close this chapter let me stress the importance of acknowledging the likely journey that the viewer's eye will take through the image. For example, it may be that positioning the subject at the right of the frame may engage the viewer for longer, since most of the readers of this book are likely to be used to reading from left to right when confronted with a two-dimensional graphic (perhaps this would be different for those used to reading Arabic).
 
@@ -526,7 +526,7 @@ Having examined and taken on board these principles, we are now ready to look at
 
 Above: In this Namibian desertscape, including the foreground piece of sand dune provides the viewer with a platform to "step out onto" and view the scene beyond. It helps to give them the sense that they are actually there.
 
-## 10.3 **Chapter 2**
+## 2 **Chapter 2**
 
 # 11 Principles, Rules & Guidelines
 
@@ -540,7 +540,7 @@ This chapter aims to cover some of the insights gleaned through history that are
 
 ![](_page_39_Picture_0.jpeg)
 
-### 11.1.1 Rabatment of the Rectangle
+### 0.1 Rabatment of the Rectangle
 
 This is a simple compositional technique used as an aid for the placement of objects or the division of space within a rectangular frame. The principle is that every rectangle contains two implied squares based on the short sides of the rectangle. The process of mentally rotating the short sides onto the long ones is called "rabatment," and often the imaginary fourth line that is created producing each square is called "the rabatment." It has been argued that often a pleasing result can be obtained by positioning a key element or line along the rabatment.
 
@@ -552,7 +552,7 @@ It may be that squares are such a simple, primal geometric shape that the brain 
 
 ![](books/Mastering_Composition/image/_page_40_Picture_0.jpeg)
 
-#### 11.1.1.1 The Rule of Thirds
+#### 0.1.1 The Rule of Thirds
 
 John Thomas Smith, painter, engraver, and antiquarian, fi rst wrote down this longstanding "rule" in 1797. The principle is that the frame is imagined as being split into thirds both horizontally and vertically. Points of interest are then placed on the thirds lines that create these divisions, or at one of the points where the lines meet (the "intersection of thirds"). Of course, more than one element in the image may be placed accordingly, and these lines also tend to be good positions to place any strong lines in the scene including the horizon.
 
@@ -562,7 +562,7 @@ Above & Right: Quite a lot in this image of a weaver bird perched on a branch co
 
 ![](books/Mastering_Composition/image/_page_41_Picture_0.jpeg)
 
-#### 11.1.1.2 The Golden Mean
+#### 0.1.2 The Golden Mean
 
 This compositional device has many names ("The Golden Mean," "Golden Ratio," "Golden/Medial Section," or "Divine Section/Proportion"), but is based on the observation that planes or lines divided according to a specifi ed proportion are supposedly more aesthetically pleasing and harmonious. A line of length c is divided into two parts, a and b, whereby the ratio of a:b is the same as the ratio of b:c. As we have seen, this ratio approximates 1:1.618.
 
@@ -594,13 +594,13 @@ Finally, the Golden Ratio can give rise to the concept of the Golden Rectangle. 
 
 Left & Above: Spirals where the coils "open out" or expand at an ever-increasing rate as you follow them outwards from their centers are frequently seen in the natural world. Many, such as that of this snail shell, approximate the Golden Spiral, and allowing the eye to follow their course is rewarding.
 
-## 11.2 The Golden Spiral
+## 1 The Golden Spiral
 
 This is like the spiral we see if we cut a section through a snail's shell. It is not an uncommon spiral in the natural world. It also has a relationship to the Golden Ratio—it is a logarithmic spiral whose growth factor is related to the Golden Ratio.
 
 Again, elements or lines can be placed on or aligned to follow this line. It would probably, however, necessitate having a clear picture of this spiral in mind and a lot of careful planning to actively fi t elements in your photograph to this design. Nevertheless, it's certainly worth looking out for ready-made spirals of this sort in your environment.
 
-#### 11.2.1.1 The Diagonal Method
+#### 1.1.1 The Diagonal Method
 
 Edwin Westhoff discovered this method whilst doing some research in relation to the Rule of Thirds. He noticed that artists were intuitively tending to place details of importance on bisection lines derived from dividing each of the 90-degree corners of a piece of work into two equal 45-degree angles.
 
@@ -620,7 +620,7 @@ Above: In this picture, the diagonal lines pick out the emotive parts of this ma
 
 Above: A number of key elements appear to align themselves with the diagonals in this close-up of a praying mantis cleaning its talons: the eyes, the mouthparts, and the tips of its forelegs.
 
-#### 11.2.1.2 Other Considerations
+#### 1.1.2 Other Considerations
 
 However, despite the many and varied principles and "rules," we should take care not to get too obsessed with applying them, as repeated use could lead to predictability in our work. Instead, it is worth holding them in the back of our minds and experimenting with their application, particularly when we are learning the ropes. Furthermore, it's important to acknowledge that there are plenty of other factors to take into account in our quest for good compositions.
 
@@ -648,7 +648,7 @@ Above: The gaze and eyes of this orang-utan are what this portrait is about, so 
 
 this "visual weight." Our sense of balance profoundly infl uences our reaction to visual imagery and our desire for equilibrium explains our search for balance in everything we see.
 
-#### 12.1.1.1 Center of Gravity
+#### 0.1.1 Center of Gravity
 
 The center of gravity for entire compositions is often at the center of the frame, so the obvious way to create balance in an image is to place the subject in the middle of the photograph. The center is the combination of all forces: it has the highest pull toward it, but once there the elements are stable. As our eye will travel to a subject placed at the heart of the image and stop there, this can be an effective ploy particularly in portraiture.
 
@@ -664,7 +664,7 @@ balance arm at various distances from the fulcrum to achieve balance. By this me
 
 The concept of visual weight tends to manifest particularly in the horizontal plane with a left-toright imbalance being particularly unsettling. It also operates in the vertical plane, but to a lesser degree. This is probably due to the perception of depth that is retained, even in a two-dimensional image.
 
-#### 12.1.1.2 Right & Left
+#### 0.1.2 Right & Left
 
 Also of interest here is that various symbolic attributes have been associated with the right and left sides of pictures. These do not appear to relate to the right and left hemispheres in the brain or handedness, but rather to the way we read text. For those of us who read left to right, for example, the left half of the picture plane tends to signify "the past, defi nition, nearby, and real/actual/tangible." The right side by contrast symbolizes "the future, the undefi ned, far away, freedom, and the not-specifi c." Hence movement suggested within a picture toward the right is seen as being toward the future.
 
@@ -676,7 +676,7 @@ Above & Below: It can be an interesting experiment to reverse a carefully balanc
 
 ![](books/Mastering_Composition/image/_page_47_Picture_7.jpeg)
 
-#### 12.1.1.3 **WEIGHT FACTORS**
+#### 0.1.3 **WEIGHT FACTORS**
 
 An element's weight depends on a host of factors:
 
@@ -698,7 +698,7 @@ Above & Below: In theory, for those of us who read left to right, the running of
 
 ![](books/Mastering_Composition/image/_page_49_Picture_0.jpeg)
 
-#### 12.1.1.4 A Question of Balance
+#### 0.1.4 A Question of Balance
 
 Because of all the factors of visual weight, we can see how a small object might be balanced by a large one, a light one by a dark one, and a negative space by a visually full space. With regard to the latter, in an extreme example we may have a situation where there's a visual element on one side of a picture while the other side may appear pictorially empty. In this case the reason for including the negative space would probably be for balance alone. Space without detail may possess some weight because suggestion or implication has imparted some "attraction or interest" to it.
 
@@ -708,7 +708,7 @@ Above & Top: In this minimalist seascape the lofty brooding clouds in an otherwi
 
 ![](books/Mastering_Composition/image/_page_50_Picture_0.jpeg)
 
-#### 12.1.1.5 Off-Center Elements
+#### 0.1.5 Off-Center Elements
 
 As we can see, placing elements off-center in the frame gives us the opportunity to work with the concept of visual balance. Perhaps also due to our quest for balance, odd numbers of individuals in group photos often work best. This is an interpretation of the "Rule of Odds," which states that an odd number of subjects in an image is more pleasing than an even number. This is partly because even numbers produce symmetries that can appear less natural.
 
@@ -720,15 +720,15 @@ Placing elements off-center can also create tensions that make us look for relat
 
 Above: In this photograph, a small, very dark element the island—is balanced by open or "negative" space at its right.
 
-#### 12.1.1.6 Pyramid Form
+#### 0.1.6 Pyramid Form
 
 A variant of the Rule of Odds is "Pyramid Composition." In this, a large object is placed at the center of the image with smaller objects arranged in balanced proportions to the sides. This was a common strategy employed in works of High Renaissance art.
 
 A further ploy is to create equilibrium by grouping several elements on a common axis. In a peaceful landscape, for example, we might see the important elements aligned in a balanced way along the horizon.
 
-#### 12.1.1.7 *TIP*
+#### 0.1.7 *TIP*
 
-#### 12.1.1.8 **AN EXERCISE IN COMPOSITION**
+#### 0.1.8 **AN EXERCISE IN COMPOSITION**
 
 It can be interesting to play around with a few objects on a large rectangular tray, experimenting with them in various positions and relationships. Try a banana and an apple, for instance, and see how positioning the apple within the curve of the banana gives a very different effect to placing it on the other side of the banana—on the outside of the curve.
 
@@ -736,7 +736,7 @@ Below: Balancing groups of similar elements may not come solely down to their nu
 
 ![](books/Mastering_Composition/image/_page_51_Picture_7.jpeg)
 
-#### 12.1.1.9 Points of Attraction
+#### 0.1.9 Points of Attraction
 
 Finally, on the concept of visual weight, a note about "points." Any shape that is small enough will act as a point. Because of their simple shape and concentrated form, points attract the eye with extreme force!
 
@@ -754,7 +754,7 @@ Right: An example of an image where an object, in this case the distant boat, is
 
 ![](books/Mastering_Composition/image/_page_53_Picture_0.jpeg)
 
-#### 12.1.1.10 A Fine Balance
+#### 0.1.10 A Fine Balance
 
 Clearly there is far more to arranging and positioning the elements within the photo frame than simply spreading them around evenly to avoid large areas of negative space. The situation is complicated further by the fact that associated with visual weight is a perceived force of attraction between elements. Rather like gravitational pull, there is the sense that one element is being drawn toward another. This is perhaps why in the "banana and apple" exercise just proposed, if the apple is placed within the
 
@@ -778,7 +778,7 @@ Above: Although tiny, the fl ying seagull has a large impact on this scene and i
 
 Left: The fi xed component of this scene in Namibia was the dramatic sand dune providing the backdrop. I waited for the solitary springbok to work its way in from the right and fortunately this coincided with the distant kori bustard being out in the open between the antelope and the tree.
 
-### 12.1.2 Overriding Factors
+### 0.2 Overriding Factors
 
 It's worth remembering that a moving element can have a very different impact on your composition to a still one. Even if "frozen" by the photograph, a moving object will still be perceived as carrying some momentum in a particular direction. This imparts a vector that may need to be taken into account in terms of it needing space in a particular direction as we have seen through the rule of "Nose Room." Also the moving object will have a perceived drag on other elements that surround it, potentially altering their requirements for space. To complicate the issue, we also have to bear in mind that emotional, directional, and narrative factors may also exist in the image. For example, many pictures depend on the sequential arrangement of elements to convey a story. These sorts of factors can override the importance of achieving precise balance in the image simply based on the nature of the individual elements: inverting such an image or altering the sequence may result in a complete loss of meaning.
 
@@ -794,7 +794,7 @@ Right: In busy scenes such as this in the Sultanahmet region of Istanbul, there 
 
 Having considered the arrangement of elements within a space, let us now turn to the issue of formats and the proportions of the space itself. The frame of an image can be considered as a further "element" in the picture, at least in terms of its impact on other elements and their consequent arrangement. Indeed the orientation (vertical/portrait or horizontal/landscape) and the proportions of the frame will have their own subconscious impact on the viewer.
 
-#### 13.1.1.1 Aspect Ratios
+#### 0.1.1 Aspect Ratios
 
 The aspect ratio is a numerical way of describing the frame shape by stating the horizontal and vertical measurements together as a ratio. Most imagery tends to be of a slightly elongated form, with the most common aspect ratios being 3:2 and 4:3.
 
@@ -812,7 +812,7 @@ The 4:3 ratio is now increasingly popular, with many consumer digital cameras be
 
 ![](books/Mastering_Composition/image/_page_58_Picture_0.jpeg)
 
-#### 13.1.1.2 **HORIZONTAL OR VERTICAL?**
+#### 0.1.2 **HORIZONTAL OR VERTICAL?**
 
 When choosing orientation ask yourself:
 
@@ -828,7 +828,7 @@ Left: Height was the message to be conveyed here, together with the juxtapositio
 
 ![](books/Mastering_Composition/image/_page_59_Picture_0.jpeg)
 
-#### 13.1.1.3 Panoramic Views
+#### 0.1.3 Panoramic Views
 
 At the other end of the spectrum are panoramic images, which are becoming increasingly popular due to widescreen televisions and software that enables multiple images to be stitched together. The impact of a panoramic image often depends on it being printed "big," as this enables the details across the scene to be seen clearly. Simply cropping a single image for a "letterbox" view risks reducing the fi le size to a point where large prints are not viable, whereas combining a number of images maintains the pixel count and resolution.
 
@@ -840,7 +840,7 @@ of us. This can be a good thing for certain images.
 
 These elongated formats are, as you might expect, used most commonly in the horizontal orientation. This is no doubt largely due to our binocular vision and to the ergonomic demands of the cameras themselves, which tend to be designed with horizontal shooting in mind. However, the landscape/ horizontal image orientation can also be used to convey a good sense of space in our images.
 
-## 13.2 The Portrait Orientation
+## 1 The Portrait Orientation
 
 For shots involving portrait/vertical orientation, the different ratios can all have their benefi ts dependent on the subject matter and the compositional
 
@@ -850,7 +850,7 @@ intentions of the photographer. The slightly elongated 3:2 ratio, for example, c
 
 In deciding whether to rotate your camera, judgments also need to be made regarding the best orientation to employ to make use of the impact of lines and shapes in the scene you are photographing, and how best to balance the elements. It can be an interesting exercise to assess how many horizontal shots you have taken after a day's shooting and how many vertical.
 
-#### 13.2.1.1 The Square Format
+#### 1.1.1 The Square Format
 
 The 1:1 ratio or square format offers symmetry in itself that will help instill a sense of balance and tranquility. The symmetry of the sides and corners keeps reminding the eye of the center, making it a particularly good format to use for perfectly symmetrical subject matter or for "pattern" images where there is no directional component to the frame. This format will encourage the eye to move more freely in all directions to explore the pattern.
 
@@ -868,7 +868,7 @@ Left: The portrait orientation often suits landscape images where the foreground
 
 cropping. This means that rather than fi tting the image material to a predetermined and preset picture shape, we can select a picture shape to suit the image after it has been captured. We needn't limit ourselves to the standard formats, either, as we can choose whatever shape we feel is best for each picture.
 
-#### 13.2.1.2 Image Size
+#### 1.1.2 Image Size
 
 As well as the shape of the frame, the size of an image also has an impact on its composition. It's ironic that now that we have digital cameras that are capable of outputting large, high-quality prints many of us view photographic images on-screen. Our demand for convenience and instant gratifi cation means the screens we use are also shrinking, with laptops and notebooks replacing desktop computers, and tablets and smartphones now increasingly used to view images.
 
@@ -886,7 +886,7 @@ There is, however, a risk that we might become lazy in capturing our images thro
 
 Right: A vertical format was the obvious choice for this view along the Rindomo Gorge in Greece. The viewer's eye naturally follows the path of the gorge toward the mountains and brightest part of the image formed by the rising sun.
 
-#### 13.2.1.3 An Exercise in Cropping
+#### 1.1.3 An Exercise in Cropping
 
 This series of photos of two ducks "sailing" past some posts on a misty lake illustrates how subtle cropping can tidy up our compositions.
 
@@ -912,7 +912,7 @@ Having considered the format of the image plane, let's turn our attention to the
 
 The frame edges also provide a reference for the orientation of other lines within it; by rotating the frame we can turn a tranquil level horizon into a dynamic diagonal, giving a sense of imbalance and confusion. In this case it isn't the horizon that has tilted, but the frame, yet it has a similar effect.
 
-## 14.1 Demanding Attention
+## 1 Demanding Attention
 
 The edges and corners of the frame also each seem to pull and push on elements, causing tension. For example, an element lying on the edge seems stuck to it, which draws more attention to the edge than the element itself. If the elements are fl oating freely within the frame, the frame itself is less apparent and we tend to see through it like a window without being aware of its existence. If the frame markedly and deliberately crops an element (as opposed to just accidentally nicking the edge off it), the frame is also less apparent, but it is not as invisible as it would be if the element were fl oating freely within the frame.
 
@@ -920,7 +920,7 @@ The edges and corners of the frame also each seem to pull and push on elements, 
 
 Right: A graphic study of sunlight and shade. The frame edge helps to support the strong vertical and horizontal lines of the steps.
 
-#### 14.1.1.1 Close to the Edge
+#### 1.1.1 Close to the Edge
 
 As with positioning objects slightly off-center, placing objects very close to the edge can lead to distracting ambiguity. The viewer is left pondering whether this was deliberate, rather than being immersed in the message you are wishing to convey. This also applies to the corners. Generally it's best to avoid leading the viewer's eye to the corner because it will probably leave the frame. These are all reasons why it's worth scanning the edges of your viewfi nder to check for "border mergers" (where part of an element is cut off by the frame) before releasing the shutter. At times it is necessary and appropriate to crop off part of an object, particularly if the image is trying to reveal detail in a portion of that object. If this is the case, it is generally best to do this boldly avoiding the inclusion of extraneous details that could make the viewer question the crop.
 
@@ -928,7 +928,7 @@ As with positioning objects slightly off-center, placing objects very close to t
 
 Right: In this photograph of frescoes in a tiny chapel in Greece, an important component is the encompassing arch at the top. It was critical that I avoided cutting into this arch, allowing a tiny bit of breathing space above it.
 
-#### 14.1.1.2 Partial Framing
+#### 1.1.2 Partial Framing
 
 Objects and shapes in a scene can also be used to provide a natural frame for the subject. In effect this creates a frame within a frame (sometimes termed a "compositional frame"), which provides the viewer with a stronger "window" to peer through. This can help to enhance the subject matter, localize it, and draw attention to it. Doorways and nearer buildings and, in the natural world, trees, branches, and rocky overhangs typically serve this purpose. This internal frame does not have to completely frame the subject; it can work with the picture's borders to do this. It is often important, however, to select your internal frame so that it matches and complements the subject matter or further supports the story. Using the frame to obscure part of your subject matter can serve to stimulate the viewer's imagination or help draw attention to the nature and role of the frame itself. Your choice of position will also affect the relationship between subject and frame. Try not to encompass any superfluous elements as these will compete with the subject matter and obscure the message. Focal length will also alter the relationship: a longer lens will tend to reduce the apparent distance between a nearby frame and a distant subject.
 
@@ -948,9 +948,9 @@ Right: Four examples of what is in effect the use of a partial frame to help iso
 
 Above: A gemsbok staring at me through the legs of an elephant at a waterhole in Namibia. The frame is relevant and adds to the "story."
 
-#### 14.1.1.3 *TIP*
+#### 1.1.3 *TIP*
 
-#### 14.1.1.4 **EXTERNAL FRAMES**
+#### 1.1.4 **EXTERNAL FRAMES**
 
 When displaying our images as prints, our compositional considerations can be extended to include the color, texture, nature, width, and shape of mounting/mat boards and picture frames. These become additional elements, which can affect how the image itself is perceived. Chosen well, they will complement and support the image rather than compete with it or distract us from its content and message. In general, their purpose is to draw attention to the image, isolate it from its surroundings, and focus our attention on its content.
 
@@ -960,7 +960,7 @@ Left: The camera was only a few inches from the ground to frame the church in Ka
 
 ![](books/Mastering_Composition/image/_page_69_Picture_1.jpeg)
 
-#### 15.1.1.1 A Sense of Disharmony
+#### 0.1.1 A Sense of Disharmony
 
 As mentioned previously, beauty is not always the intended perception and there may be times when we want to convey a sense of disharmony in a photograph.
 
@@ -976,7 +976,7 @@ through this, "dynamism." Understanding the intent behind a "rule" can help us t
 
 Above: The random positions of the three fi gures in the frame, the orientation of two of them facing out of the frame, and their unbalanced postures create dynamism and a slightly disturbing sense of panic. This is appropriate for the image, and the apparent confusion of the fi gure in red in terms of where to go further adds to its potency. Photo by Mark Shuttleworth.
 
-## 15.2 **Chapter 3**
+## 1 **Chapter 3**
 
 # 16 Elements of Design
 
@@ -992,7 +992,7 @@ Right: The lighting on these rock formations emphasizes their pyramidal shapes. 
 
 ![](books/Mastering_Composition/image/_page_73_Picture_1.jpeg)
 
-#### 17.1.1.1 Directional Lines
+#### 0.1.1 Directional Lines
 
 Lines have the power to direct the viewer's eyes through the picture space, so look at how you can use any lines present in the scene: "leading lines" are a great way of drawing the viewer's attention to something in the picture space, for example.
 
@@ -1010,7 +1010,7 @@ Left & Above: In the depths of this gorge there are various leading lines formed
 
 Assumed/implied lines (which are also known as "optical lines") can be very potent factors in our compositions. Even the line of view of a person or animal can be construed as a leading line and we can use the direction of their gaze to direct the viewer to an intended target. The strength of these lines will depend on many factors, such as the likeness in terms of form and appearance, or the contrast in tone between the two or more elements generating them. Other lines may also serve to reinforce them.
 
-#### 17.1.1.2 Natural Lines
+#### 0.1.2 Natural Lines
 
 Strong lines are prevalent in the manmade world, but actual or "optical" lines can also be found readily in the natural world. Here, in particular, their use as leading lines will often be a compromise in our compositions, since we cannot adjust their precise direction. Fortunately, it's usually enough that they lead the eye to the vicinity of the point of interest, and not necessarily directly to it. Again, because of our tendency to fi ll in gaps, any interruptions in these lines will not markedly affect their potency.
 
@@ -1022,9 +1022,9 @@ Right: The conveniently placed log draws the eye along the intended path—botto
 
 ![](books/Mastering_Composition/image/_page_76_Picture_0.jpeg)
 
-#### 17.1.1.3 *TIP*
+#### 0.1.3 *TIP*
 
-#### 17.1.1.4 **ROADS TO NOWHERE**
+#### 0.1.4 **ROADS TO NOWHERE**
 
 If the lines lead the eye strongly to a region of a photograph, it's important that there is some signifi cant content there—unless, of course, the lack of it is the desired statement. Leading the eye too close to the edge of the image could also be a mistake, encouraging the viewer's attention to focus on the frame or even to leave the composition.
 
@@ -1042,13 +1042,13 @@ Above & Left: This rock stack, known as Bowerman's Nose, is one of Dartmoor's be
 
 Above & Left: This photo of a hartebeest on an anthill in the Serengeti also illustrates the concept of the hourglass. The anthill and hartebeest form one cone with its apex at the head of the antelope. The expanding clouds above form another cone again with its apex at the point of interest. The ears, nose, and horns also create a star-like form, further drawing the eye toward the animal's head.
 
-## 17.2 The Hourglass Effect
+## 1 The Hourglass Effect
 
 In the three-dimensional world, this is like an object being placed at the narrowest part of an hourglass —where two cones, or perhaps pyramids, meet. The cones act to channel our attention to the point of convergence. Due to our tendency to retain a perception of depth in a two-dimensional image, a sense of this can be conveyed in our photographs and can give them a particularly strong appeal. In addition to focusing our attention on the subject matter, the convergence creates a strong sense of depth. I have coined the term "hourglass effect" to describe this.
 
 ![](books/Mastering_Composition/image/_page_79_Picture_0.jpeg)
 
-#### 17.2.1.1 Line Orientation
+#### 1.1.1 Line Orientation
 
 Continuing on the subject of lines, it is important to be aware that different types and orientations of lines have their own connotations due to how they affect the viewer subconsciously. These emotional connotations are not fixed, since our emotional responses depend on a host of other factors too, but certainly the tendencies toward them seem to exist.
 
@@ -1060,7 +1060,7 @@ Vertical lines have more energy and are more assertive and direct ("hot rest"). 
 
 Above: My intention here was to convey a sense of open space with this lone ostrich walking out onto the immense dry salt lake in Etosha National Park, Namibia. The two strong horizontal lines are important and allocating a largish portion of the picture space to the sky further helps to give this sense. In retrospect, perhaps I should have made the ostrich even smaller although I would have run the risk of losing his "presence."
 
-#### 17.2.1.2 Dividing Lines
+#### 1.1.2 Dividing Lines
 
 Generally we try to avoid lines (horizontal or vertical) across the center of the frame as there is a risk of them splitting the perceived image into two. Of course, if your intention is to display symmetry between the two halves of the picture space, this division of the frame into equal parts can be used to support your message. However, if symmetry is not the goal, it is usually preferable to position any obvious lines off-center.
 
@@ -1100,7 +1100,7 @@ Left & Right: It can be an interesting experiment to try "fl ipping" some of you
 
 ![](_page_81_Picture_14.jpeg)
 
-#### 17.2.1.3 Dynamic Impact
+#### 1.1.3 Dynamic Impact
 
 Diagonals have great directional value and can also lead the eye away from the usual course, which is why the direction of the diagonal affects how it infl uences us. If the diagonal runs from top left to bottom right, it is closer to how the eye is accustomed to scanning the page, so will be easier to follow and serves to give order to the picture, but little dynamic impact. In this form diagonals can convey tranquility or even melancholy. If, however, the line runs from bottom left to top right, it is more challenging and dynamic, and gives power, forcefulness, and movement to the picture.
 
@@ -1108,15 +1108,15 @@ Zigzag lines can be viewed as "extreme diagonals" that understandably suggest te
 
 Above: The angle of view here has created an interesting "Z" shape from the relatively horizontal blue elements in this interpretation of architectural components on a Greek island.
 
-#### 17.2.1.4 *TIP*
+#### 1.1.4 *TIP*
 
-#### 17.2.1.5 **HORIZONS**
+#### 1.1.5 **HORIZONS**
 
 A word here in relation to horizons. Generally speaking, you should aim to make sure that your horizons are straight. I say "generally" because sometimes, if the scene is a little fl at or static, you could try rotating the camera a little to get a quirky effect. This can also give a sense of movement as you introduce the emotive effect of diagonal lines; this effect tends to be more potent when wide-angle lenses are used.
 
 ![](books/Mastering_Composition/image/_page_83_Picture_0.jpeg)
 
-### 17.2.2 Converging Lines
+### 1.2 Converging Lines
 
 Finally, remember that converging lines can be used to add a strong sense of depth to our photographs. This perception comes about because we know that a road or railroad track, for example, is the same width along its course even though it appears to narrow as it leads away from us. Therefore if we see two lines converging in an image or a single line narrowing we assume that it is because the lines or line are running away from us into the distance.
 
@@ -1136,11 +1136,11 @@ Left: The S-shaped curve of the leading line formed by this track affects the wh
 
 # 18 The Impact of Shape
 
-#### 18.1.1.1 Dominant Shapes
+#### 0.1.1 Dominant Shapes
 
 As we have seen, in Gestalt Theory there is the acknowledgment of the impact of different shapes on the psyche. So, in addition to lines we need to be looking for shapes and how they can be used to support what we wish to say. Shapes needn't be considered purely in relation to those of the objects within the picture; equally powerful shapes can be formed by the spaces between elements, or by their shadows. As a result, both negative spaces (empty or "non-subject") and positive spaces ("subject matter") can contribute to the formation of shapes in a photograph.
 
-#### 18.1.1.2 Remnant Shapes
+#### 0.1.2 Remnant Shapes
 
 In fact, the success of some images relies heavily on what we might term "remnant shape." These are images where the dominant form/shape that we perceive is formed more by what would initially appear to be negative space or "ground," rather than the subject matter, or "fi gure." If the shape that it forms carries some symbolic meaning then it can even rise above the subject matter to become the dominant theme of the image. This occurs because of our tendency to seek out and perceive the simplest forms.
 
@@ -1150,7 +1150,7 @@ Right: This photograph taken at the Holocaust Memorial in Berlin by Edwin Westho
 
 ![](_page_86_Picture_0.jpeg)
 
-#### 18.1.1.3 Balancing Elements
+#### 0.1.3 Balancing Elements
 
 So, look at the contours formed throughout the image and how they can delineate shapes. The shapes don't have to be precise in order to be seen, as our perception will often fill in the gaps or make the shape conform to what is in our minds. Note also that by simply placing key elements on points of a geometric shape, you can often create a nicely balanced composition. If you have three elements, for example, try placing them at the points of a triangle within the picture plane. This simple approach to positioning and balancing elements to form a pleasing relationship
 
@@ -1160,7 +1160,7 @@ Above: This beautiful dusk sky was crying out to be photographed as I drove home
 
 ![](books/Mastering_Composition/image/_page_87_Picture_0.jpeg)
 
-#### 18.1.1.4 Bold Shapes
+#### 0.1.4 Bold Shapes
 
 Understandably, bold shapes will serve to create bold images. Angular shapes are also more dynamic and grab our attention more than rounded, smooth shapes. Different shapes have associations with different qualities, no doubt based on where and why they appear in the world around us. Precise, rigid shapes tend to be associated with the creations of mankind. I have heard it declared that a square is "the icon of man's dominance over nature"—a sad refl ection of our arrogance, but true perhaps. Rectangles in general represent structure, solidity, and precision, whereas triangles represent strength,
 
@@ -1174,7 +1174,7 @@ Right: "Gecko on the Moon" (actually on a globe light on a pathway in Borneo!).
 
 ![](books/Mastering_Composition/image/_page_89_Picture_0.jpeg)
 
-#### 18.1.1.5 Expression in Shape
+#### 0.1.5 Expression in Shape
 
 In nature and wildlife photography there is perhaps a tendency not to pay much attention to the emotional impact of different shapes, as perfect circles, rectangles, and triangles are rare. However, pyramidal-shaped mountains in the background, circular eyes, and even more abstract shapes such as the space between an elephant's legs as it walks, can all be used to aid your expression. In architectural photography, by contrast, strong lines and shapes abound and give great scope for compositional creativity. Here converging lines readily form triangles and other strong shapes.
 
@@ -1200,7 +1200,7 @@ Left & Above: Further examples drawn from images of Cycladic structures show how
 
 Scale, form, texture, and pattern are further perceptions we often wish to convey through our photographs. Intelligent photography with good compositional skills can also enable us to effectively depict these and other concepts such as "unity," "alignment," "conformity," and so on.
 
-#### 19.1.1.1 Scale
+#### 0.1.1 Scale
 
 Scale is often declared by the inclusion in the image of a second object, the size of which is well known. The scale of an alpine vista, for example, could be revealed by the inclusion of a hiker on a mountain path. The message might be more obvious if the hiker were wearing a red jacket to draw attention to himself as the measure of scale in the landscape.
 
@@ -1216,7 +1216,7 @@ Above: The momentary interaction between this white rhino and the tiny bird make
 
 Shape Form
 
-#### 19.1.1.2 Form
+#### 0.1.2 Form
 
 "Form" can be thought of as a term for threedimensional shape. As you can see from the illustration above, subtle gradations of light and shadow are the key to our perception of form. Chiaroscuro in art is an Italian term that literally means "light–dark." In painting, the description refers to clear tonal contrasts (usually created by strong directed light illuminating key parts of dark scenes), which are often used to suggest the volume and modeling of the subject(s) depicted. This meaning has now extended to other visual arts including photography. It is a commonly used strategy in "fi gure" photography where it is used to emphasize the form of the human body.
 
@@ -1226,7 +1226,7 @@ Good use of side-lighting could be employed to emphasize the rounded bulk of an 
 
 Right: This illustrates how strong, direct lighting can reveal contours and shapes. This is particularly evident in the jacket sleeve of this gentleman's outstretched arm.
 
-#### 19.1.1.3 Pattern
+#### 0.1.3 Pattern
 
 A useful strategy for conveying patterns is to completely fi ll the frame: the mind's eye will assume that the pattern continues way beyond the edges even if it doesn't.
 
@@ -1238,7 +1238,7 @@ Remember also what Gestalt Theory tells us about patterns, and how concepts such
 
 association of elements into groups. Above & Below: In these two pattern shots I resisted the temptation to extend the patterns right up to all edges of the frame by cropping more tightly. I felt that including the sinuous curves of the boundaries added to the images in some way, and that the juxtaposition of the two colors in the sand-dune image enhanced the picture.
 
-#### 19.1.1.4 **NEGATIVE SPACE**
+#### 0.1.4 **NEGATIVE SPACE**
 
 As an aside, it's interesting to note that a negative space can be activated by what is going on in the positive space. For example, if it appears as though the subject is about to move into the negative space, that will immediately give the negative space reason for being there, making it of interest to us. An image of a person stood on the edge of a pool and about to launch themselves into it may benefi t, for example, from the allocation of a large amount of the picture space to the still water of the empty pool.
 
@@ -1250,11 +1250,11 @@ Above: A lovely example of a pattern image where the pattern is broken cleverly 
 
 ![](books/Mastering_Composition/image/_page_95_Picture_0.jpeg)
 
-#### 19.1.1.5 Texture
+#### 0.1.5 Texture
 
 Another quality that we may wish to capture a sense of is "texture." This entails the involvement of our sense of touch, so our ability to do this through a photograph depends on the fact that senses don't generally operate in isolation. Each sense is informed by other senses as we explore the terrain that surrounds us. So, here it is a case of conveying through your photograph a sense of what it might feel like to touch and run your hand over the subject matter. If you do this successfully, the viewer's perception of the image will also trigger their tactile perception, leaving them with a sense of touching the subject too. As this involves an appreciation of the three-dimensional attributes of the subject matter (its "form"), lighting can be the key to conveying this. So, low side-lighting may work well, for example, for the harsher, more rugged structures, but sometimes diffuse light works better for softer, subtler textures.
 
-#### 19.1.1.6 **SENSORY PERCEPTION**
+#### 0.1.6 **SENSORY PERCEPTION**
 
 It is interesting to consider how this potential for recruiting other senses into the perception of your images can give your images extra impact. For example, a blurred image of a speeding police car is likely to muster up the sound of a siren blaring, leading to an emotive response in the viewer. There are many ways in which an image could tempt the senses and this is no doubt made good use of in advertising images in the food industry.
 
@@ -1272,7 +1272,7 @@ Above & Right: The quality and direction of the light helps give a sense of what
 
 ![](books/Mastering_Composition/image/_page_97_Picture_1.jpeg)
 
-#### 20.1.1.1 Aerial Perspective
+#### 0.1.1 Aerial Perspective
 
 The impression of depth is essential for the impact of many images, giving them the sense of reality that enables us to relate to them. Photographs only really have two dimensions, so the third dimension—that of depth—has to be implied if it is to be perceived by the viewer. Perspective is the art of suggesting three dimensions on a two-dimensional surface. It involves recreating the spatial relationships that objects receding into a scene present to the eye. In
 
@@ -1294,7 +1294,7 @@ Left: In this example, strong shafts of early-morning sunlight help separate the
 
 ![](books/Mastering_Composition/image/_page_99_Picture_0.jpeg)
 
-### 20.1.2 Linear Perspective
+### 0.2 Linear Perspective
 
 Linear perspective, by contrast, is based on the fact that we know that parallel lines receding into the distance (such as the tracks of a railroad) appear to converge toward the horizon. Wide-angle lenses tend to exaggerate this form of perspective and adjusting your angle of view in relation to the surface that carries the converging lines will alter its effect profoundly. It is worth noting here that perspective distortion does not arise because we are using a short focal length lens. Rather it is due to the tilt of the camera. In practice we do get more distortion with wide-angle lenses because we often end up getting much closer to the subject matter, so the camera is likely to be tilted up or down to contain the subject matter within the frame.
 
@@ -1328,7 +1328,7 @@ tone or focus due to their different distances. Depth can also be conveyed by di
 
 different degrees of focus rather than striving for a maximum depth of fi eld. Whichever of these ploys is utilized, opting to include elements in the foreground, mid-ground, and background can further give a sense of extended depth.
 
-## 20.2 **Chapter 4**
+## 1 **Chapter 4**
 
 # 21 The Role of Tone & Color
 
@@ -1348,7 +1348,7 @@ We have already acknowledged how tone and color are important factors in helping
 
 Left & Above: A simple gradient mapping exercise applied to this image taken from the depths of an enormous cave illustrates how the eye tends to take much more interest in the lighter regions.
 
-#### 21.1.1.1 Tone
+#### 0.1.1 Tone
 
 One fundamental principle of paramount importance to us is what I will call "the light at the end of the tunnel" effect. This describes how the focus of our attention is drawn from dark to light areas.
 
@@ -1366,7 +1366,7 @@ are rendered particularly dark, helping direct attention to the subject.
 
 Another example where you wouldn't use an exposure reading that averages the whole scene is when capturing silhouettes. These depend on tonal contrasts, and in general the aim is to reduce the tone of the subject matter, leaving little detail evident within it. This allows the viewer to concentrate on the subject's shape and outline, which will be set off by strong contrast with the surroundings. So, biasing the exposure strongly toward the surrounding brighter areas and highlights is usually appropriate.
 
-#### 21.1.1.2 Contrast
+#### 0.1.2 Contrast
 
 We have seen that areas of high contrast within a scene tend to draw the eye, but the overall contrast that an image displays will also have an effect on us. Generally, in an image with higher contrast the eye will tend to be drawn more forcibly around the scene, away from shadow areas and toward lighter tones. A high-contrast image therefore tends to appear to have more "punch" and energy. If the contrast is lower then the eye will tend to roam around the scene more freely, so a low-contrast photograph may instigate a gentler, more tranquil response from the viewer. There are no "rights' or "wrongs" as both have their merits in different situations dependent on the required reaction in the viewer.
 
@@ -1376,7 +1376,7 @@ Some scenes are also naturally more suited to a high-key or low-key interpretati
 
 Right: The lightness of the more distant steps helps draw the viewer on an imaginary journey from dark to light along this passageway.
 
-#### 21.1.1.3 Color
+#### 0.1.3 Color
 
 Let us now look at how an understanding of the impact that color has on us can be a further ally. As with tones, different colors also have different potencies for grabbing the attention and so backgrounds also need to be scanned for potentially distracting colors. Certain colors, as we shall see, are particularly dangerous here.
 
@@ -1384,7 +1384,7 @@ Much of the subject matter that we are drawn to is brightly colored, so some und
 
 Color has a direct link to our emotions and each color has its own connotations and associations related as much to culture and experience as to their physiological perception by the eye and brain. For example, yellow, the brightest color, is associated with warmth, summer, wealth, freshness, and friendliness and can also convey joy, happiness,
 
-#### 21.1.1.4 **COLOR DEFINITION**
+#### 0.1.4 **COLOR DEFINITION**
 
  Each color is defi ned by its attributes of brightness, hue, and saturation. You may come across the widely used Munsell Color System, which is an example of a system used to describe and categorize colors based on the following three dimensions:
 
@@ -1400,13 +1400,13 @@ Right: A picture composed of two strong colors in more or less equal measure tha
 
 cheerfulness or, at the other extreme, aggression. As it is the brightest color it tends to "jump out" at you.
 
-#### 21.1.1.5 Advancing Colors
+#### 0.1.5 Advancing Colors
 
 Red is also bold and energetic and conveys energy, vitality, power, love, lust, desire, passion, excitement, danger, fear, aggression, fi re, and heat. Like yellow, red tends to "advance," meaning that it catches our attention and can dominate an image. Accordingly,
 
 red needs to be used with caution in a sensitive composition. Orange is the other warm color conveying a sense of heat and energy.
 
-#### 21.1.1.6 Cool Colors
+#### 0.1.6 Cool Colors
 
 The cooler colors are blue, green, and purple. Blue is a less active color and has associations with the sky and water. It conveys wetness, airiness, coolness, mood, depression, desolation, and
 
@@ -1418,7 +1418,7 @@ Finally, purple may suggest mystery and spirituality and, as with the other cool
 
 These lists of qualities are by no means complete, and associations may vary between cultures. White, for example, often signifi es purity, peace, and innocence in Western cultures, but can symbolize death in Japan.
 
-#### 21.1.1.7 The Weight of Colors
+#### 0.1.7 The Weight of Colors
 
 It is also acknowledged that colors vary in terms of their visual weight. For example, red is thought to be heavier than blue, so you might only need a small amount of red to balance a larger amount of blue. Note also that a color changes character when placed with other colors. This is because our perceptions are constantly being changed and we adjust our thresholds according to the relative effects of neighboring colors. For example, red surrounded by blue will look "hotter" than the same red hue surrounded by yellow.
 
@@ -1436,7 +1436,7 @@ Above & Below: The cool and tranquil colors of chicory (above) and Barbary Nut f
 
 The three painter's primary colors are red, blue, and yellow, which in their own right have great visual impact. They are arranged around the periphery of the color wheel. Between them are the secondary colors, which are made by mixing the adjacent pairs of primary colors. These secondary colors are green, orange, and purple.
 
-## 21.2 Complementary Colors
+## 1 Complementary Colors
 
 Pairs of colors lying opposite each other on the wheel are considered "complementary": these pairs are red/green, orange/blue, and yellow/purple. When put together they have an unusual optical effect and appear to "vibrate" more intensely due to quirks of
 
@@ -1448,11 +1448,11 @@ Above: The juxtaposition of these bright red anemones against the grass and mute
 
 ![](_page_109_Picture_0.jpeg)
 
-#### 21.2.1.1 Harmonious Colors
+#### 1.1.1 Harmonious Colors
 
 "Harmonious" colors are those that are related in hue (so are adjacent to each other on the color wheel). Their harmony comes from their similarity. When put together these have a less bold effect than complementary colors, but can be appealing and easier to tolerate for longer (useful for prints that are destined for long-term display on the walls of your home). So, yellow, green, and blue may work well together in this way, or pink, orange, and yellow. The concept of "autumn/fall" colors falls into this category.
 
-#### 21.2.1.2 Muted Colors
+#### 1.1.2 Muted Colors
 
 Finally, "pastel" colors are muted versions of the primaries and secondaries. Emotionally, they tend to be pleasing and have a quieter impact and again, therefore, are easier to live with. Thus a landscape photographer aiming to produce images to sell to the public at art fairs may benefit from bearing this in mind when capturing and processing images.
 
@@ -1460,7 +1460,7 @@ Above: After the sun has set colors become more muted, producing appealing paste
 
 ![](_page_110_Picture_0.jpeg)
 
-#### 21.2.1.3 **COLOR BY NUMBERS**
+#### 1.1.3 **COLOR BY NUMBERS**
 
  Different colors also have different "brightness." Johann Wolfgang von Goethe, a German poet and playwright, ascribed numbers to each color to refl ect this difference: yellow is nine, orange is eight, red and green are six, blue is four, and violet is three. Accordingly, when combining colors, one can balance the colors in relation to these values for a pleasing outcome. Classic color theory suggests combining the colors by using them to fi ll percentages of the picture space in inverse proportion to their relative brightness values. For example, if you are combining red (a value of six according to Goethe) and green (also six), you could allocate half the picture area to each of them to create a balance. However, for yellow (nine) and violet (three) you would need to use a proportion of 1:3 (with violet occupying the majority of the image) to create a balance. Again, this is worth bearing in mind when you are thinking about the proportions of different colors to include in a composition.
 
@@ -1493,7 +1493,7 @@ Left: This series of images of the Sultanahmet Mosque in Istanbul illustrates ho
 
 Right: Some subject matter really seems cut out for a black-and-white rendition, as with the patterns on this group of zebras.
 
-#### 21.2.1.4 Black-and-White Images
+#### 1.1.4 Black-and-White Images
 
 It is interesting to consider at this juncture if there are compositional considerations of particular relevance to black-and-white photography. Blackand-white photography generally accepts a less literal interpretation of "reality" than color photography, but can provide more expression through the modulation of tones to defi ne texture, shape, and form. Underpinning consistent success in the production of this type of imagery is an ability to previsualize how a color world will appear when rendered in monochrome. This undoubtedly comes largely from experience.
 
@@ -1511,13 +1511,13 @@ similar. When viewed in color, this similarity can easily be overlooked as they 
 
 As already noted, in black-and-white photography color filters can be very potent tools, and experience in their use will enable more accurate prediction of their effect on the resulting image. Using digital postproduction software the photographer now has great scope to manipulate the tone at which any hue will be rendered in the black-and-white image, so these filter effects can be simulated with great subtlety.
 
-## 21.3 Dodging & Burning
+## 2 Dodging & Burning
 
 Removing the infl uence of color will often simplify a picture and put more focus and attention onto simple shapes, lines, and patterns in the image. This in itself can mean that it's even more important that they are arranged well for the image to succeed. The processes of "dodging" and "burning" can be used to exaggerate differences in tone and to draw attention to features, and balance tone and "weight" within the image plane. This can, of course, also be done with color imagery, but seems particularly potent in black and white, where the tones are everything.
 
 We can, of course, go on to reintroduce color in a subtle and controlled way through the processes of toning, split-toning, or even "color-popping" (coloring) where color from the original fi le is reintroduced to parts of the now black-and-white image. These are all useful forms of expression for conveying your message or refl ecting a mood and in use will depend on your intentions in a given situation.
 
-## 21.4 **Chapter 5**
+## 3 **Chapter 5**
 
 # 22 Applying the Theory
 
@@ -1551,7 +1551,7 @@ so, who forms the proposed audience, and how do we want them to react?
 
 Spend some time considering your intentions regarding the message to be conveyed. Do this in relation to your photographic journey in general, and also in relation to each individual photo. Usually the intended message will depend partly on what presents itself to us, but it can also be the driving force behind what we go out looking for to photograph.
 
-## 23.1 Developing Creativity
+## 1 Developing Creativity
 
 For most of us, our photography is multifaceted and this is probably a good thing. Even a professional would do well to balance their quest for saleable images with some time focusing on taking images to develop their own creativity. Some experimentation without concerns about the image conforming to commercial constraints and, perhaps more importantly, having some fun is crucial for our continued success and development as photographers. If we are not enjoying our work and there is no passion, this will show as blandness in our imagery.
 
@@ -1559,7 +1559,7 @@ What is going on within us will, whether we like it or not, be expressed in some
 
 are photographing for reasons of passion rather than duty. As a result, much of our best work will probably arise when we are being true to our vision in the broader sense of the word.
 
-#### 23.1.1.1 Mixed Genres
+#### 1.1.1 Mixed Genres
 
 Dabbling with other genres of photography from time to time can prove to be a useful learning tool and serve to improve our skills in our normal fi eld of interest. Those involved in reportage or street photography, for example, may claim that their photography is more reactive. Here anticipation is indeed particularly important, as the images need to be made in split seconds. However, indulging in some landscape, architectural, or still-life work, where there is more scope for exploration and experimentation may help these photographers in the development of skills, which if they become suffi ciently ingrained, can then automatically or intuitively be applied during those split-second opportunities in their main work.
 
@@ -1575,13 +1575,13 @@ If you're a nature photographer, it can be helpful to spend time really immersin
 
 Vision can be considered in relation to both the short and longer term. In the short term it is related to the moment; it is our vision for a particular photo or a particular photo shoot. In the longer term it can be viewed as our vision in general; it is related to where our photography is going and the statements we wish to make. Our vision is a refl ection of our conditioning, perceptions, and emotional responses to events in the outside world, so is a product of our inner and outer worlds interacting.
 
-#### 23.1.1.2 Conveying Emotion
+#### 1.1.2 Conveying Emotion
 
 It is worthwhile pausing to consider your "vision" in the light of this. Is there a philosophy or viewpoint that you are hoping to support through your images? If so, what is the emotion that is evoked when you ponder the issues? This emotion will be conveyed in your images, and this may not necessarily be helpful to the cause. For example, you may be angry about some political injustice, but refl ecting this anger in your journalistic images may not be inviting for the viewer to dwell on the wider issues.
 
 Our style is how others might describe facets of our work and will relate to our vision amongst other things. Neither vision nor style is fi xed—they evolve and to some degree are interrelated. We tend to develop a unique style and expression in time, and perhaps much of the process of our maturation as photographers is learning to express ourselves more effectively. In contrast to our "vision," perhaps we shouldn't get too fi xated on trying to defi ne "our style" so that we avoid the risk of coming to identify
 
-#### 23.1.1.3 **HERE'S MY ATTEMPT TO DEFINE MY DRIVING FORCE:**
+#### 1.1.3 **HERE'S MY ATTEMPT TO DEFINE MY DRIVING FORCE:**
 
 *"As is probably the case for many wildlife photographers, I am instilled with a deep passion and reverence for the natural world generated by the sense of wonder I feel when immersing myself in it. I respect and try to see wisdom and beauty in all the processes of nature—even those that at fi rst sight might appear harsh and cruel. I feel an empathy particularly with suffering or threatened animals and especially those suffering impotently at the hands of humans. If I had to defi ne what it is I want to say, it is best expressed in terms of wanting to open the eyes of others to the beauty around us and to draw attention to the plight of the natural world, particularly in relation to our human excesses. I would also want to inspire others to get out there, and witness and rejoice in the spectacle of the natural world and not to see ourselves as above or apart from it. Although I would hope that my photos communicate this beauty and design inherent in nature, I would also expect them to express some of the sadness I feel for what we have already done.* 
 
@@ -1611,7 +1611,7 @@ Take a pride of lions, for example. Photographs of the biggest and smallest—th
 
 into the eyes of her newborn, mourners gathered around an open coffi n, or the struggle for life as a wildebeest is pulled down by a pack of wild dogs. Knowing what we know now, perhaps we should be considering how we can use our compositional skills to emphasize the "edge" characteristics of this sort of subject matter.
 
-## 23.2 A Different Approach
+## 2 A Different Approach
 
 In this technological era we are surrounded almost constantly by photographic imagery, so if we want our images to stand out from the crowd they often have to be unique in some way. Consequently there is a strong pressure imposed on photographers for originality in their imagery. Beware though, as there is an obvious danger here if the photographer simply tries to be different for its own sake. Simply being different doesn't make an image good. Invariably, we Above: If you're after a "cute" face, they don't come much cuter than this—a palmato desert gecko. Getting down very low so that the gecko appears to be peering over a ridge of sand helps draw attention to the face and also bestows upon it a sense of curiosity and inquisitiveness.
 
@@ -1619,7 +1619,7 @@ will end up putting our own stamp onto our images anyway as we develop our perso
 
 ![](books/Mastering_Composition/image/_page_122_Picture_0.jpeg)
 
-#### 23.2.1.1 **HERE ARE A FEW MORE TIPS THAT MAY HELP IN THIS REGARD:**
+#### 2.1.1 **HERE ARE A FEW MORE TIPS THAT MAY HELP IN THIS REGARD:**
 
 - Photo shoots rarely turn out as you expect or intend. So, be open to all eventualities and possibilities, and don't get too focused on one anticipated outcome.
 - Retain a measure of fl exibility in your approach to enable you to get the best out of every moment, particularly when you're working with others and are not in complete control.
@@ -1640,7 +1640,7 @@ Above: The pairing of these cape turtle doves is immediately perceived by the vi
 
 ![](books/Mastering_Composition/image/_page_124_Picture_0.jpeg)
 
-#### 24.1.1.1 Planning & Composition
+#### 0.1.1 Planning & Composition
 
 Let's now review some of the Gestalt principles and consider how we might incorporate them into the "seeing," planning, and composition of an image.
 
@@ -1654,7 +1654,7 @@ Above: The wispy cirrus clouds form curves and lines, helping draw attention to 
 
 of sky and land; a polarizing fi lter may help the clouds stand out from the blue sky, making them more active in the composition; elements within the sky and land portions of the scene will be carefully balanced in terms of visual weight; lines and shapes formed by cloud formations will be made use of if appropriate.
 
-#### 24.1.1.2 Connecting Elements
+#### 0.1.2 Connecting Elements
 
 Indeed, the sky and land are in effect two elements in the image and the photographer will often try to make the two appear to be in close relationship with one another. Color, lines, and visual balance can all be used to connect elements within these two broader zones of
 
@@ -1662,7 +1662,7 @@ the image to assist this perception of relationship.
 
 We went on to briefl y consider the importance of the amount of space you leave around the subject matter and how it can affect the way in which the subject is perceived. When you are composing your next picture, ask yourself how you want the subject to feel—free or cramped? Then experiment with allowing more or less space around a subject to support this.
 
-## 24.2 Creating Separation
+## 1 Creating Separation
 
 With regard to the six Gestalt principles, we explored the relationship between "fi gure" and "ground," and how the fi gure can be separated from the ground using
 
@@ -1674,7 +1674,7 @@ Above & Top: In this Dartmoor scene, I wanted to link the landscape to the drama
 
 contrast, sharpness, color, size, and so on. Depth of fi eld and the lighting direction and quality can infl uence this, and we may also use fi lters, supplementary lighting, and digital processing to augment it.
 
-## 24.3 Looking for Similarities
+## 2 Looking for Similarities
 
 The principle of "similarity" describes our tendency to see objects that share similar visual characteristics as belonging together. We can use this actively when
 
@@ -1684,17 +1684,17 @@ Above: The similar postures of the conductor and violinist in this picture are a
 
 ![](_page_127_Picture_0.jpeg)
 
-#### 24.3.1.1 A Sense of Belonging
+#### 2.1.1 A Sense of Belonging
 
 Knowing about "proximity" (that objects/shapes close to each other create a sense of belonging together) also allows us to look for false illusions that grouped elements might give regarding being related when they are not. Alternatively we can look for objects close together forming a composite shape: the shape formed by a dense fl ock of birds might be perceived as a rather sinister hand in the heavens, for example.
 
-## 24.4 Seeking Closure
+## 3 Seeking Closure
 
 The next principle, "closure," regards our tendency to "fi ll in the gaps." This is triggered by a suggestion of a visual connection or continuity between sets
 
 of elements that don't actually touch. To activate this in the viewer we might look for imaginary lines (vectors), or shapes (counter forms) that have a message or story to offer. Look at how negative space can be used in this regard and how it can contribute to the harmony of the picture or support the elements within it.
 
-## 24.5 Continuity
+## 4 Continuity
 
 "Continuity"—our tendency to continue strongly defi ned and directed contours and shapes—is a concept we employ when we use lines that are broken or interrupted to lead the eye to a point
 
@@ -1704,11 +1704,11 @@ Above: The similarity of shape and tone of these dark shapes on the Serengeti Pl
 
 of interest in the image. Again, we might become more ambitious and use this principle to create a photograph that challenges our perceptions or creates a clever illusion.
 
-#### 24.5.1.1 Symmetry and Order
+#### 4.1.1 Symmetry and Order
 
 Finally, how might the principle of "symmetry and order" infl uence our photography? To start with, we need to acknowledge that anyone viewing our pictures will have a tendency to try to create symmetry and order in them. Then we can take care to ensure that the viewer's energy is not diverted by trying to balance or bring order to an unbalanced or messy composition—unless that is our intention, of course!
 
-## 24.6 A Question of Weight
+## 5 A Question of Weight
 
 The concept of visual weight comes in here, in relation to our quest for balance and order. Consider the relative weights of the elements in your image (taking into account their size, tone, color, and position in the frame, their "interest" and so on) and how positioning them differently might create a better sense of balance in the image as a whole. We could also consider creating an additional or alternative center of gravity off-center in the picture plane that could generate perceived forces and "pulls" on nearby elements. If relevant to what we see to be going on in that part of the image this can impart extra energy to that area. Consider what might be used
 
@@ -1718,7 +1718,7 @@ Above: The weight of this image of Cornwall's Land's End would normally be heavi
 
 to defi ne such a fulcrum and how its position could be precisely defi ned—a "point" (a particularly small object or shape) may be the answer.
 
-#### 24.6.1.1 Perceptual Ambiguity
+#### 5.1.1 Perceptual Ambiguity
 
 As we get more ambitious, we might even put some of this together to create a "clever picture" that depends on perceptual ambiguity or "equivocation" (its potential for being viewed in two or more ways). We might look for or set up the picture that tells a story due to the phenomenon of "continuance" where the arrangement of similar elements makes the viewer construct a sequence in their own minds. "Humor" images often rely on contrasting two ideas within an image, creating ambiguity or what appears to be an absurd juxtaposition. Another strategy is to make use of the fact that a photograph freezes time. This gives you the option of setting things up to suggest that something could or does happen, even if it doesn't.
 
@@ -1738,7 +1738,7 @@ Right: In this case, the precise juxtaposition of near and distant objects creat
 
 ![](books/Mastering_Composition/image/_page_131_Picture_0.jpeg)
 
-#### 24.6.1.2 Directing the Eye
+#### 5.1.2 Directing the Eye
 
 Moving on to the other facets of composition, we have discussed how important it is to be aware of the potential course the viewer's eye will take through the image. Do you want to make it easy for them and to direct their eye to a particular point? Do you want it to go there quickly or slowly?
 
@@ -1774,13 +1774,13 @@ Left & Above: This picture of the shadow of a bush cricket viewed on the undersi
 
 Left & Above: These are two cases where a choice is made to divide the picture space by a horizontal line—in both instances that between the water and land. This serves to emphasize the symmetry between the subject matter and its refl ection.
 
-## 24.7 Dividing Lines
+## 6 Dividing Lines
 
 When there is the option to include strong lines in a composition (whether they are straight or curved), remember the various connotations of lines running different courses and take time to consider how the orientation or inclination of the line(s) will best suit your intended message or the feeling that you wish to convey. Look at how changing your viewpoint can help the different lines in the scene to work together and support each other in this regard. Also think about how they balance each other in terms of their visual weight and how they will direct the viewer's eye to other elements in the scene. Take care not to allow the lines to divide the image fi eld too effectively—splitting the image into two—unless this is your intention. Remember also that the viewer will be striving to create order and symmetry, so sloping horizons can detract from them seeing what you want them to see.
 
 ![](books/Mastering_Composition/image/_page_135_Picture_0.jpeg)
 
-## 24.8 Emphasizing Shape
+## 7 Emphasizing Shape
 
 Shapes of all types surround us, so take time to look for them and examine them, and consider how you can reveal them to good effect in a photograph. Look also for shapes formed by the spaces between elements or by their shadows—these can be equally potent.
 
@@ -1794,9 +1794,9 @@ Above: The distorting effect of wide-angle lenses can be employed to emphasize s
 
 Left: This image relies on its strong shapes, lines, and colors. Ultimately, the point of interest is the eye of the swan, which provides a strong sense of relationship between the subject and the viewer. The sweeping curve of the neck and head supports a sense of what a swan often represents—grace and poise. There is a strong fi gure/ground distinction due to the light and dark tones of these areas, and the strong horizontal lines of the ripples in the background further emphasize the curve that breaks them. Finally, the strong orange and blue colors work well together, complementing each other.
 
-#### 24.8.1.1 *TIP*
+#### 7.1.1 *TIP*
 
-#### 24.8.1.2 **MAJOR AND MINOR**
+#### 7.1.2 **MAJOR AND MINOR**
 
 The potency of certain images composed according to the "Major-minor Rule" depends on the oscillation of the viewer's eye between two elements. Here a distinct object or shape is repeated in the image, usually with one of them in the background, and often out of focus. It's as if the second shape echoes the fi rst and the two balance each other with the eye tending to switch its focus from one to the other.
 
@@ -1806,7 +1806,7 @@ Above: A simple example of the Major-minor Rule involving two impala does in clo
 
 ![](_page_137_Picture_0.jpeg)
 
-#### 24.8.1.3 Defi ning Patterns
+#### 7.1.3 Defi ning Patterns
 
 Regarding patterns, it's especially important that you're clear in your own mind what you want to say about the pattern. Continuing a pattern up to the edge of the frame will give the viewer the impression that it continues indefi nitely beyond, while messages about the relationships between the objects that form the pattern may come from their degree of similarity and proximity, and their orientation and alignment. Examining a pattern can be a monotonous pursuit, so unless there's an interesting message associated, there is the risk of boring the viewer. To allay this risk it's often effective to break the pattern quite
 
@@ -1818,7 +1818,7 @@ Right: The light on the wood of this old doorframe makes the frame an important 
 
 ![](books/Mastering_Composition/image/_page_138_Picture_0.jpeg)
 
-#### 24.8.1.4 **A FRAME WITHIN A FRAME**
+#### 7.1.4 **A FRAME WITHIN A FRAME**
 
 Can additional elements form a frame to help support your message or focus attention where it is required?
 
@@ -1834,7 +1834,7 @@ What focal length do you need to help frame the subject appropriately and to ref
 
 of field?
 
-#### 24.8.1.5 **DISPLAYING IMAGES**
+#### 7.1.5 **DISPLAYING IMAGES**
 
 Although it is perhaps beyond the remit of this book, it can be argued that everything that goes into displaying a photograph can be regarded as an extension of the compositional process. If we take this view, we could extend our consideration to encompass the type of paper it is printed on, the mount, the frame, the surrounding areas of the displayed image (including other images nearby), and the lighting it is viewed under.
 
@@ -1848,11 +1848,11 @@ Right: The diminishing size of the crosses and spring fl owers into the distance
 
 ![](books/Mastering_Composition/image/_page_140_Picture_0.jpeg)
 
-#### 24.8.1.6 A Question of Depth
+#### 7.1.6 A Question of Depth
 
 We often want to create a sense of depth in our pictures, particularly in landscape images. Many photographers rarely switch to portrait orientation, but this can be a simple and effective ploy here. Bear in mind how the relative scale of elements can be used to support the sense of distance in an image. "Scale constancy" tells us that a tiny car in an image is further away than a large car. Can the phenomena of aerial and linear perspective be used effectively?
 
-### 24.8.2 Little or Large?
+### 7.2 Little or Large?
 
 Even at the stage of planning, composing, and capturing our images it is worth bearing in mind the medium in which they are likely to be viewed. As we have seen, if they are likely to be viewed on the small screens of portable devices in tandem with many other images, they may benefi t from being relatively simple and stark, and with a message that is quickly perceived. More complex compositions may warrant a larger display in a very different environment.
 
@@ -1868,7 +1868,7 @@ Before I offer a couple of simple checklists that might serve as reminders, ther
 
 Even if your viewfi nder has 100% coverage it is easy to miss potential problems that are close to the edge of the frame. It's very annoying when you bring up the image on the big screen only to see that a key person in the background has his or her head cut off! Take care at the time of capturing the image, and if you have time, scan the whole frame—including the edges—before releasing the shutter.
 
-### 25.1.1 Exploring the Scene
+### 0.1 Exploring the Scene
 
 Having embarked on your photo shoot, try to spend some time relating to the subject matter or environment to establish and clarify what it is you wish to convey. You can then start to experiment with different perspectives, radically altering the relative sizes and positions of the elements in the scene through a change of position or viewpoint. We all see the world at eye level, so by simply shooting from higher or lower we can create shots with an alternate perspective and new relationships between the pictorial elements. Small changes can make a big difference, but even experiment with the extremes. Pivoting LCD screens on the backs of many cameras mean you don't have to contort yourself to such a degree! Also look at what the environment has to offer to enable you to view your subject matter from different positions.
 
@@ -1880,7 +1880,7 @@ Above & Right: The roadside view (right) of this old stone tower-house in the so
 
 ![](_page_143_Picture_0.jpeg)
 
-#### 25.1.1.1 Taking a Viewpoint
+#### 0.1.1 Taking a Viewpoint
 
 Remember that the photographer chooses the viewer's position by selecting the viewpoint and to some degree will infl uence their perceived relationship to the subject. For example, if we take an image of a small child from below their eye level (so we are looking up at them), this will give the viewer a sense that the child is a relatively dominant character. This is also why pictures looking down on small puppies are so popular: it makes them appear subordinate and vulnerable.
 
@@ -1896,7 +1896,7 @@ Above & Right: In this case my preferred viewpoint came down to what was importa
 
 ![](_page_145_Picture_0.jpeg)
 
-#### 25.1.1.2 A Sketch Pad as Your Ally
+#### 0.1.2 A Sketch Pad as Your Ally
 
 Having explored the scene, you will hopefully have established in your mind's eye an approximation of the image you wish to make. Depending on the genre of photography that you are involved in you may then have the luxury of being able to precisely set this image up: studio and still-life work often gives you more control, whereas documentary, landscape, architectural, and nature photography often mean you are dealing with compromises.
 
@@ -1920,7 +1920,7 @@ Below: Hopefully you will have come up with something like this.
 
 ![](books/Mastering_Composition/image/_page_147_Picture_1.jpeg)
 
-#### 25.1.1.3 Simplify
+#### 0.1.3 Simplify
 
 Ask yourself if there is any way you can simplify things to clarify your message. The constituent elements of a scene are usually already there, as this is what has drawn you to it in the fi rst place, so it is often a process of subtracting or removing the nonessential or distracting parts. In a good composition, one has the impression that nothing needs to be added and nothing needs to be removed from the picture—it is, in essence, "complete."
 
@@ -1938,7 +1938,7 @@ message may actually be one of complexity and messiness, in which case you would
 
 ![](books/Mastering_Composition/image/_page_148_Picture_0.jpeg)
 
-#### 25.1.1.4 **SILHOUETTES**
+#### 0.1.4 **SILHOUETTES**
 
 Silhouetting our subject matter simplifi es an image by removing the detail from the shaded areas that face us. This focuses our attention on the shape and outlines of objects. When considering capturing a silhouette, ask yourself:
 
@@ -2031,7 +2031,7 @@ image, so you may also consider fi lters that alter the color balance to affect 
 
 It is diffi cult to condense everything that we have covered in this book into a succinct checklist that could be used in the fi eld. However, here is a starting point—a rather lengthy list of questions you could ask yourself each time your fi nger reaches for the shutter-release button. I have broken it into four sections to refl ect the potential stages in the process. It can, of course, be edited according to your needs.
 
-#### 29.1.1.1 Vision
+#### 0.1.1 Vision
 
 - What are your passions? Are you photographing something that interests you? If so, your enthusiasm will also give you the energy to work hard to compose the image!
 - Have you done your research regarding timing, locations, and so on? For outdoor photography consulting weather forecasts, tide tables, or apps such as The Photographer's Ephemeris (TPE) for sun and moon positions can save you a lot of wasted energy.
@@ -2040,7 +2040,7 @@ It is diffi cult to condense everything that we have covered in this book into a
 - Is the subject trying to say something to you?
 - Have you taken time to form a "relationship" with the subject matter?
 
-## 29.2 Exploration of the scene
+## 1 Exploration of the scene
 
 - What do you want to be dominant and how can you make it so?
 - What do you want to be in the frame and what shouldn't be there? Can you do some careful "gardening" to tidy up the image, removing or concealing any unwanted/confusing elements?
@@ -2068,7 +2068,7 @@ Extremes such as fi sheye lenses give a "special effect" in themselves and if us
 
 Above: This picture, entitled "The Tooth Fairy," depends on the viewer seeing three things immediately—the coin, the missing tooth, and the glee on the young girl's face and quickly putting these together to work out what has happened. Placing the coin bottom left ensures it is seen early, while keeping it reasonably close to her mouth ensures that a connection is established. The oblique angle gives the picture extra dynamism. Photo by Mark Shuttleworth.
 
-## 29.3 Technical considerations
+## 2 Technical considerations
 
 - How much depth of fi eld do you need to help clarify the subject matter or to better convey your message?
 - What shutter speed do you want for the effect you have in mind?
@@ -2080,7 +2080,7 @@ Above: This picture, entitled "The Tooth Fairy," depends on the viewer seeing th
 - Might a fi lter help? A polarizer to cut out refl ected glare or enhance colors? A neutral density fi lter to enable a long exposure? Or even a fi lter to add lens fl are or soft focus?
 - Before releasing the shutter, scan the entire composition through the viewfi nder. Check that the scene is level (unless you intend otherwise) and make sure you have not cut off any parts of important elements. Also check for any distractions and look for "mergers"—when two separate elements overlap causing some degree of confusion regarding their relationship. Check the horizon—it's usually not ideal if it cuts through a person's head.
 
-#### 29.3.1.1 Variations and timing
+#### 2.1.1 Variations and timing
 
 - Do you need to wait for one element to move into position?
 - If some of the elements are on the move, is it worth taking a sequence of images to improve your chances of having them in the desired place?
@@ -2124,7 +2124,7 @@ Above & Right: The convergence of the minaret and embracing tree in the image ab
 
 ![](books/Mastering_Composition/image/_page_158_Picture_2.jpeg)
 
-## 30.1 **Chapter 6**
+## 1 **Chapter 6**
 
 # 31 Photography as Art
 
@@ -2142,7 +2142,7 @@ Collectively, dictionary defi nitions seem to suggest that an essential part of 
 
 So when do photographers become artists? In purely depictive photography, composing the image is a very rigid process and is concerned with showing the entire subject or a part of it with maximum clarity. The goal is accuracy of depiction; a faithful representation of reality. There is likely to be little active, creative, manipulative involvement from the photographer. So, perhaps here the photographer remains more of a technician than an artist.
 
-## 31.1 mood and help give it a slightly surreal quality. Passive Onlooker
+## 1 mood and help give it a slightly surreal quality. Passive Onlooker
 
 As already mentioned, there is no best or correct way to photograph any given subject. We have seen how our individual perceptions, conditioning, and "vision" will invariably result in our photos being unique expressions of ourselves. In some situations the subject matter can be allowed to be the dominant Above: The impact of this photograph of a cheetah and her grown offspring depends largely on their array of postures being almost too perfect to be true. My viewpoint, selection of focal length, and quick reaction to a fl eeting moment produced the foundation. The light was fl at and the color version is surprisingly impotent, but fortunately I saw its potential as a black-and-white image. Subtle contrast and tonal adjustments add some
 
@@ -2164,13 +2164,13 @@ Right: Silhouetting the Istanbul skyline by shooting toward the rising sun has s
 
 Right: This image taken from the terrace of a house in Greece certainly conveys a sense of drama. The "revelatory" light bursting through the break in the clouds saves you from the otherwise oppressive darkness of the scene. In this case I put some degree of creative energy into the capture with decisions about what to include and the placement of the cloud forms and light patterns on the water. I also, of course, had some further input through the processing stages on the computer with a few simple measures to augment the contrast of the scene and some gentle dodging and burning.
 
-#### 31.1.1.1 Artistic Qualities
+#### 1.1.1 Artistic Qualities
 
 Despite all this, I think that most of us draw a line somewhere through all the work we have produced. On one side of it are the images we'd view as "art," or that we at least feel have an artistic quality. On the other side are the rest.
 
 In one or two of the major international photography competitions, there is a category for Fine Art and it can be interesting to view the entries in this category and see if you can identify any differences between them and images entered in other categories, such as Landscape, Nature, and Still Life. I've certainly not been able to see any clear distinction, although the Fine Art category perhaps tends to include simpler imagery with an emphasis on strong shapes and patterns in the compositions. Many of the images, particularly those including people, also appear to be "staged," which suggests that the vision came fi rst with the photographer going on to manifest it.
 
-#### 31.1.1.2 Aesthetic Merit
+#### 1.1.2 Aesthetic Merit
 
 In my own work, this line is not fi xed and undoubtedly changes over time with certain images fl itting from one side to the other. I've heard it argued that photography is fi ne art when it is undertaken purely for its aesthetic merits. My criteria for defi ning whether one of my images could be regarded as "Fine Art" refl ects this, in that it will depend largely on my intentions for its use. This no doubt also infl uences the creative energy that I put into the capture and processing of the image.
 
@@ -2180,7 +2180,7 @@ In my own work, this line is not fi xed and undoubtedly changes over time with c
 
 For example, if I expect the image to be framed and hung on a wall (whether in a private home or in an exhibition), that probably makes me more conscious of trying to express something and "move" the viewer. Often, for "artistic" images, the photograph's ability to evoke an emotional response is particularly important. These images are much more than simply depictive and need to do more than just show how clever you have been as a photographer. Of course, artistic images don't necessarily have to end up hanging on someone's wall, so these emotional responses don't necessarily have to be pleasurable.
 
-#### 31.1.1.3 Neuron Activation
+#### 1.1.3 Neuron Activation
 
 A number of studies in relation to these considerations have been done on the perception of beauty and appreciation of art. Neuroaesthetics is the fi eld that has emerged through combining neurological research with aesthetics. One proposal that has come from studies in this discipline is that pleasing sensations are derived from the repeated activation of certain neurons by that of primitive visual refl exes.
 
@@ -2215,7 +2215,7 @@ Above: A relatively abstract image: light patterns on the bottom of a swimming p
 
 The term's use in art and photography tends to be a relative one. In the extreme it involves imagery that bears absolutely no likeness to anything in the real world; it is unidentifi able. In photography it is often a result of closing in on details in a scene that would perhaps not normally be clearly available for the naked eye to examine. Consequently, the viewer is left struggling to formulate a sense of depth and scale.
 
-#### 31.1.1.4 Abstract Attractions
+#### 1.1.4 Abstract Attractions
 
 The discipline of neuroaesthetics is starting to reveal some insights as to why we can still be attracted to abstract images, even though they seem to have no clear relationship to the world around us. For example, it appears that the amygdala, a part of the brain that detects threats in our peripheral vision (among other things), is stimulated by such images and generates
 
@@ -2229,7 +2229,7 @@ It is interesting to ponder such fi ndings in relation to our notions of beauty.
 
 necessary for us to judge something fi rst to give it this label. We probably often base this judgment on our recognition of, and identifi cation with, the elegance that has gone into its composition. Much of this elegance corresponds with many of the mathematical sequences and derived ratios (such as the Golden Ratio) that we have discussed in this book.
 
-#### 31.1.1.5 Natural Sequences
+#### 1.1.5 Natural Sequences
 
 It is interesting that these also seem to be widespread in the natural world. Growth occurs in biological organisms by cell division. One cell becomes two, the two become four, and so on. However, each cell of the same generation does not necessarily divide at the same time, so one cell becomes two, one of these then divides before the other, producing three. Then the other cell divides, producing fi ve. Then 8, 13, and so on. This is the Fibonacci sequence that we met with early in this book.
 
@@ -2379,7 +2379,7 @@ Visual Weight A term used to describe the tendency an element in a picture has t
 
 For more information visit the author's web site: www.richardgarveywilliams.com or contact him by email at: richard@richardgarveywilliams.com
 
-#### 34.1.1.1 Equipment
+#### 0.1.1 Equipment
 
 www.dpreview.com Resource for photographic equipment: buying guide and reviews.
 
@@ -2413,7 +2413,7 @@ www.blurb.com or www.blurb.co.uk Create your own photographic books and albums.
 
 www.colorvision.com Datacolor display calibration and printer profi ling software and devices.
 
-#### 34.1.1.2 Software
+#### 0.1.2 Software
 
 www.breezesys.com or www.breezesys.co.uk Browser for viewing and manipulating images.
 
@@ -2425,7 +2425,7 @@ www.onOnesoftware.com Various software packages for image manipulation and resiz
 
 www.photoephemeris.com The Photographer's Ephemeris is a software app that enables you to see how the light will fall on the land, be it day or night, for almost anywhere on earth.
 
-#### 34.1.1.3 Associations
+#### 0.1.3 Associations
 
 www.naturephotographers.net The web site of the Nature Photographers Network™, an international cooperative network of amateur and professional photographers dedicated to the art and technique of nature, wildlife, and landscape photography.
 
@@ -2447,7 +2447,7 @@ www.rps.org The Royal Photographic Society is an association in the UK promoting
 
 www.talkphotography.co.uk Forums for members. www.photographycorner.com Resources and forums for members.
 
-#### 34.1.1.4 Index A abstract images 167, 168 abstracted phenomena 20 active space 20 Adams, Ansel 124 advancing colors 107 aerial perspective 98, 99 aesthetic merit 165 alignment 92 ambiguity, perceptual 130 ambiguous message 10 analysis bottom-up 17, 18 electrophysiological 18 middle-out 18 top-down 17, 18 angular shapes 88 anomaly 28, 29 arrangement, harmonious 11 artifi cial lighting 102 art, photography as 160–168 aspect ratio 58 associated phenomena 34–35 assumed/implied lines 76 attention channeling 79 visual 18 B backgrounds 152–153 backlighting 10 Bailey, David 45 balance 6, 50, 52, 54, 55 balancing elements 87 banana and apple exercise 54 Brück, Axel 11 burning 113 C center of gravity 47 channeling attention 79 chiaroscuro 93 chroma (color) 106 circles 88, 89 cloning tool 158 closure 24, 31, 128 cognitive psychology 17 color 106–111 brightness 111 constancy 34 defi nition 106 popping 102, 113 removing 6 wheel 108 colored fi lters 112 colors advancing 107 complementary 109 cool 107 harmonious 110 muted 110 numbers of 111 pastel 110 primary 110 secondary 110 weight of 108 complementary colors 109 complexity 18 composition 125 defi ning 11 dynamic 8 pyramid 52 triangle 87 compositional congestion 12 constancy 34 color 34 scale 34, 35 continuance 34, 130 continuity 24, 32, 128 contrast 105, 167 contrasting tone or color 11 converging lines 84, 100, 101 cool colors 107 counter forms 31 cropping 17, 18, 19, 43 exercise in 65 curved lines 84, 85 D data, visual 33 da Vinci, Leonardo 12 depictive photography 8 depth 6 sense of 100, 101, 141 diagonal lines 82, 83 Diagonal Method 6, 45, 141 directing the eye 132 direction 12 of light 97 directional lines 74 disharmony, sense of 70 displaying images 140 distance 12 distortions, correcting 158 dividing lines 81, 135 Divine Proportion 12, 42 Section 42 dodging 113 dominant shapes 86 drawing the attention 74 driving force, a defi nition 120 Dynamic Section 42 dynamism 70, 71, 82 E electrophysiological analysis 18 element 11 elements 43, 44 balancing 87 connecting 126 grouping of 35 key 12, 45 of design 72–73 off-center 51 relationship between 23 visual 12 emergence 35 emotional response 8 emotion, conveying 120 equivocation 34, 130 evaluating images 8 expression form of 8 in shape 90, 91 expressive therapy 8 eye directing the 132 focusing of 16 F Fibonacci, Leonardo 12 Fibonacci sequence 168 fi gure 78 photography 93 fi gure/ground 24, 25, 126 fi lters 125, 126, 154–155 colored 112 neutral density 154 polarizing 154 soft focus 155
+#### 0.1.4 Index A abstract images 167, 168 abstracted phenomena 20 active space 20 Adams, Ansel 124 advancing colors 107 aerial perspective 98, 99 aesthetic merit 165 alignment 92 ambiguity, perceptual 130 ambiguous message 10 analysis bottom-up 17, 18 electrophysiological 18 middle-out 18 top-down 17, 18 angular shapes 88 anomaly 28, 29 arrangement, harmonious 11 artifi cial lighting 102 art, photography as 160–168 aspect ratio 58 associated phenomena 34–35 assumed/implied lines 76 attention channeling 79 visual 18 B backgrounds 152–153 backlighting 10 Bailey, David 45 balance 6, 50, 52, 54, 55 balancing elements 87 banana and apple exercise 54 Brück, Axel 11 burning 113 C center of gravity 47 channeling attention 79 chiaroscuro 93 chroma (color) 106 circles 88, 89 cloning tool 158 closure 24, 31, 128 cognitive psychology 17 color 106–111 brightness 111 constancy 34 defi nition 106 popping 102, 113 removing 6 wheel 108 colored fi lters 112 colors advancing 107 complementary 109 cool 107 harmonious 110 muted 110 numbers of 111 pastel 110 primary 110 secondary 110 weight of 108 complementary colors 109 complexity 18 composition 125 defi ning 11 dynamic 8 pyramid 52 triangle 87 compositional congestion 12 constancy 34 color 34 scale 34, 35 continuance 34, 130 continuity 24, 32, 128 contrast 105, 167 contrasting tone or color 11 converging lines 84, 100, 101 cool colors 107 counter forms 31 cropping 17, 18, 19, 43 exercise in 65 curved lines 84, 85 D data, visual 33 da Vinci, Leonardo 12 depictive photography 8 depth 6 sense of 100, 101, 141 diagonal lines 82, 83 Diagonal Method 6, 45, 141 directing the eye 132 direction 12 of light 97 directional lines 74 disharmony, sense of 70 displaying images 140 distance 12 distortions, correcting 158 dividing lines 81, 135 Divine Proportion 12, 42 Section 42 dodging 113 dominant shapes 86 drawing the attention 74 driving force, a defi nition 120 Dynamic Section 42 dynamism 70, 71, 82 E electrophysiological analysis 18 element 11 elements 43, 44 balancing 87 connecting 126 grouping of 35 key 12, 45 of design 72–73 off-center 51 relationship between 23 visual 12 emergence 35 emotional response 8 emotion, conveying 120 equivocation 34, 130 evaluating images 8 expression form of 8 in shape 90, 91 expressive therapy 8 eye directing the 132 focusing of 16 F Fibonacci, Leonardo 12 Fibonacci sequence 168 fi gure 78 photography 93 fi gure/ground 24, 25, 126 fi lters 125, 126, 154–155 colored 112 neutral density 154 polarizing 154 soft focus 155
 
 dynamic
 
@@ -2556,6 +2556,6 @@ focus of eye 16 stacking 158
 
 To place an order, or request a catalog, contact:
 
-#### 34.1.1.5 **Ammonite Press**
+#### 0.1.5 **Ammonite Press**
 
 AE Publications Ltd, 166 High Street, Lewes, East Sussex, BN7 1XU, United Kingdom Tel: +44 (0)1273 488006 www.ammonitepress.com
