@@ -11,8 +11,6 @@ publisher: Touchstone
 status: false
 tags:
   - book
-cover: /ugly/images/9781476715094.jpg
-
 # [[null|]][[null|]]Introduction 引言
 
 # Winning Ugly in the 21st Century: The More Things Change, the More We Stay the Same
@@ -153,10 +151,6 @@ And speaking of getting better, Novak Djokovic offers an amazing lesson for all 
 >说到提升自己，诺瓦克·德约科维奇为我们所有人提供了一个令人惊叹的关于设定目标的课——也就是说，不要满足于低于你全部潜力的结果；不要变得舒服。也许在某个时候，德约科维奇也曾一度变得舒服了。
 
 Do you remember when he was the perennial #3 on tour—2007, [[null|]]2008, 2009, and 2010? Do you also remember that in December 2010 he led Serbia to victory against France in the finals of the Davis Cup championship? And then do you recall what happened? He couldn’t lose.
-
->你记得他在巡回赛中长期排名第三的那些年吗？2007年、2008年、2009年，还有2010年？你还记得2010年12月，他带领塞尔维亚在戴维斯杯决赛中击败法国夺冠的情景吗？然后你还记得接下来发生了什么吗？他似乎再也无法输掉比赛了。
-
-In 2011 he won ten tournaments, including the Australian Open, Wimbledon, and the U.S. Open, and set a world record for the most prize money in a single season ($12 million), which can happen when you win 41 matches in a row, second only to John McEnroe’s 42-match winning streak.
 
 >2011年，他赢得了十项赛事，包括澳大利亚公开赛、温布尔登锦标赛和美国公开赛，并创下了单赛季奖金最高的世界纪录（1200万美元）。这种情况通常发生在你连胜41场的时候，仅次于约翰·麦肯罗保持的42连胜纪录。
 
@@ -489,7 +483,6 @@ What I discovered by looking, listening, and losing was simple. The guys making 
 >通过观察、倾听和失败，我发现了非常简单的一个道理。那些赚到钱的选手们会在对手（比如我）甚至还未现身之前，就开始锁定目标。聪明的选手们一旦知道对手是谁，就会有意识或无意识地提前收集关于对手的信息。这个过程早在比赛前数小时就开始了。聪明的选手希望尽早寻找并抓住优势，而且他们希望用尽可能多的方式做到这一点。对他们来说，其中一个重要的机会就是良好的心理准备，而这意味着尽早进行心理准备。
 
 ## 3 When Does Your Warm-up Begin?
-
 >3 你的热身什么时候开始？
 
 Let me tell you when the warm-up doesn’t begin. It doesn’t begin when you arrive on the court. It may for your opponent, but it shouldn’t for you. A smart player starts to prepare for the match on the way to the match, or even before. The warm-up should continue on into the locker room and out onto the court.
@@ -514,7 +507,6 @@ That little five-minute warm-up you see before a match begins for the players on
 >你在比赛中看到的那短短五分钟热身，其实很可能是个误导。看起来我们只是拎着那个大包走上球场，击球几分钟，就准备开赛了。但对大多数人来说，这个过程其实从一整天就开始了——击球、拉伸、放松，按摩，最重要的是那番心理回顾。
 
 ## 4 The Pre-Match Mental Checklist
-
 >4 比赛前心理检查清单
 
 Whether I won or lost to a player in our last match, I want to think about the reasons. How did I beat him? What does he do with his shot selection and pattern? Does he attack? Is he a Retriever? Does he serve big? What’s his return of serve like? Did I make mistakes against him last time? What kind and why? What shots are his best? His worst? Was he forcing me to do something that bothered me? Does he start strong and get too cautious on pressure points? Was it a close match? Were the points long? I review everything that pertains to my opponent’s game (as far as strokes and shot tendencies are concerned).
@@ -527,21 +519,14 @@ It is also important to consider the “personality” of the game your opponent
 
 [[null|]]Prepare yourself mentally for the “stuff” certain players bring with them into the match. I want to be mentally and emotionally set for the fast play of Andre Agassi or the deliberate methodical match tempo of Ivan Lendl. I want to be ready for the temperamental outbursts of Connors and McEnroe or the stonefaces of Michael Chang or Jim Courier. It makes a big difference to me because I’m better able to control my own game plan, tempo, and composure if I know what’s likely to be happening on the other side of the net. Believe me, it can make a huge difference, as you’ll see later.
 
-## 5 The Game Plan
-
->5 比赛策略
+## 5 The Game Plan 比赛策略
 
 This process of review will lead me right into the equally important process of planning my strategy:
 
 >这个回顾过程将自然而然地引导我进入一个同样重要的环节——制定我的战略计划：
 
-1\. What do I want to make happen?
-
->1\. 我想要什么结果？
-
-2\. What do I want to prevent from happening?
-
->2\. 我想阻止什么发生？
+1\. What do I want to make happen? 我想要什么结果？
+2\. What do I want to prevent from happening? 我想阻止什么发生？
 
 By evaluating my opponent I start solidifying my own approach to the match. As I review their game style and strokes I’m preparing my basic game plan. If they broke down my backhand last time I’ll be thinking about how to prevent the same thing from happening this time. If their serve is weak I’m alerting myself and going over how to take advantage of that. I’m planning a specific approach for that specific player. All of this before I even see them at the court.
 
@@ -584,11 +569,9 @@ You’re thinking, “Hey, Brad. Gimme a break! I’ve got a life. I can’t be 
 >你可能会想：“嘿，布拉德，行了吧！我还有生活要过，不能一直想着网球。”没错，但我要说的这些，只需要在前往比赛的路上花不到十分钟的注意力，然后到了现场按照计划去做就可以了。也许你还能挤出这点时间，去对付那些你特别想击败的对手。如果你能让自己在比赛一开始就处于正确的状态，那你就有更大的机会在最后也保持正确的状态。这额外的注意力是值得的。
 
 Let me take you through my own mental preparation exactly as I’ve used it before important matches.
-
 >让我带你详细了解一下我之前在重要比赛中所使用的心理准备方法。
 
 ## 7 Preparation on Tour: Becker and Connors (Different Strokes for Different Folks)
-
 >7 巡回赛中的准备：贝克尔与康纳斯（因人而异）
 
 When I started seriously using my pre-match opportunities in this way I started winning more often. Let’s say my opponent in the round of 16 at the U.S. Open was Boris Becker (because it was). My own mental review before I got to the locker room at Flushing Meadow would go like this:
@@ -633,9 +616,7 @@ And, on his serve I tell myself, “Boris has a huge serve. Don’t try to do to
 
 >而在他发球时，我会告诉自己：“博里斯的发球非常强势，不要试图在发球上做太多文章。只需把球回击到场上，让他每一分多打一两个球。保持球在场上，这是我在对阵博里斯时的关键策略，让他不断跑动去接那些额外的球。贝克尔很容易沮丧，而我则想让他感到沮丧。当然，如果他频频打出ACE球，我就麻烦了，但我会告诉自己，在接下来的比赛中，我必须尽可能地在每一分中保持主动。保持冷静，要有耐心，不要急于求成。”
 
-## 8 [[null|]]Busting My Butt for Boris
-
->8 [[null|]]为博里斯拼命练球 /no_think
+## 8 [[null|]]Busting My Butt for Boris [[null|]]为博里斯拼命练球 
 
 I also think about the “personality” of the competition and the competitor ahead. Boris Becker is like a thoroughbred. His physicality, power, and movement are so pure that it can be intimidating. He’s big and he plays big. I get myself ready for any Becker match by reminding myself, “Don’t be impressed. Don’t let his presence be overwhelming. Keep your eye on your game plan and not on his game.” I have to do that or I’d take one look at what Becker brings onto the court and retire. (And that’s important in your own tennis. Don’t be impressed until after the match. Never before.)
 
@@ -1578,12 +1559,7 @@ Next: Your body is warmed up. Now warm up your strokes.
 
 
 
-# [[null|]][[null|]]4
-
->[[空|]][[空|]]4
-
-# The Microwave Warm-up: Defrost Your Strokes Quick
-
+# [[null|]][[null|]]4  Microwave Warm-up: Defrost Your Strokes Quick
 >微波热身：快速解冻你的击球动作
 
 As you move through the pre-match preparation to the beginning of play, you come to the last important element before the match starts: warming up your strokes. Most recreational tennis players waste or minimize this part of the pre-match routine because they don’t understand how much it can contribute to winning.
@@ -1614,9 +1590,7 @@ The warm-up is your final opportunity to set the stage for getting off to a good
 
 >热身是你最后的机会，为赢得一个好的开局做好准备，抢占先机，这可能会对整场比赛产生影响，并让你准备好发挥出最佳水平。为此阶段制定一个计划并严格执行。下面是具体怎么做。
 
-## 2 The Plan: Short and Simple
-
->2 计划：简短而简单
+## 2 The Plan: Short and Simple 计划：简短而简单
 
 The warm-up doesn’t have to be long, but there are three things you want to accomplish with it:
 
@@ -1742,9 +1716,7 @@ Finally, on this much overlooked but crucial part of the game, don’t be afraid
 >[!note]- 译者注：
 此处“club players”指业余球员或普通球员，而非专业选手。
 
-## 8 One Minute: The Serve
-
->8 分鐘：發球
+## 8 One Minute: The Serve  1分鐘：發球
 
 I want you to hit four serves to both courts, both wide and down the center. Most club players tend to hit just to the deuce court. I want you to hit to both courts for this reason. The service warm-up is aimed primarily at setting up a good comfortable motion for yourself early in the match so you don’t needlessly double-fault.
 
@@ -1764,9 +1736,7 @@ You want to help yourself as much as you can for that first service game. You wa
 >[!note]- 译者注：
 此处“ad court”指网球比赛中对方的发球区，因网球场地的“ad”（发球区）位置在右半场，故译为“对方发球区”。
 
-## 9 Thirty Seconds: Service Return
-
->9 秒三十：发球接发球
+## 9 Thirty Seconds: Service Return 三十秒：发球接发球
 
 When your opponent is hitting serves during the warm-up, don’t catch them, hit them back. Practice hitting their serve with a good service return. I believe it can be one of your most important weapons and it is seldom worked on. Work on it. And work on it in the warm-up. Hit some focused, rhythmic, and connected returns. Remember, this [[null|]]is probably the shot you’ll hit first (especially if you follow my later advice). The time to get it going is in the warm-up.
 
@@ -1808,11 +1778,7 @@ During the rally pay attention to how they move and how they strike the ball whe
 
 
 
-# [[null|]][[null|]]5
-
->[[空|]][[空|]]5
-
-# Four “Nervebusters”: Overcoming Pre-Match Nervousness
+# [[null|]][[null|]]5 # Four “Nervebusters”: Overcoming Pre-Match Nervousness
 
 >四招“神经杀手”：克服赛前紧张情绪
 
@@ -1850,25 +1816,13 @@ During the warm-up nerves will start affecting you immediately. Your feet don’
 
 >在热身时，紧张感会立刻影响到你。你的脚不想动，喘不过气来，动作变得僵硬，击球也变得生硬。我有四个非常简单且机械性的方法，可以在比赛前缓解紧张感。
 
-## 1 Gilbert’s Nerve Busters
+## 1 Gilbert’s Nerve Busters 格利尔的“神经轰炸”术
 
->1 格利尔的“神经轰炸”术
-
-## 2 1\. Breathe Like You’ve Got Asthma
-
->2 1\. 呼吸仿佛你得了哮喘
-
-When you get nervous your breathing pattern changes. It’s the first thing you should check. Your breathing tells you about the level of your anxiety. And, more important, your breathing can help you control your [[null|]]anxiety. When you’re nervous you take short, shallow, quick breaths. And that’s exactly how you feel. Everything is jumpy, racy, and out of sync when you get nervous.
-
->你一紧张，呼吸模式就会发生变化。这是你应该首先检查的。你的呼吸能告诉你焦虑的程度。更重要的是，你的呼吸还能帮助你控制焦虑。当你紧张时，你会呼吸得又短又浅，而且很快。而正是这种感觉，让你觉得一切都不对劲——紧张时，整个人都变得慌乱、兴奋，节奏也乱了。
-
-When that happens, control your breathing. Take smooth, rhythmic, deep breaths. You can start even before you’re on the court. Before a match that really has me tight I make sure that I’m breathing correctly—deep, smooth, rhythmic. I sound like I’ve got asthma, but it helps reduce my nervousness.
-
->当这种情况发生时，控制你的呼吸。深呼吸，节奏平稳，有规律地呼吸。你甚至可以在踏上球场之前就开始这么做。在那些让我非常紧张的比赛中，我一定会在比赛前确保自己呼吸正确——深、平稳、有节奏。听起来好像我得了哮喘，但这样做能有效缓解我的紧张情绪。
-
-## 3 2\. Get Happy Feet
-
->3 2\. 欢快脚步
+## 2 1\. Breathe Like You’ve Got Asthma >2 1\. 呼吸仿佛你得了哮喘
+ 
+ When you get nervous your breathing pattern changes. It’s the first thing you should check. Your breathing tells you about the level of your anxiety. And, more important, your breathing can help you control your [[null|]]anxiety. When you’re nervous you take short, shallow, quick breaths. And that’s exactly how you feel. Everything is jumpy, racy, and out of sync when you get nervous. >你一紧张，呼吸模式就会发生变化。这是你应该首先检查的。你的呼吸能告诉你焦虑的程度。更重要的是，你的呼吸还能帮助你控制焦虑。当你紧张时，你会呼吸得又短又浅，而且很快。而正是这种感觉，让你觉得一切都不对劲——紧张时，整个人都变得慌乱、兴奋，节奏也乱了。 When that happens, control your breathing. Take smooth, rhythmic, deep breaths. You can start even before you’re on the court. Before a match that really has me tight I make sure that I’m breathing correctly—deep, smooth, rhythmic. I sound like I’ve got asthma, but it helps reduce my nervousness.
+ >当这种情况发生时，控制你的呼吸。深呼吸，节奏平稳，有规律地呼吸。你甚至可以在踏上球场之前就开始这么做。在那些让我非常紧张的比赛中，我一定会在比赛前确保自己呼吸正确——深、平稳、有节奏。听起来好像我得了哮喘，但这样做能有效缓解我的紧张情绪。
+## 3 2\. Get Happy Feet >3 2\. 欢快脚步
 
 Let me tell you about footwork. It is the most important part of the game. It’s everything. And nerves can destroy it. Good footwork gets you to the right position in time. If you’re there in time you have options. If you have options you have a better chance of winning the point. You can slice the ball. You can hit over the ball. You can hit it early. But mainly you can hit it squarely. Options. The more options you have the less likely you are to be attacked effectively and the more likely you are to control the point. That’s what good footwork can do for you. Here’s what bad footwork can do to you.
 
@@ -1983,9 +1937,7 @@ Jimmy just sees the opportunity. He doesn’t focus on the pressure. He knows th
 
 >吉米只看到机会，他不会去想压力。他知道在最紧张的情况下，对自己职业生涯来说，最有益的其实是自己。而且，当有重大分胜负的时候，他反而更加兴奋。在大满贯赛事的赛点上，他[[null|]]快乐得不得了。对他来说，这一切都那么自然。对我们其他人来说就不那么自然了。试试我的“神经爆破术”，它们真的有效。
 
-## 8 Ready for the Contest
-
->8 准备迎战
+## 8 Ready for the Contest 准备迎战
 
 Now you’re ready to begin. You’re ready to take advantage of your opponent immediately when the match gets going. You’re ready to jump off to a dominating start; maybe up a break, with good rhythm, good concentration, a focus on your game plan, and confidence. Now let the games begin.
 
@@ -1997,11 +1949,7 @@ Next: A smart start to your match.
 
 
 
-# [[null|]][[null|]]6
-
->[[null|]][[null|]]6
-
-# Start Smart: Grabbing the Early Lead
+# [[null|]][[null|]]6 # Start Smart: Grabbing the Early Lead
 
 >聪明开局：抢占先机
 
@@ -2818,9 +2766,7 @@ The Heater
 
 >[!note]- 译注：此处“Heater”既指字面意义的加热器，也暗喻一种心理战术，即通过施加压力让对手情绪升温，从而在比赛中占据上风。
 
-## 5 [[null|]]The Retriever
-
->5 《追踪者》
+## 5 [[null|]]The Retriever 《追踪者》
 
 You know who the Retrievers are that you play. In fact, you may be one yourself. Don’t feel bad. I’ve been accused of being a Retriever myself occasionally. A match I played with Boris Becker in the semis of the 1989 Thriftway A.T.P. Championship in Cincinatti was described as “like watching a man chasing a chicken around with a stick.” I was the chicken. Boris had the stick.
 
@@ -2852,9 +2798,7 @@ A Retriever’s style of play can be very effective against an opponent who does
 
 >retriever 的打法对那些不会破解它或容易感到沮丧的对手非常有效。波比就属于后者。我们在辛辛那提的比赛快结束时，他只想离开球场，去拿点药缓解头痛。他甚至已经准备好认输了。
 
-The Club Variety Retriever
-
->俱乐部多样找回器 
+The Club Variety Retriever >俱乐部多样找回器 
 
 >[!note]- 该标题为原文中一个虚构的设备名称，译文中保留原意并采用直译方式，以符合中文读者的阅读习惯。
 
@@ -2884,9 +2828,7 @@ The average Retriever’s success is based on the same principles as Chinese wat
 
 >普通寻回犬的成功，其原理与中国的水刑如出一辙。它枯燥无味，重复乏味，节奏缓慢。同样的事情一遍又一遍地发生，最终会让你抓狂。寻回犬喜欢成为人类的“反弹板”——你把球打过去，它们立刻原路弹回来。它们能跑赢你，能站得比你稳，也能比你坚持得更久。你的脑子开始变得混乱。
 
-Prepare to Suffer
-
->准备承受痛苦
+Prepare to Suffer 准备承受痛苦
 
 If you’re going to the dentist you prepare yourself mentally. You tell yourself, “It’s gonna hurt, but it’ll be over soon.” You adopt a certain mind set. By the time you hear, “Open wide. This isn’t going to hurt a bit,” you’re mentally set to suffer. You need to do the same against a Retriever. Prepare to suffer. The right mind set is important. It may or may not help at the dentist’s office, but it will definitely help against the Retriever.
 
@@ -2904,9 +2846,7 @@ The Retriever’s game may be consistent, but it’s also limited. If you’re p
 
 >retriever 的打法虽然稳定，但也存在局限。如果你有足够的耐心，并且知道如何利用他们的弱点，就完全有可能将他们击溃。这正是张的情况。其他职业选手开始利用他的底线 retriever 风格来为自己谋利。他们逐渐抵消了他速度方面的优势（关于这一点我们后面还会详细讨论），并利用他单维度的打法。直到他发展出网前技术和提升发球质量，张才逐渐扭转局势。现在，他又开始赢球了。
 
-Why You Lose to a Retriever
-
->为什么你会输给“捡球手”
+Why You Lose to a Retriever为什么你会输给“捡球手”
 
 >[!note]- 译者注：
 此处“retriever”指在比赛中频繁回球、试图将比赛拖入长回合的对手，常被戏称为“捡球手”，意指其打法如同在捡球一样拖沓。
@@ -2925,9 +2865,7 @@ Having prepared yourself mentally for a long day at the office with points that 
 
 >你已经做好了心理准备，迎接一场漫长而胶着的办公室工作——现在让我们看看还有哪些策略能帮助你在对阵“推拉手”时占据上风。
 
-2\. GET TO THE NET
-
->2\. 赶紧上网
+2\. GET TO THE NET 赶紧上网
 
 Your primary goal when playing against a Retriever is to make them hit some real tennis shots. Instead of their usual “push it back” or “keep it in play” stuff you want to force them to try something specific. You want to get them out of their comfort zone. The first way to do it is by coming to the net. Even if that isn’t your normal game you must get to the net. That means when you get a short ball (even a medium short ball) get to the net. Go on the offense, but do it the right way. Not by [[null|]]trying to hit winners from the baseline or other low-percentage shots, but by coming to the net when the opportunity presents itself. And even sometimes when it doesn’t present itself.
 
@@ -3070,19 +3008,9 @@ But remember that it’s important with all of these tactics to use them intelli
 
 >但请记住，使用这些战术时，一定要明智且谨慎。当你发现某种方法奏效时，不要把它当作唯一的手段，而是将其与其他技术融合运用。让对手始终处于迷惑状态，不清楚你下一步会采取什么行动。这样，你的比赛结果自然会更好。
 
+# 9 The Seven Hidden Ad Points七个隐藏的发球点
 
-
-# [[null|]][[null|]]9
-
->[[null|]][[null|]]9
-
-# The Seven Hidden Ad Points
-
->七个隐藏的发球点
-
-## 1 Deadly Dynamics
-
->1 死亡动态
+## 1 Deadly Dynamics 死亡动态
 
 Recreational tennis players tend to consider most points and games in their match as being roughly equivalent. The second point of a game is about the same as the fourth point, 15–15 is no different from 30–30. The third game of the opening set is no different from one played at 4–all in the second set. With the exception of ad points it’s all pretty much the same on their scale of importance. (Note: For brevity ad points and break points are both referred to as ad points. Any point that can win a game for one of the players is called an ad point.)
 
@@ -3095,9 +3023,7 @@ But the differences in the impact specific points and games can have on the mome
 >[!note]- 译者注：
 此处“dynamic and volatile”意指比赛中的关键时刻具有高度变化性和不可预测性，因此翻译时采用“动态且易变”以保持原意。
 
-## 2 Ad Points Get Attention
-
->2 网前截击得分引人注目
+## 2 Ad Points Get Attention 网前截击得分引人注目
 
 We know that an ad point presents opportunity. The player who has one and converts it (wins it) secures a game. It’s the kind of opportunity that every player from Mack The Hack to the number one player in the world understands. On an ad point (especially for the set or match) you sweat, your heart starts pumping, and your blood pressure [[null|]]rises. At least it should. Most players wake up for an ad point (even the very first one) because a game is on the line, for them or their opponent.
 
@@ -3123,21 +3049,15 @@ These undervalued swing points and games can have a tremendous impact on the out
 
 >这些被低估的得分点和局数，如果你能意识到它们的重要性，会对比赛结果产生巨大影响。只要你做到在这些关键时刻能够识别出来（而它们发生的频率其实很高），你就已经为自己赢得了显著的优势。如果你能以聪明的方式去应对这些局面，你的获胜率将会大幅提升。
 
-## 4 [[null|]]Your Tennis Security System
-
->4 你的网球安全系统
+## 4 [[null|]]Your Tennis Security System 你的网球安全系统
 
 When those moments arrive an alarm goes off inside me. Just as getting off to a dominant start can have a great effect on what follows, I know that these hidden, or overlooked, opportunities can also greatly influence the outcome. I want to recognize them when they arrive, be alert, and capitalize on them as best I can. Here are the ones I’ve singled out over the years as being especially important to me, opportunities where I don’t want my mind to drift, where I want to be totally engaged and play smart tennis.
 
 >当这些时刻到来时，我的内心会发出警报。就像一个强势的开局对接下来的比赛有着巨大影响一样，我也深知这些隐匿的、被忽视的机会同样能够极大地影响比赛结果。我希望在这些机会出现时能够及时识别，保持警觉，并尽可能地加以利用。以下是我多年来特别重视的一些机会，这些时刻我不想让思绪游离，而是希望全神贯注，打出聪明的网球。
 
-The Seven Hidden Ad Points
+The Seven Hidden Ad Points 七个隐藏的发球点
 
->七个隐藏的发球点
-
-1\. The Set-up Point
-
->1\. 比分点
+1\. The Set-up Point  比分点
 
 2\. The Set-up Game
 
@@ -3155,21 +3075,15 @@ The Seven Hidden Ad Points
 
 >5\. 防止比赛溜走
 
-6\. Tiebreaker Tactics
+6\. Tiebreaker Tactics 决胜局策略
 
->6\. 拖分决胜局策略
-
-7\. Closing Out a Match
-
->7\. 收官一局
+7\. Closing Out a Match 收官一局
 
 These are specific situations that come up, must be recognized, and need my full attention. Let’s translate.
 
 >这些都是具体的情境，会出现、必须被识别，并需要我全神贯注。让我们开始翻译。
 
-## 5 1\. The Set-up Point
-
->5 1\. 比分点
+## 5 1\. The Set-up Point 比分点
 
 For some pros (the ones not making any money) and most recreational players there are two kinds of points: ad points and all the rest. Wrong. I treat the point that can get me or my opponent to an ad point as a major moment because it offers a major reward. That reward is the opportunity to win (or convert) a game. I call any point that precedes an ad point a Set-up Point. The point played at love–30, 30–love, 15–30, 30–15, 30–30, and deuce are all Set-up Points for one or both players.
 
@@ -3195,9 +3109,7 @@ Now is when you make sure your mind is focused, your body prepared, and your pla
 
 >现在，你要确保自己的心态专注、身体准备就绪，计划也已就位。这是你让他们措手不及的时候。
 
-RULE 1: GET IT IN OR GET IT BACK!
-
->规则一：打进区，或者打回去！
+RULE 1: GET IT IN OR GET IT BACK! 规则一：打进区，或者打回去！
 
 When a Set-up Point arrives (either for me or the other player) I pay attention. The primary goal I have in mind is this: Get it in or get it back! That means if I’m serving I want to get the ball in. If I’m receiving I want to get the ball back, and preferably to a spot that forces my opponent to hit a weaker shot. And it’s even more important at 30–30 [[null|]]or deuce. These points require more caution. Or, to put it another way, they require less casualness or carelessness.
 
@@ -3262,16 +3174,13 @@ When a Set-up Game arrives (especially at 4–all or 5–all) a flashing red lig
 >当一盘进入“发球局”（尤其是比分来到4-4或5-5时），你的脑海中应该立刻亮起一盏红色警示灯，发出信号：“注意！局势已经升级。不要掉以轻心。保持警觉。机会正在召唤你。” 此时你的专注程度必须大幅提升。每一分都至关重要，每一分都会对胜负产生更大的影响。
 
 THE “CRITICAL” SEVENTH GAME ISN’T SO CRITICAL
-
->“关键”的第七盘并不那么关键 /no_think
+>“关键”的第七盘并不那么关键 
 
 Here’s one of the reasons I don’t agree with the common notion that the seventh game is such a critical game in a set. It is critical if it moves one player to within four points (one game) of the set. This it can do at 4–2 or 2–4. But it doesn’t have nearly that importance at 3–3 at the club level. The “critical” game of the set for me is the Set-up Game, which moves one player to within striking distance of winning the set.
 
 >这里是我不同意“第七盘是每盘比赛中最关键的一盘”这一常见观点的一个原因。如果第七盘能让一名球员距离赢得该盘仅差四分（即一盘），那么它确实至关重要。它可以在4比2或2比4时实现这一点。但在俱乐部水平的比赛中，当比分是3比3时，这一盘的重要性就远远没有那么大了。对我而言，每盘比赛中最关键的一盘是“开局盘”（Set-up Game），也就是能让一名球员接近赢得整盘比赛的那一盘。
 
-PLAY LIKE A BOA CONSTRICTOR
-
->像蟒蛇一样打球 
+PLAY LIKE A BOA CONSTRICTOR 像蟒蛇一样打球 
 
 >[!note]- 译者注：
 此标题意为像蟒蛇一样悄无声息、极具压迫感地掌控比赛节奏，而非字面意思的“像蟒蛇一样”
@@ -3288,9 +3197,7 @@ Most of the time in recreational tennis Set-up Points and Set-up Games are playe
 
 >在休闲网球比赛中，大多数时候发球局和抢发球局都打得比较随意，很少有人认真对待它们的重要性。一名意识到这些局面潜在价值的球员往往只需要把球过网即可。对手由于粗心大意的击球和思维混乱，往往会轻易地让出这些分数。
 
-## 7 3\. The Dictate Games
-
->7 3\. 指挥型比赛
+## 7 3\. The Dictate Games 指挥型比赛
 
 The first two games of the second set (in a best-of-three match) are my Dictate Games. It’s when a player has an opportunity to continue their dominance over the other player after winning the first set, or to reestablish their presence in the match if they’ve lost the set. Here’s what I mean.
 
@@ -3312,9 +3219,7 @@ For your part, it’s critical that you continue the momentum you’ve [[null|]]
 
 >对你来说，关键是要延续你在赢下第一盘后所创造的势头。从第二盘一开始，你就想要压制他们，把他们所有翻盘的希望彻底扼杀。他们正充满动力和精力，渴望迅速击溃你，尽快扭转局势。他们认为自己可以做到，当然他们会这么想。一个优秀的竞争者总是相信自己能够扭转局势。你想要戳破他们的这种幻想。而在新的这一盘中，无论是早早失利还是早早取胜，都会对他们的态度和表现造成最直接的打击（或帮助）。
 
-The Dog in a Player
-
->球员心中的“狗” /no_think
+The Dog in a Player 球员心中的“狗” 
 
 Competitive spirit is an interesting quality in a player. Everyone has it, some more than others. Your job is to squash that spirit in the other player, to destroy any idea they might have of beating you on that day. But even quitters usually have a little fight left in them. They think they can win. It’s just that it doesn’t take much to convince them otherwise. A cloudy day can be enough to discourage them. With quitters that first set loss may be all the convincing they need. With most others it takes more to get them thinking “I’m gonna lose today.” How much more you don’t know.
 
@@ -3443,9 +3348,7 @@ Those early games of the second set can make winning the match easier if you’v
 
 >（我承认，有时第三盘刚开始时也会带来和第二盘开始时一样的危险或机会。1993年我在沃尔沃/旧金山网球赛决赛中对阵阿加西。他赢下了第一盘，第二盘本该也赢下，但我奋力反击，赢下了抢七，尽管他在抢七中曾获得过几个赛点。他立刻在第三盘第一局就破了我的发球局，部分原因是我稍微放松了警惕。我当时还活着，已经非常开心了。从那之后，他便乘胜追击，轻松取胜。我在第三盘刚开始时让自己变得脆弱，他便趁虚而入。但通常这种情况发生在第二盘刚开始的时候。）
 
-## 8 4\. Stretching a Lead
-
->8 4\. 拉开比分
+## 8 4\. Stretching a Lead 拉开比分
 
 Holding a lead once you’ve broken serve is often more difficult than getting the lead in the first place. Actually increasing the lead is really tough. Again it has to do with the psychology involved. It’s the habit most of us have of getting comfortable after we’ve achieved something, whether it’s winning a set or breaking serve. But this is the time when the alert player will get their head right back into the game.
 
@@ -3496,9 +3399,7 @@ Here’s my antirushing device. I’ll pick out a spot on the back wall (in fron
 
 >我的“防急躁装置”就是这样的：我会在后墙（ spectator seats 前方）选一个点，或者在底线后五到十英尺处选一个标记。每一分之间，我会真正走到那个点，用球拍或手去触碰它，或者至少看一下。我走回去触碰它，然后再回到底线。这能防止我仓促地进入下一拍。当我领先时，我尤其要避免轻敌。
 
-THE BEST AT STRETCHING A LEAD
-
->最擅长扩大优势的高手 
+THE BEST AT STRETCHING A LEAD >最擅长扩大优势的高手 
 
 >[!note]- 译者注：
 此标题意指那些最擅长在比赛中扩大领先优势的选手，译为“最擅长扩大优势的高手”既保留原意，又符合中文表达习惯。

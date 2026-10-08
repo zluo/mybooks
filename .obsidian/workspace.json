@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "972a935a3a88d3d6",
+        "id": "e2a5a2424d157a14",
         "type": "tabs",
         "children": [
           {
-            "id": "81a2c17448dbb337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "ff5e9167a904d9d9",
+            "id": "c52d5c0cb015e189",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "ugly_zh_qwen3"
+            }
+          },
+          {
+            "id": "8ebd00ea3cb0c51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top_GUN_1986/Top_Gun_1986_zh_qwen3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Top_Gun_1986_zh_qwen3"
             }
           }
         ],
@@ -106,7 +106,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -125,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 327.21303939819336
   },
   "right": {
     "id": "b2a3ff4554279460",
@@ -238,7 +241,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
@@ -265,8 +267,16 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "ff5e9167a904d9d9",
+  "active": "8ebd00ea3cb0c51d",
   "lastOpenFiles": [
+    "Top_GUN_1986/Top_Gun_1986_zh_qwen3_log.md",
+    "Top_GUN_1986/Top_Gun_1986_zh_qwen3.md",
+    "Top_GUN_1986/Top_Gun_1986.md",
+    "Top_GUN_1986/Top_Gun_1986_qwen3.lock",
+    "winning_ugly/ugly_zh_qwen3.md",
+    "Top_GUN_1986",
+    "README.md",
+    "Untitled.md",
     "Mastering_Composition/Mastering_Composition_Chapter_5.md",
     "Mastering_Composition/Mastering_Composition_Chapter_4.md",
     "Mastering_Composition/Mastering_Composition_Chapter_3.md",
@@ -274,11 +284,9 @@
     "Mastering_Composition/Mastering_Composition_Chapter_1.md",
     "Mastering_Composition/MASTERING_COMPOSITION_Preface.md",
     "winning_ugly/ugly.md",
-    "winning_ugly/ugly_zh_qwen3.md",
     "Untitled 2.md",
     "A Tale of Two Cities.md",
     "incredulity.md",
-    "Untitled.md",
     "A Tale of Two Cities",
     "lady chatterley's lover/Lady chatterley's lover.md",
     "vocabulary/on leave.md",
@@ -292,19 +300,12 @@
     "Mastering_Composition/Mastering_Composition_Chapter_3_zh.md",
     "Mastering_Composition/Mastering_Composition.md",
     "Mastering_Composition/Master_Composition_Content_zh.md",
-    "Mastering_Composition/Master_Composition_Preface_zh.md",
-    "Mastering_Composition/Mastering_Composition_Chapter_4_zh.md",
-    "Mastering_Composition/Mastering_Composition_Chapter_6_zh.md",
-    "Gone With The Wind/chapter_5.md",
-    "foundations-of-landscape-architect/foundations-of-landscape-architect.md",
     "arts/philosophy_of_arts/philosopy_of_arts.pdf",
     "Organic-Chemistry/Organic-Chemistry.pdf",
     "Drawing_Trees_and_Nature/_page_71_Picture_0.jpeg",
     "Drawing_Trees_and_Nature/_page_72_Picture_5.jpeg",
     "MasteringtheArtofFrenchCookingVolume1/MasteringtheArtofFrenchCookingVolume1.pdf",
     "Atomic_habits/Atomic_habits.pdf",
-    "manhattan_prep_1000_gre_words_/manhattan_prep_1000_gre_words_.pdf",
-    "arts/philosophy_of_arts/philosopy_of_arts/philosopy_of_arts_meta.json",
     "arts/philosophy_of_arts/philosopy_of_arts/_page_3_Picture_3.jpeg",
     "arts/philosophy_of_arts/philosopy_of_arts/_page_0_Picture_3.jpeg"
   ]
